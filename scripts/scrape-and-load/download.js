@@ -14,7 +14,7 @@ export default async function downloadNetfile({ agencyId, year }) {
         return page
     }
     const downloadPageUrl = `https://public.netfile.com/pub2/Default.aspx?aid=${agencyId}`
-    const browser = await puppeteer.launch({ headless: true })
+    const browser = await puppeteer.launch({ headless: true, timeout: 60000 })
     const page = await browser.newPage()
 
     await goToUrl(downloadPageUrl)
