@@ -17,26 +17,36 @@ export default async function downloadNetfile({ agencyId, year }) {
     const browser = await puppeteer.launch({ headless: true, timeout: 60000 })
     const page = await browser.newPage()
 
+    console.log('a', agencyId)
     await goToUrl(downloadPageUrl)
+    console.log('b', agencyId)
     await page.goto(downloadPageUrl)
 
     if (page.url() !== downloadPageUrl) {
         await page.goto(downloadPageUrl)
     }
 
+    console.log('c', agencyId)
+
     await page._client.send("Page.setDownloadBehavior", {
         behavior: "allow",
         downloadPath,
     })
 
+    console.log('d', agencyId)
+
     await page.waitForSelector("#ctl00_phBody_DateSelect")
+    console.log('e', agencyId)
     await page.select("#ctl00_phBody_DateSelect", year)
+    console.log('f', agencyId)
     await page.click("#ctl00_phBody_GetExcel")
+    console.log('g', agencyId)
 
     // instead of trying to figure out if the file is done
     // downloading, let's just wait 5 seconds and see if
     // that works for now. shrug
     // const fileName = `${aid}-${year}.zip`
     await page.waitForTimeout(15000)
+    console.log('h', agencyId)
     await browser.close()
 }
