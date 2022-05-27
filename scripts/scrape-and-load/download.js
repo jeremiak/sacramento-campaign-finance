@@ -37,6 +37,6 @@ export default async function downloadNetfile({ agencyId, year }) {
     // downloading, let's just wait 5 seconds and see if
     // that works for now. shrug
     // const fileName = `${aid}-${year}.zip`
-    await page.waitForTimeout(5000)
+    await page.waitForTimeout(15000)
     await browser.close()
 }
