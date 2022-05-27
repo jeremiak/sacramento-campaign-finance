@@ -1,9 +1,9 @@
 <script>
-  import { orderBy } from 'lodash'
+  import _ from 'lodash'
   export let data = null
 
   function sortContributors(contributors) {
-    return orderBy(contributors, ['total', 'contributor'], ['desc', 'asc'])
+    return _.orderBy(contributors, ['total', 'contributor'], ['desc', 'asc'])
   }
 </script>
 
