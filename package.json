@@ -1,0 +1,42 @@
+{
+    "name": "sacramento-campaign-finance",
+    "version": "1.0.0",
+    "description": "Data and graphics about the money in Sacramento elections",
+    "main": "index.js",
+    "scripts": {
+        "dev": "svelte-kit dev",
+        "build": "NODE_OPTIONS=--max_old_space_size=4096 svelte-kit build",
+        "preview": "svelte-kit preview",
+        "lint": "prettier --ignore-path .gitignore  --check --plugin-search-dir=. . && eslint --ignore-path .gitignore .",
+        "format": "prettier --ignore-path .gitignore --write --plugin-search-dir=. .",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "@jeremiak",
+    "license": "CC-BY-SA",
+    "dependencies": {
+        "@prisma/client": "^3.14.0",
+        "convert-excel-to-json": "^1.7.0",
+        "d3-time-format": "^3.0.0",
+        "isomorphic-fetch": "^3.0.0",
+        "p-queue": "^7.2.0",
+        "progress": "^2.0.3",
+        "puppeteer": "^14.1.1"
+    },
+    "devDependencies": {
+        "@rollup/plugin-dsv": "^2.0.3",
+        "@sveltejs/adapter-netlify": "^1.0.0-next.62",
+        "@sveltejs/kit": "^1.0.0-next.345",
+        "eslint": "^8.16.0",
+        "eslint-config-prettier": "^8.5.0",
+        "eslint-plugin-svelte3": "^4.0.0",
+        "lodash": "^4.17.21",
+        "prettier": "^2.6.2",
+        "prettier-plugin-svelte": "^2.7.0",
+        "prisma": "^3.14.0",
+        "sass": "^1.52.1",
+        "svelte": "^3.48.0",
+        "svelte-preprocess": "^4.10.6"
+    },
+    "type": "module"
+}
