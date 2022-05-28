@@ -24,7 +24,30 @@ async function fetchCommittees() {
     return committees
 }
 
-async function aggregateByCommittee(committeeId) {
+async function fetchIEs() {
+    const expenditures = await prisma.independentExpenditure.findMany({
+        include: {
+            filer: true
+        }
+    })
+    const normalized = expenditures.map(expenditure => {
+        const { candidateLastName } = expenditure
+        let normalizedCandidateLastName = candidateLastName
+
+        if (candidateLastName === 'PATRICK HUME') {
+            normalizedCandidateLastName = 'Pat Hume'
+        }
+
+        return {
+            ...expenditure,
+            candidateLastName: normalizedCandidateLastName
+        }
+    })
+
+    return normalized
+}
+
+async function aggregateContributorsByCommittee(committeeId) {
     const results = await prisma.scheduleAContribution.findMany({
         where: {
             filer: {
@@ -97,18 +120,34 @@ async function main() {
     const q = new Queue({ concurrency: 1 })
     const committees = await fetchCommittees()
     const data = []
+    const ies = await fetchIEs()
 
     committees.forEach(committee => {
         q.add(async() => {
             const fppcId = committee['fppc id']
-            const contributors = await aggregateByCommittee(fppcId)
+            const contributors = await aggregateContributorsByCommittee(fppcId)
             const total = contributors.reduce((accum, next) => {
                 return accum + next.total
             }, 0)
+            const ie = ies.filter(d => d.candidateLastName === committee['name']).map(d => {
+                const { amount, date, description, position, candidateLastName: candidate } = d
+                const { name: spenderName, id: spenderId } = d.filer
+
+                return {
+                    spenderName,
+                    spenderId,
+                    amount,
+                    date,
+                    candidate,
+                    position,
+                    description,
+                }
+            })
             const d = {
                 ...committee,
                 total,
-                contributors
+                contributors,
+                ie
             }
             data.push(d)
         })
