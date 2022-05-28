@@ -183,6 +183,7 @@ async function createOrIgnoreScheduleA(contribution, agency) {
                 },
             },
         })
+        console.log(`Saved contribution ${contributionId}`)
     } catch (e) {
         if (e.code === "P2002") {
             // uniqueness constraint failed, transaction already added
@@ -192,7 +193,6 @@ async function createOrIgnoreScheduleA(contribution, agency) {
         console.error(e)
     }
 
-    console.log(`Saved contribution ${contributionId}`)
 }
 
 async function createOrIgnoreScheduleC(contribution, agency) {
