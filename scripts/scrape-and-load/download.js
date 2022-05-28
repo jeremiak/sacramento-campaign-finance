@@ -54,7 +54,4 @@ export default async function downloadNetfile({ agencyId, year }) {
     console.log('h', agencyId)
     await browser.close()
     return
-} catch (e) {
-    console.error(`ERR`, e)
-}
 }
