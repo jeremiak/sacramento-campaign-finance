@@ -5,6 +5,14 @@
   function sortContributors(contributors) {
     return _.orderBy(contributors, ['total', 'contributor'], ['desc', 'asc'])
   }
+
+  function filterOutZeros(contributors) {
+    return contributors.filter(d => d.total !== 0)
+  }
+
+  function processContributors(contributors) {
+    return sortContributors(filterOutZeros(contributors))
+  }
 </script>
 
 <section>
@@ -19,7 +27,7 @@
         </div>
         <div class="candidate-contributors">
           <ul class="contributors">
-            {#each sortContributors(candidate.contributors) as contributor}
+            {#each processContributors(candidate.contributors) as contributor}
               <li class="contributor">
                 <div class="contributor-info">
                   <div class="contributor-name">
