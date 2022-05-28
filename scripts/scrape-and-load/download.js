@@ -18,7 +18,8 @@ export default async function downloadNetfile({ agencyId, year }) {
         await page.goto(downloadPageUrl)
 
         if (page.url() !== downloadPageUrl) {
-            await page.goto(downloadPageUrl)
+            console.log('bb')
+            await page.goto(downloadPageUrl, { timeout: 60000 })
         }
 
         console.log('c', agencyId)
