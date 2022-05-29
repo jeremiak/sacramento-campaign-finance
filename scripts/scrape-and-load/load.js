@@ -381,6 +381,98 @@ async function createOrIgnoreScheduleE(payment, agency) {
     console.log(`Saved payment ${paymentId}`)
 }
 
+async function createOrIgnoreLateContribution(contribution, agency) {
+    const {
+        A: fppcId,
+        B: filerName,
+        C: reportNumber,
+        D: committeeType,
+        E: reportDate,
+        F: reportFromDate,
+        G: reportThruDate,
+        K: transactionId,
+        L: contributorType,
+        M: contributorLastName,
+        N: contributorFirstName,
+        Q: contributorAddress1,
+        R: contributorAddress2,
+        S: contributorCity,
+        T: contributorState,
+        U: contributorZip,
+        V: contributorOccupation,
+        W: contributorEmployer,
+        X: contributorSelfEmployed,
+        Z: date,
+        AB: amount,
+        AC: contributorCommitteeId,
+    } = contribution
+
+    const contributionId = getTransactionId({
+        agencyStringId: agency.stringId,
+        fppcId,
+        reportNumber,
+        reportDate,
+        transactionId,
+    })
+
+    const filer = await findOrCreateFiler({
+        committeeType,
+        id: fppcId,
+        name: filerName,
+    })
+    const matchingAgency =
+        filer.agencies &&
+        filer.agencies.find((a) => {
+            return a.stringId === agency.id
+        })
+    if (!matchingAgency) {
+        await connectFilerToAgency(filer, agency)
+    }
+
+
+    try {
+        await prisma.lateContribution.create({
+            data: {
+                id: contributionId,
+                transactionId,
+                date: formatDate(date),
+                amount,
+                contributorType: entityTypeMapping[contributorType],
+                contributorCommitteeId,
+                contributorLastName,
+                contributorFirstName,
+                contributorAddress1,
+                contributorAddress2,
+                contributorCity,
+                contributorState,
+                contributorZip: contributorZip.replace(/-$/, ""),
+                contributorOccupation,
+                contributorEmployer,
+                contributorSelfEmployed: contributorSelfEmployed === "y",
+                reportNumber: +reportNumber,
+                reportDate: formatDate(reportDate),
+                reportFromDate: formatDate(reportFromDate),
+                reportThruDate: formatDate(reportThruDate),
+                filer: {
+                    connect: { id: filer.id },
+                },
+                agency: {
+                    connect: { id: agency.id },
+                },
+            },
+        })
+        console.log(`Saved contribution ${contributionId}`)
+    } catch (e) {
+        if (e.code === "P2002") {
+            // uniqueness constraint failed, transaction already added
+            return
+        }
+
+        console.error(e)
+    }
+
+}
+
 async function createOrIgnoreIndependentExpenditure(independentExpenditure, agency) {
     const {
         A: fppcId,
@@ -505,7 +597,7 @@ export default async function loadNetfile({ agencyName, agencyId, year }) {
         header: {
             rows: 1,
         },
-        sheets: ["A-Contributions", "C-Contributions", "E-Expenditure", "496"],
+        sheets: ["A-Contributions", "C-Contributions", "E-Expenditure", "496", "497"],
     })
 
     const agency = await findOrCreateAgency({
@@ -534,6 +626,12 @@ export default async function loadNetfile({ agencyName, agencyId, year }) {
     data['496'].forEach((independentExpenditure) => {
         queue.add(async() => {
             await createOrIgnoreIndependentExpenditure(independentExpenditure, agency)
+        })
+    })
+
+    data['497'].forEach((contribution) => {
+        queue.add(async() => {
+            await createOrIgnoreLateContribution(contribution, agency)
         })
     })
 

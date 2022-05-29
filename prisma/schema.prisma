@@ -17,9 +17,10 @@ model MunicipalAgency {
   stringId               String
   url                    String?
   filers                 Filer[]
-  ScheduleAContributions ScheduleAContribution[]
-  ScheduleCContribution  ScheduleCContribution[]
-  ScheduleEPayment       ScheduleEPayment[]
+  scheduleAContributions ScheduleAContribution[]
+  scheduleCContribution  ScheduleCContribution[]
+  scheduleEPayment       ScheduleEPayment[]
+  lateContributions       LateContribution[]
   independentExpenditures IndependentExpenditure[]
 }
 
@@ -32,6 +33,7 @@ model Filer {
   scheduleAContributions ScheduleAContribution[]
   scheduleCContributions  ScheduleCContribution[]
   scheduleEPayments       ScheduleEPayment[]
+  lateContributions       LateContribution[]
   independentExpenditures IndependentExpenditure[]
 }
 
@@ -122,6 +124,39 @@ model ScheduleEPayment {
   payeeState        String?
   payeeZip          String?
   payeeCommitteeId  String?
+
+  reportNumber   Int?
+  reportDate     String?
+  reportFromDate String?
+  reportThruDate String?
+
+  filer   Filer  @relation(fields: [filerId], references: [id])
+  filerId String
+
+  agency   MunicipalAgency @relation(fields: [agencyId], references: [id])
+  agencyId String
+}
+
+model LateContribution {
+  id        String   @id @default(uuid())
+  createdAt DateTime @default(now())
+
+  transactionId String?
+  date          String
+  amount        Float
+
+  contributorType         String
+  contributorCommitteeId  String?
+  contributorLastName     String
+  contributorFirstName    String
+  contributorAddress1     String?
+  contributorAddress2     String?
+  contributorCity         String?
+  contributorState        String?
+  contributorZip          String?
+  contributorOccupation   String?
+  contributorEmployer     String?
+  contributorSelfEmployed Boolean?
 
   reportNumber   Int?
   reportDate     String?

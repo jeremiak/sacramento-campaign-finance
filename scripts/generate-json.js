@@ -1,3 +1,4 @@
+import _ from 'lodash'
 import { promises as fs } from 'fs'
 import fetch from 'isomorphic-fetch'
 import Queue from 'p-queue'
@@ -48,12 +49,29 @@ async function fetchIEs() {
 }
 
 async function aggregateContributorsByCommittee(committeeId) {
-    const results = await prisma.scheduleAContribution.findMany({
+    const scheduleA = await prisma.scheduleAContribution.findMany({
         where: {
             filer: {
                 id: committeeId
             }
         }
+    })
+    const late = await prisma.lateContribution.findMany({
+        where: {
+            filer: {
+                id: committeeId
+            }
+        }
+    })
+    const results = [
+        ...scheduleA
+    ]
+
+    late.forEach(lateContribution => {
+        const scheduleAMatch = scheduleA.find(d => d.transactionId === lateContribution.transactionId)
+        if (scheduleAMatch) return
+
+        results.push(lateContribution)
     })
 
     function slimContributor(contributor) {
@@ -147,10 +165,7 @@ async function main() {
                     spenderName,
                     spenderId,
                     amount,
-                    date,
-                    candidate,
                     position,
-                    description,
                 } = next
                 const match = accum.find(d => d.spenderId === spenderId)
 
