@@ -1,5 +1,5 @@
 {
-  "generated": null,
+  "generated": "2022-05-29T04:26:21.119Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -1677,7 +1677,8 @@
             }
           ]
         }
-      ]
+      ],
+      "ie": []
     },
     {
       "fppc id": "1443822",
@@ -5359,7 +5360,8 @@
             }
           ]
         }
-      ]
+      ],
+      "ie": []
     },
     {
       "fppc id": "1442529",
@@ -10933,7 +10935,8 @@
             }
           ]
         }
-      ]
+      ],
+      "ie": []
     },
     {
       "fppc id": "1443312",
@@ -22903,6 +22906,14 @@
             }
           ]
         }
+      ],
+      "ie": [
+        {
+          "spenderId": "1400377",
+          "spenderName": "Alliance to Support the Middle Class",
+          "position": "S",
+          "total": 32552.84
+        }
       ]
     },
     {
@@ -33149,7 +33160,8 @@
             }
           ]
         }
-      ]
+      ],
+      "ie": []
     },
     {
       "fppc id": "1435034",
@@ -36083,7 +36095,8 @@
             }
           ]
         }
-      ]
+      ],
+      "ie": []
     },
     {
       "fppc id": "1444633",
@@ -38525,6 +38538,20 @@
             }
           ]
         }
+      ],
+      "ie": [
+        {
+          "spenderId": "1400377",
+          "spenderName": "Alliance to Support the Middle Class",
+          "position": "S",
+          "total": 68308.36
+        },
+        {
+          "spenderId": "840819",
+          "spenderName": "Sacramento Metropolitan Chamber Political Action Committee",
+          "position": "S",
+          "total": 25000
+        }
       ]
     },
     {
@@ -40311,7 +40338,8 @@
             }
           ]
         }
-      ]
+      ],
+      "ie": []
     },
     {
       "fppc id": "1422227",
@@ -42349,7 +42377,8 @@
             }
           ]
         }
-      ]
+      ],
+      "ie": []
     },
     {
       "fppc id": "1438612",
@@ -43411,7 +43440,8 @@
             }
           ]
         }
-      ]
+      ],
+      "ie": []
     },
     {
       "fppc id": "1409487",
@@ -48257,7 +48287,8 @@
             }
           ]
         }
-      ]
+      ],
+      "ie": []
     },
     {
       "fppc id": "1435592",
@@ -62871,6 +62902,14 @@
             }
           ]
         }
+      ],
+      "ie": [
+        {
+          "spenderId": "1331609",
+          "spenderName": "Communities for a New California PAC for Mathews for District Attorney 2022",
+          "position": "S",
+          "total": 69771.95999999999
+        }
       ]
     },
     {
@@ -62880,7 +62919,8 @@
       "office": "District Attorney",
       "district": "",
       "total": 0,
-      "contributors": []
+      "contributors": [],
+      "ie": []
     },
     {
       "fppc id": "1437445",
@@ -89966,6 +90006,20 @@
             }
           ]
         }
+      ],
+      "ie": [
+        {
+          "spenderId": "1405176",
+          "spenderName": "Californians for a Growing Economy and Safe Streets",
+          "position": "S",
+          "total": 164566
+        },
+        {
+          "spenderId": "781626",
+          "spenderName": "Sacramento County Deputy Sheriffs Association Political Action Committee",
+          "position": "S",
+          "total": 1318.86
+        }
       ]
     },
     {
@@ -108216,6 +108270,14 @@
             }
           ]
         }
+      ],
+      "ie": [
+        {
+          "spenderId": "1445824",
+          "spenderName": "Crime Victims United of California for Jim Cooper for Sheriff 2022",
+          "position": "S",
+          "total": 162975.95
+        }
       ]
     },
     {
@@ -117062,7 +117124,8 @@
             }
           ]
         }
-      ]
+      ],
+      "ie": []
     }
   ]
 }

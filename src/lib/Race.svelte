@@ -1,18 +1,10 @@
 <script>
   import _ from 'lodash'
-  export let data = null
+  import Candidate from './Candidate.svelte'
+  export let data = []
 
-  function sortContributors(contributors) {
-    return _.orderBy(contributors, ['total', 'contributor'], ['desc', 'asc'])
-  }
 
-  function filterOutZeros(contributors) {
-    return contributors.filter(d => d.total !== 0)
-  }
-
-  function processContributors(contributors) {
-    return sortContributors(filterOutZeros(contributors))
-  }
+  $: candidatesWithNoMoney = data.committees.filter(d => d.total === 0)
 </script>
 
 <section>
@@ -20,52 +12,43 @@
 
   <ul class="candidates">
     {#each data.committees as candidate}
+    {#if candidate.total > 0}
       <li class="candidate">
-        <div class="candidate-name">{candidate.name}</div>
-        <div class="candidate-stats">
-         <p>${candidate.total.toLocaleString('en-US')} from {candidate.contributors.length.toLocaleString('en-US')} people, companies, and organizations. Here they are:</p>
-        </div>
-        <div class="candidate-contributors">
-          <ul class="contributors">
-            {#each processContributors(candidate.contributors) as contributor}
-              <li class="contributor">
-                <div class="contributor-info">
-                  <div class="contributor-name">
-                    {contributor.contributor}
-                  </div>
-                  <div class="contributor-location">
-                    {contributor.contributorCity}, {contributor.contributorState}
-                  </div>
-                </div>
-                <div class="contributor-amount">
-                  ${contributor.total.toLocaleString('en-US')}
-                </div>
-              </li>
-            {/each}
-          </ul>
-        </div>
+        <Candidate {candidate} />
       </li>
+      {/if}
     {/each}
+    {#if data.committees.length === 1}
+    <li class="candidate unopposed">
+      <p>There's only one person running in this race.</p>
+    </li>
+    {/if}
   </ul>
+
+  {#if candidatesWithNoMoney.length > 0}
+    <p>{candidatesWithNoMoney.map(c => c.name).join(' and ')} hasn't raised any money yet.</p>
+  {/if}
 </section>
 
 <style lang="scss">
   section {
-    background-color: #ebebeb;
+    background-color: #E2CFEA;
     margin-bottom: 2.5rem;
     padding: 1.5rem;
   }
 
   h1 {
     margin-top: 0;
-  }
 
-  ul {
+    a {
+      color: #062726;
+    }
   }
   
   ul.candidates {
     display: flex;
     flex-direction: column;
+    flex-wrap: wrap;
     justify-content: space-around;
     list-style-type: none;
     padding-left: 0;
@@ -76,43 +59,26 @@
   }
 
   .candidate {
-    // border: 1px solid green;
     background: #ffffff;
     flex: 1;
-    margin: .5rem;
-    padding: .5rem;
-  }
+    margin-top: 0.5rem;
+    padding: 0.5rem;
 
-  .candidate-name {
-    font-weight: 700;
-  }
-
-  ul.contributors {
-    list-style-type: none;
-    height: 400px;
-    margin-top: 1rem;
-    padding: 0;
-    overflow-y: scroll;
-
-    li {
-      padding: .5rem;
-    }
-
-    li:nth-child(2n) {
-      background-color: #cccccc;
+    @media screen and (min-width: 700px) {
+      margin: 0.5rem;
+      max-width: 50%;
     }
   }
 
-  .contributor {
-    display: flex;
-    justify-content: space-between;
-  }
-
-  .contributor-location {
+  .candidate.unopposed {
+    background: inherit;
     font-style: italic;
+    display: none;
+
+    @media screen and (min-width: 700px) {
+      display: block;
+    }
   }
 
-  .contributor-info {
-
-  }
-</style>
+  
+  </style>

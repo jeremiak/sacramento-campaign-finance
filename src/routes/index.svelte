@@ -1,5 +1,7 @@
 <script context="module">
-  import { committees } from "$lib/data.json";
+  import { writable } from "svelte/store";
+  import { committees, generated } from "$lib/data.json";
+  const isTocExpanded = writable(true)
   export async function load() {
     const races = {};
     committees.forEach((committee) => {
@@ -26,6 +28,7 @@
 
     return {
       props: {
+        dateGeneratedAt: new Date(generated),
         races: array,
       },
     };
@@ -35,7 +38,9 @@
 </script>
 
 <script>
+  import * as d3 from 'd3-time-format';
   import Race from "$lib/Race.svelte";
+  export let dateGeneratedAt = null;
   export let races = null;
 </script>
 
@@ -44,17 +49,31 @@
 </svelte:head>
 
 <section>
-  <h1>Sacramento campaign finance</h1>
+  <div class="well-width">
+    <h1>Sacramento campaign cash</h1>
+    <p>This site helps answer the question: who is funding each candidate.</p>
+    <p>Both the city and county have websites that purport to allow the public access to campaign finance information, but they're hard to use and clunky. Below, you can see the individual contributors to each campaign as well as the groups are spending their own money on advertisements, called "independent expenditures."</p>
+    <p class="last-updated">The last time we checked for new data was {d3.timeFormat('%B %d, %Y at %I:%M %p')(dateGeneratedAt)}.</p>
+  </div>
 
-  <p>Who's contributing to the current races in Sacramento?</p>
 
-  <ul class="races-toc">
-    {#each races as race}
-      <li class="race">
-        <a href={`#${race.race}`}>{race.race}</a>
-      </li>
-    {/each}
-  </ul>
+  <div class="races-toc well-width">
+    {#if $isTocExpanded}
+    <strong>Races</strong>
+    <ul>
+      {#each races as race}
+        <li class="race">
+          <a href={`#${race.race}`}>{race.race}</a>
+        </li>
+      {/each}
+    </ul>
+    {/if}
+    <button on:click={() => {
+      $isTocExpanded = !$isTocExpanded
+    }}>
+      {#if $isTocExpanded}Close{:else}Show races{/if}
+    </button>
+  </div>
 
   <ul class="races">
     {#each races as race}
@@ -65,14 +84,74 @@
   </ul>
 </section>
 
+<footer>
+  <div>💰💰💰</div>
+  <p>Made by <a href="https://www.jeremiak.com">Jeremia</a> in 2022 because it should be easier to know who contributes to local politicians
+  </p>
+</footer>
+
 <style lang="scss">
+
+  .well-width {
+    max-width: 750px;
+    margin: 0 auto;
+  }
   h1 {
-    font-weight: 900;
+    font-weight: 700;
+    text-align: center;
   }
 
   ul {
     list-style-type: none;
     padding: 0;
+  }
+
+  .races-toc {
+    background-color: #ffffff;
+    // border: 1px solid #ebebeb;
+    border-top: none;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    color: #062726;
+    font-size: 1em;
+    margin: 0 auto;
+    padding: 1.5rem;
+    padding-bottom: .75rem;
+    position: sticky;
+    text-align: center;
+    top: 0;
+    // width: 80%;
+
+    ul {
+      display: flex;
+      flex-wrap: wrap;
+    }
+
+    li {
+      margin-bottom: .5rem;
+      margin-right: .75rem;
+    }
+
+    a {
+      color: inherit;
+      // text-decoration: none;
+    }
+
+    a:after {
+      content: '•';
+      display: inline-block;
+      margin-left: .75rem;
+    }
+
+    li:last-child a:after {
+      display: none;
+    }
+  }
+
+  footer {
+    font-size: .9rem;
+    padding-bottom: 1rem;
+    text-align: center;
   }
 
 </style>
