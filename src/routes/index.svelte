@@ -86,7 +86,7 @@
 
 <footer>
   <div>💰💰💰</div>
-  <p>Made by <a href="https://www.jeremiak.com">Jeremia</a> in 2022 because it should be easier to know who contributes to local politicians
+  <p>Made by <a href="https://github.com/jeremiak/sacramento-campaign-finance">Jeremia</a> in 2022 because it should be easier to know who contributes to local politicians
   </p>
 </footer>
 
