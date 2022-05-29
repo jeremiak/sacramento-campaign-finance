@@ -142,7 +142,31 @@ async function main() {
                     position,
                     description,
                 }
-            })
+            }).reduce((accum, next) => {
+                const {
+                    spenderName,
+                    spenderId,
+                    amount,
+                    date,
+                    candidate,
+                    position,
+                    description,
+                } = next
+                const match = accum.find(d => d.spenderId === spenderId)
+
+                if (match) {
+                    match.total += amount
+                } else {
+                    accum.push({
+                        spenderId,
+                        spenderName,
+                        position,
+                        total: amount
+                    })
+                }
+
+                return accum
+            }, [])
             const d = {
                 ...committee,
                 total,
@@ -154,7 +178,7 @@ async function main() {
     })
 
     const toWrite = {
-        generated: null,
+        generated: new Date(),
         committees: data
     }
 
