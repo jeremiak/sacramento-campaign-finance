@@ -17,6 +17,7 @@ jobs:
       run: npm install
     - name: Run scripts
       run: |-
+        npx prisma migrate reset -f
         node scripts/scrape-and-load
         node scripts/generate-json.js
     - name: Commit and push if it changed

@@ -43,7 +43,7 @@ export default async function downloadNetfile({ agencyId, year }) {
     console.log('e', agencyId)
     await page.select("#ctl00_phBody_DateSelect", year)
     console.log('f', agencyId)
-    await page.click("#ctl00_phBody_GetExcel")
+    await page.click("#ctl00_phBody_GetExcelAmend")
     console.log('g', agencyId)
 
     // instead of trying to figure out if the file is done
