@@ -62,6 +62,7 @@
     background: #ffffff;
     flex: 1;
     margin-top: 0.5rem;
+    min-width: 30%;
     padding: 0.5rem;
 
     @media screen and (min-width: 700px) {
