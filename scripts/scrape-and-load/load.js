@@ -590,7 +590,7 @@ async function createOrIgnoreIndependentExpenditure(independentExpenditure, agen
 }
 
 export default async function loadNetfile({ agencyName, agencyId, year }) {
-    const excelFile = `./tmp/efile_${agencyId}_${year}.xlsx`
+    const excelFile = `./tmp/efile_newest_${agencyId}_${year}.xlsx`
 
     const data = excelToJson({
         sourceFile: excelFile,
