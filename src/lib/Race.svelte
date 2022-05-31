@@ -26,7 +26,7 @@
   </ul>
 
   {#if candidatesWithNoMoney.length > 0}
-    <p>{candidatesWithNoMoney.map(c => c.name).join(' and ')} hasn't raised any money yet.</p>
+    <p>{candidatesWithNoMoney.map(c => c.name).join(' and ')} {#if candidatesWithNoMoney.length === 1}hasn't{:else}haven't{/if} raised any money yet.</p>
   {/if}
 </section>
 
