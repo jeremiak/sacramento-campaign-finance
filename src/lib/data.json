@@ -1,5 +1,5 @@
 {
-  "generated": "2022-06-01T00:16:00.810Z",
+  "generated": "2022-06-02T00:15:48.386Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -13583,7 +13583,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "3",
-      "total": 176376.52000000002,
+      "total": 177376.52000000002,
       "contributors": [
         {
           "contributor": "Plumbers & Pipefitters Local 447 Federal Political Fund",
@@ -14854,6 +14854,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95825"
+            }
+          ]
+        },
+        {
+          "contributor": "Trina Lynch",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-05-30",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Trina",
+              "contributorLastName": "Lynch",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95835"
             }
           ]
         },
@@ -19431,7 +19449,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "5",
-      "total": 42725,
+      "total": 44225,
       "contributors": [
         {
           "contributor": "Sacramento Central Labor Council COPE",
@@ -19602,6 +19620,24 @@
               "contributorCity": "San Francisco",
               "contributorState": "CA",
               "contributorZip": "94103"
+            }
+          ]
+        },
+        {
+          "contributor": "AFSCME Local 146",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1500,
+          "contributions": [
+            {
+              "date": "2022-05-30",
+              "amount": 1500,
+              "contributorCommitteeId": "1220640",
+              "contributorFirstName": "",
+              "contributorLastName": "AFSCME Local 146",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95833"
             }
           ]
         },
@@ -21330,7 +21366,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "5",
-      "total": 83100,
+      "total": 84600,
       "contributors": [
         {
           "contributor": "California Apartment Association PAC",
@@ -21667,6 +21703,34 @@
           ]
         },
         {
+          "contributor": "Teichert, Inc. and its affiliated entities",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-04-08",
+              "amount": 500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Teichert, Inc. and its affiliated entities",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95851"
+            },
+            {
+              "date": "2022-05-31",
+              "amount": 500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Teichert, Inc. and its affiliated entities",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95851"
+            }
+          ]
+        },
+        {
           "contributor": "Julius J. Cherry",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -21771,6 +21835,24 @@
               "contributorCity": "West Sacramento",
               "contributorState": "CA",
               "contributorZip": "95691"
+            }
+          ]
+        },
+        {
+          "contributor": "Thatch & Hooper, LLP",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-05-31",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Thatch & Hooper, LLP",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95811"
             }
           ]
         },
@@ -21925,24 +22007,6 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95817"
-            }
-          ]
-        },
-        {
-          "contributor": "Teichert, Inc. and its affiliated entities",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 500,
-          "contributions": [
-            {
-              "date": "2022-04-08",
-              "amount": 500,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "Teichert, Inc. and its affiliated entities",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95851"
             }
           ]
         },
@@ -26061,7 +26125,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "2",
-      "total": 84133.22,
+      "total": 85133.22,
       "contributors": [
         {
           "contributor": "Dignity CA SEIU Local 2015",
@@ -26836,6 +26900,24 @@
               "contributorCity": "San Francisco",
               "contributorState": "CA",
               "contributorZip": "94105"
+            }
+          ]
+        },
+        {
+          "contributor": "Molina Healthcare, Inc.",
+          "contributorCity": "Long Beach",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-05-27",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Molina Healthcare, Inc.",
+              "contributorCity": "Long Beach",
+              "contributorState": "CA",
+              "contributorZip": "90802"
             }
           ]
         },
@@ -31901,7 +31983,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 256075.97,
+      "total": 260775.97,
       "contributors": [
         {
           "contributor": "Lund Construction Co.",
@@ -32278,6 +32360,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95841"
+            }
+          ]
+        },
+        {
+          "contributor": "Lewis Pacific Partners - Lewis Investment Company, LLC(Doug Mull)",
+          "contributorCity": "Upland",
+          "contributorState": "CA",
+          "total": 2700,
+          "contributions": [
+            {
+              "date": "2022-05-28",
+              "amount": 2700,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Lewis Pacific Partners - Lewis Investment Company, LLC(Doug Mull)",
+              "contributorCity": "Upland",
+              "contributorState": "CA",
+              "contributorZip": "91786"
             }
           ]
         },
@@ -34400,6 +34500,42 @@
               "contributorCity": "Belmont",
               "contributorState": "CA",
               "contributorZip": "94002"
+            }
+          ]
+        },
+        {
+          "contributor": "Teichert, Inc. and affiliated entities",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-05-27",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Teichert, Inc. and affiliated entities",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95864"
+            }
+          ]
+        },
+        {
+          "contributor": "Laborers Local 185 PAC SCC",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-05-28",
+              "amount": 1000,
+              "contributorCommitteeId": "870122",
+              "contributorFirstName": "",
+              "contributorLastName": "Laborers Local 185 PAC SCC",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
             }
           ]
         },
@@ -40376,7 +40512,7 @@
       "city/county": "County",
       "office": "District Attorney",
       "district": "",
-      "total": 203210.14,
+      "total": 206210.14,
       "contributors": [
         {
           "contributor": "Roee ZeReign Foundation",
@@ -40741,6 +40877,24 @@
               "contributorCity": "Carmichael",
               "contributorState": "CA",
               "contributorZip": "95608"
+            }
+          ]
+        },
+        {
+          "contributor": "Gurmeet Singh Bhatia Real Estate",
+          "contributorCity": "Elk Grove",
+          "contributorState": "CA",
+          "total": 3000,
+          "contributions": [
+            {
+              "date": "2022-05-30",
+              "amount": 3000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Gurmeet Singh Bhatia Real Estate",
+              "contributorCity": "Elk Grove",
+              "contributorState": "CA",
+              "contributorZip": "95624"
             }
           ]
         },
@@ -49628,7 +49782,7 @@
       "city/county": "County",
       "office": "District Attorney",
       "district": "",
-      "total": 394097.32999999996,
+      "total": 423797.32999999996,
       "contributors": [
         {
           "contributor": "Five Star Towing & Transport, Inc.",
@@ -50053,6 +50207,60 @@
               "contributorCity": "Modesto",
               "contributorState": "CA",
               "contributorZip": "95351"
+            }
+          ]
+        },
+        {
+          "contributor": "Jiasheng Zhu",
+          "contributorCity": "San Jose",
+          "contributorState": "CA",
+          "total": 4900,
+          "contributions": [
+            {
+              "date": "2022-05-30",
+              "amount": 4900,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Jiasheng",
+              "contributorLastName": "Zhu",
+              "contributorCity": "San Jose",
+              "contributorState": "CA",
+              "contributorZip": "95131"
+            }
+          ]
+        },
+        {
+          "contributor": "Amy Li Matecki",
+          "contributorCity": "El Sobrante",
+          "contributorState": "CA",
+          "total": 4900,
+          "contributions": [
+            {
+              "date": "2022-05-29",
+              "amount": 4900,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Amy",
+              "contributorLastName": "Li Matecki",
+              "contributorCity": "El Sobrante",
+              "contributorState": "CA",
+              "contributorZip": "94803"
+            }
+          ]
+        },
+        {
+          "contributor": "Angelo G. Tsakopoulos",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 4900,
+          "contributions": [
+            {
+              "date": "2022-05-27",
+              "amount": 4900,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Angelo G.",
+              "contributorLastName": "Tsakopoulos",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
             }
           ]
         },
@@ -50579,6 +50787,88 @@
           ]
         },
         {
+          "contributor": "Maria Alcala",
+          "contributorCity": "Wilton",
+          "contributorState": "CA",
+          "total": 2500,
+          "contributions": [
+            {
+              "date": "2022-05-27",
+              "amount": 500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Maria",
+              "contributorLastName": "Alcala",
+              "contributorCity": "Wilton",
+              "contributorState": "CA",
+              "contributorZip": "95693"
+            },
+            {
+              "date": "2022-05-29",
+              "amount": 2000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Maria",
+              "contributorLastName": "Alcala",
+              "contributorCity": "Wilton",
+              "contributorState": "CA",
+              "contributorZip": "95693"
+            }
+          ]
+        },
+        {
+          "contributor": "Huy Chat Trieu",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2500,
+          "contributions": [
+            {
+              "date": "2022-05-29",
+              "amount": 2500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Huy Chat",
+              "contributorLastName": "Trieu",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95823"
+            }
+          ]
+        },
+        {
+          "contributor": "Thong Lu",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2500,
+          "contributions": [
+            {
+              "date": "2022-05-29",
+              "amount": 2500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Thong",
+              "contributorLastName": "Lu",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95823"
+            }
+          ]
+        },
+        {
+          "contributor": "Dieu Tran",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2500,
+          "contributions": [
+            {
+              "date": "2022-05-29",
+              "amount": 2500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Dieu",
+              "contributorLastName": "Tran",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95823"
+            }
+          ]
+        },
+        {
           "contributor": "McClellan Business Park LLC(Denton Kelley)",
           "contributorCity": "Mcclellan",
           "contributorState": "CA",
@@ -50847,6 +51137,24 @@
               "contributorCity": "Rancho Cordova",
               "contributorState": "CA",
               "contributorZip": "95670"
+            }
+          ]
+        },
+        {
+          "contributor": "Tom Phan",
+          "contributorCity": "San Jose",
+          "contributorState": "CA",
+          "total": 2000,
+          "contributions": [
+            {
+              "date": "2022-05-30",
+              "amount": 2000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Tom",
+              "contributorLastName": "Phan",
+              "contributorCity": "San Jose",
+              "contributorState": "CA",
+              "contributorZip": "95123"
             }
           ]
         },
@@ -52153,6 +52461,60 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95829"
+            }
+          ]
+        },
+        {
+          "contributor": "Barbara Etrick",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-05-27",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Barbara",
+              "contributorLastName": "Etrick",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95831"
+            }
+          ]
+        },
+        {
+          "contributor": "Gang Li",
+          "contributorCity": "Los Gatos",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-05-28",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Gang",
+              "contributorLastName": "Li",
+              "contributorCity": "Los Gatos",
+              "contributorState": "CA",
+              "contributorZip": "95032"
+            }
+          ]
+        },
+        {
+          "contributor": "Jong L Chen",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-05-27",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Jong L",
+              "contributorLastName": "Chen",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95819"
             }
           ]
         },
@@ -61252,7 +61614,7 @@
           "spenderId": "1405176",
           "spenderName": "Californians for a Growing Economy and Safe Streets",
           "position": "S",
-          "total": 164566
+          "total": 199215
         },
         {
           "spenderId": "781626",
@@ -61268,7 +61630,7 @@
       "city/county": "County",
       "office": "Sheriff",
       "district": "",
-      "total": 254167.88,
+      "total": 276767.88,
       "contributors": [
         {
           "contributor": "John Anderson",
@@ -61619,6 +61981,60 @@
           ]
         },
         {
+          "contributor": "Sukhjinder Jhattu",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 4900,
+          "contributions": [
+            {
+              "date": "2022-05-28",
+              "amount": 4900,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Sukhjinder",
+              "contributorLastName": "Jhattu",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95835"
+            }
+          ]
+        },
+        {
+          "contributor": "Jaspreet Saini",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 4900,
+          "contributions": [
+            {
+              "date": "2022-05-28",
+              "amount": 4900,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Jaspreet",
+              "contributorLastName": "Saini",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95826"
+            }
+          ]
+        },
+        {
+          "contributor": "Power Oil, Inc. dba Power Inn Shell",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 4900,
+          "contributions": [
+            {
+              "date": "2022-05-28",
+              "amount": 4900,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Power Oil, Inc. dba Power Inn Shell",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95826"
+            }
+          ]
+        },
+        {
           "contributor": "American Petroleum, LLC(Adam Marszal)",
           "contributorCity": "Carmichael",
           "contributorState": "CA",
@@ -61845,6 +62261,24 @@
           ]
         },
         {
+          "contributor": "Ranjit Singh",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2500,
+          "contributions": [
+            {
+              "date": "2022-05-28",
+              "amount": 2500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Ranjit",
+              "contributorLastName": "Singh",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95828"
+            }
+          ]
+        },
+        {
           "contributor": "Daniel Benvenuti, Jr.",
           "contributorCity": "Carmichael",
           "contributorState": "CA",
@@ -61859,6 +62293,24 @@
               "contributorCity": "Carmichael",
               "contributorState": "CA",
               "contributorZip": "95608"
+            }
+          ]
+        },
+        {
+          "contributor": "Jerry Bell",
+          "contributorCity": "Reno",
+          "contributorState": "NV",
+          "total": 2400,
+          "contributions": [
+            {
+              "date": "2022-05-27",
+              "amount": 2400,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Jerry",
+              "contributorLastName": "Bell",
+              "contributorCity": "Reno",
+              "contributorState": "NV",
+              "contributorZip": "89523"
             }
           ]
         },
@@ -61969,6 +62421,34 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95827"
+            }
+          ]
+        },
+        {
+          "contributor": "Andrew Pugno",
+          "contributorCity": "Folsom",
+          "contributorState": "CA",
+          "total": 2000,
+          "contributions": [
+            {
+              "date": "2022-04-23",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Andrew",
+              "contributorLastName": "Pugno",
+              "contributorCity": "Folsom",
+              "contributorState": "CA",
+              "contributorZip": "95630"
+            },
+            {
+              "date": "2022-05-27",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Andrew",
+              "contributorLastName": "Pugno",
+              "contributorCity": "Folsom",
+              "contributorState": "CA",
+              "contributorZip": "95630"
             }
           ]
         },
@@ -62653,24 +63133,6 @@
           ]
         },
         {
-          "contributor": "Andrew Pugno",
-          "contributorCity": "Folsom",
-          "contributorState": "CA",
-          "total": 1000,
-          "contributions": [
-            {
-              "date": "2022-04-23",
-              "amount": 1000,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Andrew",
-              "contributorLastName": "Pugno",
-              "contributorCity": "Folsom",
-              "contributorState": "CA",
-              "contributorZip": "95630"
-            }
-          ]
-        },
-        {
           "contributor": "Tony Whittaker",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -63081,6 +63543,42 @@
               "contributorCity": "Fair Oaks",
               "contributorState": "CA",
               "contributorZip": "95628"
+            }
+          ]
+        },
+        {
+          "contributor": "Cathy Schnepp",
+          "contributorCity": "El Dorado Hills",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-05-27",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Cathy",
+              "contributorLastName": "Schnepp",
+              "contributorCity": "El Dorado Hills",
+              "contributorState": "CA",
+              "contributorZip": "95762"
+            }
+          ]
+        },
+        {
+          "contributor": "Les Lyman",
+          "contributorCity": "Walnut Grove",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-05-28",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Les",
+              "contributorLastName": "Lyman",
+              "contributorCity": "Walnut Grove",
+              "contributorState": "CA",
+              "contributorZip": "95690"
             }
           ]
         },
@@ -67113,7 +67611,7 @@
       "city/county": "County",
       "office": "Sheriff",
       "district": "",
-      "total": 760601.91,
+      "total": 767101.91,
       "contributors": [
         {
           "contributor": "Bail Hotline Bail Bonds",
@@ -67272,6 +67770,44 @@
               "contributorCity": "Atlanta",
               "contributorState": "GA",
               "contributorZip": "30328"
+            }
+          ]
+        },
+        {
+          "contributor": "Association of Orange County Deputy Sheriffs PAC",
+          "contributorCity": "Santa Ana",
+          "contributorState": "CA",
+          "total": 6000,
+          "contributions": [
+            {
+              "date": "2022-04-16",
+              "amount": 4000,
+              "contributorCommitteeId": "782021",
+              "contributorFirstName": "",
+              "contributorLastName": "Association of Orange County Deputy Sheriffs PAC",
+              "contributorCity": "Santa Ana",
+              "contributorState": "CA",
+              "contributorZip": "92701"
+            },
+            {
+              "date": "2022-05-27",
+              "amount": 900,
+              "contributorCommitteeId": "782021",
+              "contributorFirstName": "",
+              "contributorLastName": "Association of Orange County Deputy Sheriffs PAC",
+              "contributorCity": "Santa Ana",
+              "contributorState": "CA",
+              "contributorZip": "92701"
+            },
+            {
+              "date": "2022-05-27",
+              "amount": 1100,
+              "contributorCommitteeId": "782021",
+              "contributorFirstName": "",
+              "contributorLastName": "Association of Orange County Deputy Sheriffs PAC",
+              "contributorCity": "Santa Ana",
+              "contributorState": "CA",
+              "contributorZip": "92701"
             }
           ]
         },
@@ -68728,24 +69264,6 @@
           ]
         },
         {
-          "contributor": "Association of Orange County Deputy Sheriffs PAC",
-          "contributorCity": "Santa Ana",
-          "contributorState": "CA",
-          "total": 4000,
-          "contributions": [
-            {
-              "date": "2022-04-16",
-              "amount": 4000,
-              "contributorCommitteeId": "782021",
-              "contributorFirstName": "",
-              "contributorLastName": "Association of Orange County Deputy Sheriffs PAC",
-              "contributorCity": "Santa Ana",
-              "contributorState": "CA",
-              "contributorZip": "92701"
-            }
-          ]
-        },
-        {
           "contributor": "Walmart, Inc.",
           "contributorCity": "Bentonville",
           "contributorState": "AR",
@@ -69332,6 +69850,34 @@
               "contributorCity": "Lakeside",
               "contributorState": "CA",
               "contributorZip": "92040"
+            }
+          ]
+        },
+        {
+          "contributor": "Shingle Springs Band of Miwok Indians",
+          "contributorCity": "Placerville",
+          "contributorState": "CA",
+          "total": 3000,
+          "contributions": [
+            {
+              "date": "2022-04-16",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Shingle Springs Band of Miwok Indians",
+              "contributorCity": "Placerville",
+              "contributorState": "CA",
+              "contributorZip": "95667"
+            },
+            {
+              "date": "2022-05-27",
+              "amount": 2000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Shingle Springs Band of Miwok Indians",
+              "contributorCity": "Placerville",
+              "contributorState": "CA",
+              "contributorZip": "95667"
             }
           ]
         },
@@ -69976,6 +70522,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95815"
+            }
+          ]
+        },
+        {
+          "contributor": "SAFE Credit Union",
+          "contributorCity": "Folsom",
+          "contributorState": "CA",
+          "total": 2500,
+          "contributions": [
+            {
+              "date": "2022-05-27",
+              "amount": 2500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "SAFE Credit Union",
+              "contributorCity": "Folsom",
+              "contributorState": "CA",
+              "contributorZip": "95630"
             }
           ]
         },
@@ -72326,24 +72890,6 @@
               "contributorCity": "Irving",
               "contributorState": "TX",
               "contributorZip": "75062"
-            }
-          ]
-        },
-        {
-          "contributor": "Shingle Springs Band of Miwok Indians",
-          "contributorCity": "Placerville",
-          "contributorState": "CA",
-          "total": 1000,
-          "contributions": [
-            {
-              "date": "2022-04-16",
-              "amount": 1000,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "Shingle Springs Band of Miwok Indians",
-              "contributorCity": "Placerville",
-              "contributorState": "CA",
-              "contributorZip": "95667"
             }
           ]
         },
