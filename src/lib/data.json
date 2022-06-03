@@ -1,5 +1,5 @@
 {
-  "generated": "2022-06-02T00:15:48.386Z",
+  "generated": "2022-06-03T00:13:54.249Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -1086,7 +1086,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "1",
-      "total": 149459.69,
+      "total": 151259.69,
       "contributors": [
         {
           "contributor": "United Association of Journeymen & Apprentices of the U.S. & Canada Local 447 Federal PAC (FED PAC ID # C00320218)",
@@ -1659,6 +1659,24 @@
               "contributorCity": "Newport Beach",
               "contributorState": "CA",
               "contributorZip": "92660"
+            }
+          ]
+        },
+        {
+          "contributor": "Teranomic",
+          "contributorCity": "Emeryville",
+          "contributorState": "CA",
+          "total": 1800,
+          "contributions": [
+            {
+              "date": "2022-05-31",
+              "amount": 1800,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Teranomic",
+              "contributorCity": "Emeryville",
+              "contributorState": "CA",
+              "contributorZip": "94608"
             }
           ]
         },
@@ -7112,7 +7130,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "3",
-      "total": 154053.99,
+      "total": 155053.99,
       "contributors": [
         {
           "contributor": "Sacramento Central Labor Council, AFL-CIO",
@@ -8243,6 +8261,24 @@
               "contributorCity": "West Sacramento",
               "contributorState": "CA",
               "contributorZip": "95691"
+            }
+          ]
+        },
+        {
+          "contributor": "Susan Eggman for Lieutenant Governor 2026",
+          "contributorCity": "Antelope",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-05-31",
+              "amount": 1000,
+              "contributorCommitteeId": "1445465",
+              "contributorFirstName": "",
+              "contributorLastName": "Susan Eggman for Lieutenant Governor 2026",
+              "contributorCity": "Antelope",
+              "contributorState": "CA",
+              "contributorZip": "95843"
             }
           ]
         },
@@ -13583,7 +13619,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "3",
-      "total": 177376.52000000002,
+      "total": 183500.76,
       "contributors": [
         {
           "contributor": "Plumbers & Pipefitters Local 447 Federal Political Fund",
@@ -13700,6 +13736,42 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95838"
+            }
+          ]
+        },
+        {
+          "contributor": "Newsom for California Governor 2022",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2162.12,
+          "contributions": [
+            {
+              "date": "2022-05-25",
+              "amount": 2162.12,
+              "contributorCommitteeId": "1414018",
+              "contributorFirstName": "",
+              "contributorLastName": "Newsom for California Governor 2022",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95815"
+            }
+          ]
+        },
+        {
+          "contributor": "Re-Elect Eleni Kounalakis for Lieutenant Governor 2022",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2162.12,
+          "contributions": [
+            {
+              "date": "2022-05-25",
+              "amount": 2162.12,
+              "contributorCommitteeId": "1413981",
+              "contributorFirstName": "",
+              "contributorLastName": "Re-Elect Eleni Kounalakis for Lieutenant Governor 2022",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95815"
             }
           ]
         },
@@ -14088,6 +14160,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95823"
+            }
+          ]
+        },
+        {
+          "contributor": "Rick Jennings for City Council 2022",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1800,
+          "contributions": [
+            {
+              "date": "2022-06-01",
+              "amount": 1800,
+              "contributorCommitteeId": "1443348",
+              "contributorFirstName": "",
+              "contributorLastName": "Rick Jennings for City Council 2022",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95815"
             }
           ]
         },
@@ -23016,7 +23106,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "7",
-      "total": 61300,
+      "total": 63100,
       "contributors": [
         {
           "contributor": "California Apartment Association PAC",
@@ -23285,6 +23375,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95814"
+            }
+          ]
+        },
+        {
+          "contributor": "Michael Lynch for City Council 2022",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1800,
+          "contributions": [
+            {
+              "date": "2022-06-01",
+              "amount": 1800,
+              "contributorCommitteeId": "1443312",
+              "contributorFirstName": "",
+              "contributorLastName": "Michael Lynch for City Council 2022",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95815"
             }
           ]
         },
@@ -26125,7 +26233,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "2",
-      "total": 85133.22,
+      "total": 87433.22,
       "contributors": [
         {
           "contributor": "Dignity CA SEIU Local 2015",
@@ -26814,6 +26922,24 @@
           ]
         },
         {
+          "contributor": "Lewis Investment Company, LLC",
+          "contributorCity": "Upland",
+          "contributorState": "CA",
+          "total": 1300,
+          "contributions": [
+            {
+              "date": "2022-05-31",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Lewis Investment Company, LLC",
+              "contributorCity": "Upland",
+              "contributorState": "CA",
+              "contributorZip": "91786"
+            }
+          ]
+        },
+        {
           "contributor": "Centene and its Affiliate Health Net",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -26918,6 +27044,24 @@
               "contributorCity": "Long Beach",
               "contributorState": "CA",
               "contributorZip": "90802"
+            }
+          ]
+        },
+        {
+          "contributor": "Larry Gualco",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-05-31",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Larry",
+              "contributorLastName": "Gualco",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95816"
             }
           ]
         },
@@ -49782,7 +49926,7 @@
       "city/county": "County",
       "office": "District Attorney",
       "district": "",
-      "total": 423797.32999999996,
+      "total": 429697.32999999996,
       "contributors": [
         {
           "contributor": "Five Star Towing & Transport, Inc.",
@@ -50261,6 +50405,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95814"
+            }
+          ]
+        },
+        {
+          "contributor": "Haiyan Yu",
+          "contributorCity": "Palo Alto",
+          "contributorState": "CA",
+          "total": 4900,
+          "contributions": [
+            {
+              "date": "2022-05-31",
+              "amount": 4900,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Haiyan",
+              "contributorLastName": "Yu",
+              "contributorCity": "Palo Alto",
+              "contributorState": "CA",
+              "contributorZip": "94306"
             }
           ]
         },
@@ -52515,6 +52677,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95819"
+            }
+          ]
+        },
+        {
+          "contributor": "Albert Sim",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-05-31",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Albert",
+              "contributorLastName": "Sim",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95835"
             }
           ]
         },
@@ -61630,7 +61810,7 @@
       "city/county": "County",
       "office": "Sheriff",
       "district": "",
-      "total": 276767.88,
+      "total": 281767.88,
       "contributors": [
         {
           "contributor": "John Anderson",
@@ -62067,6 +62247,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95864"
+            }
+          ]
+        },
+        {
+          "contributor": "Sharen Denham",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 4000,
+          "contributions": [
+            {
+              "date": "2022-05-31",
+              "amount": 4000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Sharen",
+              "contributorLastName": "Denham",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95829"
             }
           ]
         },
@@ -63579,6 +63777,24 @@
               "contributorCity": "Walnut Grove",
               "contributorState": "CA",
               "contributorZip": "95690"
+            }
+          ]
+        },
+        {
+          "contributor": "Allen Etchepare",
+          "contributorCity": "Maxwell",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-05-31",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Allen",
+              "contributorLastName": "Etchepare",
+              "contributorCity": "Maxwell",
+              "contributorState": "CA",
+              "contributorZip": "95955"
             }
           ]
         },
@@ -67611,7 +67827,7 @@
       "city/county": "County",
       "office": "Sheriff",
       "district": "",
-      "total": 767101.91,
+      "total": 772601.91,
       "contributors": [
         {
           "contributor": "Bail Hotline Bail Bonds",
@@ -67774,6 +67990,44 @@
           ]
         },
         {
+          "contributor": "Sycuan Band of the Kumeyaay Nation",
+          "contributorCity": "El Cajon",
+          "contributorState": "CA",
+          "total": 6000,
+          "contributions": [
+            {
+              "date": "2022-04-16",
+              "amount": 3000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Sycuan Band of the Kumeyaay Nation",
+              "contributorCity": "El Cajon",
+              "contributorState": "CA",
+              "contributorZip": "92019"
+            },
+            {
+              "date": "2022-05-31",
+              "amount": 1900,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Sycuan Band of the Kumeyaay Nation",
+              "contributorCity": "El Cajon",
+              "contributorState": "CA",
+              "contributorZip": "92019"
+            },
+            {
+              "date": "2022-05-31",
+              "amount": 1100,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Sycuan Band of the Kumeyaay Nation",
+              "contributorCity": "El Cajon",
+              "contributorState": "CA",
+              "contributorZip": "92019"
+            }
+          ]
+        },
+        {
           "contributor": "Association of Orange County Deputy Sheriffs PAC",
           "contributorCity": "Santa Ana",
           "contributorState": "CA",
@@ -67808,6 +68062,44 @@
               "contributorCity": "Santa Ana",
               "contributorState": "CA",
               "contributorZip": "92701"
+            }
+          ]
+        },
+        {
+          "contributor": "Young's Market Company",
+          "contributorCity": "Tustin",
+          "contributorState": "CA",
+          "total": 5500,
+          "contributions": [
+            {
+              "date": "2022-04-16",
+              "amount": 3000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Young's Market Company",
+              "contributorCity": "Tustin",
+              "contributorState": "CA",
+              "contributorZip": "92780"
+            },
+            {
+              "date": "2022-05-31",
+              "amount": 1900,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Young's Market Company",
+              "contributorCity": "Tustin",
+              "contributorState": "CA",
+              "contributorZip": "92780"
+            },
+            {
+              "date": "2022-05-31",
+              "amount": 600,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Young's Market Company",
+              "contributorCity": "Tustin",
+              "contributorState": "CA",
+              "contributorZip": "92780"
             }
           ]
         },
@@ -69644,24 +69936,6 @@
           ]
         },
         {
-          "contributor": "Sycuan Band of the Kumeyaay Nation",
-          "contributorCity": "El Cajon",
-          "contributorState": "CA",
-          "total": 3000,
-          "contributions": [
-            {
-              "date": "2022-04-16",
-              "amount": 3000,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "Sycuan Band of the Kumeyaay Nation",
-              "contributorCity": "El Cajon",
-              "contributorState": "CA",
-              "contributorZip": "92019"
-            }
-          ]
-        },
-        {
           "contributor": "Reed Hastings",
           "contributorCity": "Santa Cruz",
           "contributorState": "CA",
@@ -69818,24 +70092,6 @@
           ]
         },
         {
-          "contributor": "Young's Market Company",
-          "contributorCity": "Tustin",
-          "contributorState": "CA",
-          "total": 3000,
-          "contributions": [
-            {
-              "date": "2022-04-16",
-              "amount": 3000,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "Young's Market Company",
-              "contributorCity": "Tustin",
-              "contributorState": "CA",
-              "contributorZip": "92780"
-            }
-          ]
-        },
-        {
           "contributor": "Barona Band of Mission Indians",
           "contributorCity": "Lakeside",
           "contributorState": "CA",
@@ -69936,24 +70192,6 @@
           ]
         },
         {
-          "contributor": "Laborers Pacific Southwest Regional Organizing Coalition PAC Small Contributor Committee",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 3000,
-          "contributions": [
-            {
-              "date": "2022-05-25",
-              "amount": 3000,
-              "contributorCommitteeId": "1358723",
-              "contributorFirstName": "",
-              "contributorLastName": "Laborers Pacific Southwest Regional Organizing Coalition PAC Small Contributor Committee",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95814"
-            }
-          ]
-        },
-        {
           "contributor": "Hurley Construction, Inc.",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -69968,6 +70206,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95811"
+            }
+          ]
+        },
+        {
+          "contributor": "Laborers Pacific Southwest Regional Organizing Coalition PAC Small Contributor Committee",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 3000,
+          "contributions": [
+            {
+              "date": "2022-05-25",
+              "amount": 3000,
+              "contributorCommitteeId": "1358723",
+              "contributorFirstName": "",
+              "contributorLastName": "Laborers Pacific Southwest Regional Organizing Coalition PAC Small Contributor Committee",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
             }
           ]
         },
@@ -73182,6 +73438,24 @@
           ]
         },
         {
+          "contributor": "Sacramento Hispanic Chamber of Commerce PAC",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-05-26",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Sacramento Hispanic Chamber of Commerce PAC",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            }
+          ]
+        },
+        {
           "contributor": "George Miller",
           "contributorCity": "El Dorado Hills",
           "contributorState": "CA",
@@ -73214,24 +73488,6 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95819"
-            }
-          ]
-        },
-        {
-          "contributor": "Sacramento Hispanic Chamber of Commerce PAC",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 1000,
-          "contributions": [
-            {
-              "date": "2022-05-26",
-              "amount": 1000,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "Sacramento Hispanic Chamber of Commerce PAC",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95814"
             }
           ]
         },
