@@ -1,5 +1,5 @@
 {
-  "generated": "2022-06-06T00:12:58.238Z",
+  "generated": "2022-06-07T00:12:29.766Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -1176,7 +1176,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "1",
-      "total": 151259.69,
+      "total": 152259.69,
       "contributors": [
         {
           "contributor": "United Association of Journeymen & Apprentices of the U.S. & Canada Local 447 Federal PAC (FED PAC ID # C00320218)",
@@ -2377,6 +2377,24 @@
               "contributorCity": "Mather",
               "contributorState": "CA",
               "contributorZip": "95655"
+            }
+          ]
+        },
+        {
+          "contributor": "Clear Channel Outdoor, LLC(Brian Parker)",
+          "contributorCity": "San Antonio",
+          "contributorState": "TX",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-06-04",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Clear Channel Outdoor, LLC(Brian Parker)",
+              "contributorCity": "San Antonio",
+              "contributorState": "TX",
+              "contributorZip": "78249"
             }
           ]
         },
@@ -32343,7 +32361,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 266875.97,
+      "total": 270375.97,
       "contributors": [
         {
           "contributor": "Lund Construction Co.",
@@ -32924,6 +32942,24 @@
           ]
         },
         {
+          "contributor": "Rancho Cordova Chamber of Commerce PAC",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2000,
+          "contributions": [
+            {
+              "date": "2022-06-04",
+              "amount": 2000,
+              "contributorCommitteeId": "1248483",
+              "contributorFirstName": "",
+              "contributorLastName": "Rancho Cordova Chamber of Commerce PAC",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95841"
+            }
+          ]
+        },
+        {
           "contributor": "Sally Guttridge",
           "contributorCity": "Elk Grove",
           "contributorState": "CA",
@@ -32994,6 +33030,24 @@
               "contributorCity": "Livermore",
               "contributorState": "CA",
               "contributorZip": "94551"
+            }
+          ]
+        },
+        {
+          "contributor": "LE03 - Awin Management, Inc.",
+          "contributorCity": "Phoenix",
+          "contributorState": "AZ",
+          "total": 1500,
+          "contributions": [
+            {
+              "date": "2022-06-04",
+              "amount": 1500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "LE03 - Awin Management, Inc.",
+              "contributorCity": "Phoenix",
+              "contributorState": "AZ",
+              "contributorZip": "85054"
             }
           ]
         },
@@ -62480,7 +62534,7 @@
       "city/county": "County",
       "office": "Sheriff",
       "district": "",
-      "total": 281767.88,
+      "total": 284267.88,
       "contributors": [
         {
           "contributor": "John Anderson",
@@ -63143,6 +63197,34 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95828"
+            }
+          ]
+        },
+        {
+          "contributor": "Gregory Padilla",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2500,
+          "contributions": [
+            {
+              "date": "2022-06-04",
+              "amount": 850,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Gregory",
+              "contributorLastName": "Padilla",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95841"
+            },
+            {
+              "date": "2022-06-04",
+              "amount": 1650,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Gregory",
+              "contributorLastName": "Padilla",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95841"
             }
           ]
         },
@@ -68504,7 +68586,7 @@
       "city/county": "County",
       "office": "Sheriff",
       "district": "",
-      "total": 778601.91,
+      "total": 779601.91,
       "contributors": [
         {
           "contributor": "Bail Hotline Bail Bonds",
@@ -74177,6 +74259,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95814"
+            }
+          ]
+        },
+        {
+          "contributor": "AT&T California Employee PAC",
+          "contributorCity": "San Francisco",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-06-04",
+              "amount": 1000,
+              "contributorCommitteeId": "981470",
+              "contributorFirstName": "",
+              "contributorLastName": "AT&T California Employee PAC",
+              "contributorCity": "San Francisco",
+              "contributorState": "CA",
+              "contributorZip": "94108"
             }
           ]
         },
