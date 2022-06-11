@@ -1,5 +1,5 @@
 {
-  "generated": "2022-06-09T00:13:21.143Z",
+  "generated": "2022-06-11T00:13:06.039Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -1176,7 +1176,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "1",
-      "total": 155059.69,
+      "total": 156859.69,
       "contributors": [
         {
           "contributor": "United Association of Journeymen & Apprentices of the U.S. & Canada Local 447 Federal PAC (FED PAC ID # C00320218)",
@@ -1785,6 +1785,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95826"
+            }
+          ]
+        },
+        {
+          "contributor": "Rick Jennings for City Council 2022",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1800,
+          "contributions": [
+            {
+              "date": "2022-06-07",
+              "amount": 1800,
+              "contributorCommitteeId": "1443348",
+              "contributorFirstName": "",
+              "contributorLastName": "Rick Jennings for City Council 2022",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95815"
             }
           ]
         },
@@ -7292,7 +7310,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "3",
-      "total": 159353.99,
+      "total": 160353.99,
       "contributors": [
         {
           "contributor": "Sacramento Central Labor Council, AFL-CIO",
@@ -8495,6 +8513,24 @@
               "contributorCity": "San Antonio",
               "contributorState": "TX",
               "contributorZip": "78249"
+            }
+          ]
+        },
+        {
+          "contributor": "Service Employees International Union Local 1000 Candidate PAC",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-06-07",
+              "amount": 1000,
+              "contributorCommitteeId": "1273063",
+              "contributorFirstName": "",
+              "contributorLastName": "Service Employees International Union Local 1000 Candidate PAC",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95811"
             }
           ]
         },
@@ -19791,7 +19827,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "5",
-      "total": 44225,
+      "total": 49025,
       "contributors": [
         {
           "contributor": "Sacramento Central Labor Council COPE",
@@ -19908,6 +19944,24 @@
               "contributorCity": "Los Angeles",
               "contributorState": "CA",
               "contributorZip": "90057"
+            }
+          ]
+        },
+        {
+          "contributor": "Northern California District Council of Laborers PAC",
+          "contributorCity": "Pleasanton",
+          "contributorState": "CA",
+          "total": 1800,
+          "contributions": [
+            {
+              "date": "2022-06-07",
+              "amount": 1800,
+              "contributorCommitteeId": "1243030",
+              "contributorFirstName": "",
+              "contributorLastName": "Northern California District Council of Laborers PAC",
+              "contributorCity": "Pleasanton",
+              "contributorState": "CA",
+              "contributorZip": "94588"
             }
           ]
         },
@@ -20070,6 +20124,60 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95818"
+            }
+          ]
+        },
+        {
+          "contributor": "Laborers Local Union 270 PAC",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-06-07",
+              "amount": 1000,
+              "contributorCommitteeId": "901351",
+              "contributorFirstName": "",
+              "contributorLastName": "Laborers Local Union 270 PAC",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            }
+          ]
+        },
+        {
+          "contributor": "Sheet Metal Workers 104 District 2",
+          "contributorCity": "Livermore",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-06-07",
+              "amount": 1000,
+              "contributorCommitteeId": "882292",
+              "contributorFirstName": "",
+              "contributorLastName": "Sheet Metal Workers 104 District 2",
+              "contributorCity": "Livermore",
+              "contributorState": "CA",
+              "contributorZip": "94551"
+            }
+          ]
+        },
+        {
+          "contributor": "Service Employees International Union Local 1000 Candidate PAC",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-06-07",
+              "amount": 1000,
+              "contributorCommitteeId": "1273063",
+              "contributorFirstName": "",
+              "contributorLastName": "Service Employees International Union Local 1000 Candidate PAC",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95811"
             }
           ]
         },
@@ -23376,7 +23484,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "7",
-      "total": 70200,
+      "total": 73800,
       "contributors": [
         {
           "contributor": "California Apartment Association PAC",
@@ -23714,6 +23822,42 @@
               "contributorCommitteeId": "1442529",
               "contributorFirstName": "",
               "contributorLastName": "Lisa Kaplan for City Council 2022",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95841"
+            }
+          ]
+        },
+        {
+          "contributor": "Tamiko Heim for City Council 2022",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1800,
+          "contributions": [
+            {
+              "date": "2022-06-07",
+              "amount": 1800,
+              "contributorCommitteeId": "1444633",
+              "contributorFirstName": "",
+              "contributorLastName": "Tamiko Heim for City Council 2022",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95841"
+            }
+          ]
+        },
+        {
+          "contributor": "Karina Talamantes for City Council 2022",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1800,
+          "contributions": [
+            {
+              "date": "2022-06-07",
+              "amount": 1800,
+              "contributorCommitteeId": "1443537",
+              "contributorFirstName": "",
+              "contributorLastName": "Karina Talamantes for City Council 2022",
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95841"
@@ -28859,7 +29003,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 116200,
+      "total": 118700,
       "contributors": [
         {
           "contributor": "Sacramento County Democratic Central Committee",
@@ -29164,6 +29308,24 @@
               "contributorCity": "Oakland",
               "contributorState": "CA",
               "contributorZip": "94621"
+            }
+          ]
+        },
+        {
+          "contributor": "United Food & Commercial Workers (UFWC) 8 Golden State PAC Small Contributor Committee",
+          "contributorCity": "Roseville",
+          "contributorState": "CA",
+          "total": 2500,
+          "contributions": [
+            {
+              "date": "2022-06-07",
+              "amount": 2500,
+              "contributorCommitteeId": "950663",
+              "contributorFirstName": "",
+              "contributorLastName": "United Food & Commercial Workers (UFWC) 8 Golden State PAC Small Contributor Committee",
+              "contributorCity": "Roseville",
+              "contributorState": "CA",
+              "contributorZip": "95610"
             }
           ]
         },
@@ -41552,7 +41714,7 @@
       "city/county": "County",
       "office": "District Attorney",
       "district": "",
-      "total": 206210.14,
+      "total": 208210.14,
       "contributors": [
         {
           "contributor": "Roee ZeReign Foundation",
@@ -42145,6 +42307,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95825"
+            }
+          ]
+        },
+        {
+          "contributor": "Rick Jennings for City Council 2022",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2000,
+          "contributions": [
+            {
+              "date": "2022-06-07",
+              "amount": 2000,
+              "contributorCommitteeId": "1443348",
+              "contributorFirstName": "",
+              "contributorLastName": "Rick Jennings for City Council 2022",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95815"
             }
           ]
         },
@@ -69210,7 +69390,7 @@
       "city/county": "County",
       "office": "Sheriff",
       "district": "",
-      "total": 786001.91,
+      "total": 791801.91,
       "contributors": [
         {
           "contributor": "Bail Hotline Bail Bonds",
@@ -71339,6 +71519,44 @@
           ]
         },
         {
+          "contributor": "DRIVE Committee",
+          "contributorCity": "Washington",
+          "contributorState": "DC",
+          "total": 3300,
+          "contributions": [
+            {
+              "date": "2022-04-16",
+              "amount": 750,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "DRIVE Committee",
+              "contributorCity": "Washington",
+              "contributorState": "DC",
+              "contributorZip": "20001"
+            },
+            {
+              "date": "2022-04-16",
+              "amount": 750,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "DRIVE Committee",
+              "contributorCity": "Washington",
+              "contributorState": "DC",
+              "contributorZip": "20001"
+            },
+            {
+              "date": "2022-06-07",
+              "amount": 1800,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "DRIVE Committee",
+              "contributorCity": "Washington",
+              "contributorState": "DC",
+              "contributorZip": "20001"
+            }
+          ]
+        },
+        {
           "contributor": "EZ2Winn, Inc. dba King Happy Star",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -72929,6 +73147,42 @@
           ]
         },
         {
+          "contributor": "Barry Goldstein",
+          "contributorCity": "Anaheim",
+          "contributorState": "CA",
+          "total": 2000,
+          "contributions": [
+            {
+              "date": "2022-06-07",
+              "amount": 2000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Barry",
+              "contributorLastName": "Goldstein",
+              "contributorCity": "Anaheim",
+              "contributorState": "CA",
+              "contributorZip": "92805"
+            }
+          ]
+        },
+        {
+          "contributor": "Rick Jennings for City Council 2022",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2000,
+          "contributions": [
+            {
+              "date": "2022-06-07",
+              "amount": 2000,
+              "contributorCommitteeId": "1443348",
+              "contributorFirstName": "",
+              "contributorLastName": "Rick Jennings for City Council 2022",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95815"
+            }
+          ]
+        },
+        {
           "contributor": "Evan Low for Assembly 2022",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -73475,34 +73729,6 @@
               "contributorCity": "Houston",
               "contributorState": "TX",
               "contributorZip": "77002"
-            }
-          ]
-        },
-        {
-          "contributor": "DRIVE Committee",
-          "contributorCity": "Washington",
-          "contributorState": "DC",
-          "total": 1500,
-          "contributions": [
-            {
-              "date": "2022-04-16",
-              "amount": 750,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "DRIVE Committee",
-              "contributorCity": "Washington",
-              "contributorState": "DC",
-              "contributorZip": "20001"
-            },
-            {
-              "date": "2022-04-16",
-              "amount": 750,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "DRIVE Committee",
-              "contributorCity": "Washington",
-              "contributorState": "DC",
-              "contributorZip": "20001"
             }
           ]
         },
