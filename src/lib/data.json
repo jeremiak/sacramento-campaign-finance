@@ -1,5 +1,5 @@
 {
-  "generated": "2022-08-11T00:15:56.098Z",
+  "generated": "2022-08-12T00:14:46.707Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -1230,8 +1230,36 @@
       "city/county": "City",
       "office": "City Council",
       "district": "1",
-      "total": 183059.69,
+      "total": 189059.69,
       "contributors": [
+        {
+          "contributor": "California Apartment Association PAC",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 12000,
+          "contributions": [
+            {
+              "date": "2022-04-12",
+              "amount": 6000,
+              "contributorCommitteeId": "745208",
+              "contributorFirstName": "",
+              "contributorLastName": "California Apartment Association PAC",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            },
+            {
+              "date": "2022-08-10",
+              "amount": 6000,
+              "contributorCommitteeId": "745208",
+              "contributorFirstName": "",
+              "contributorLastName": "California Apartment Association PAC",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            }
+          ]
+        },
         {
           "contributor": "United Association of Journeymen & Apprentices of the U.S. & Canada Local 447 Federal PAC (FED PAC ID # C00320218)",
           "contributorCity": "Sacramento",
@@ -1305,24 +1333,6 @@
               "contributorCity": "Los Angeles",
               "contributorState": "CA",
               "contributorZip": "90071"
-            }
-          ]
-        },
-        {
-          "contributor": "California Apartment Association PAC",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 6000,
-          "contributions": [
-            {
-              "date": "2022-04-12",
-              "amount": 6000,
-              "contributorCommitteeId": "745208",
-              "contributorFirstName": "",
-              "contributorLastName": "California Apartment Association PAC",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95814"
             }
           ]
         },
@@ -14865,8 +14875,36 @@
       "city/county": "City",
       "office": "City Council",
       "district": "3",
-      "total": 189200.76,
+      "total": 195200.76,
       "contributors": [
+        {
+          "contributor": "California Apartment Association PAC",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 12000,
+          "contributions": [
+            {
+              "date": "2022-04-12",
+              "amount": 6000,
+              "contributorCommitteeId": "745208",
+              "contributorFirstName": "",
+              "contributorLastName": "California Apartment Association PAC",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            },
+            {
+              "date": "2022-08-10",
+              "amount": 6000,
+              "contributorCommitteeId": "745208",
+              "contributorFirstName": "",
+              "contributorLastName": "California Apartment Association PAC",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            }
+          ]
+        },
         {
           "contributor": "Plumbers & Pipefitters Local 447 Federal Political Fund",
           "contributorCity": "Sacramento",
@@ -14918,24 +14956,6 @@
               "contributorCity": "Los Angeles",
               "contributorState": "CA",
               "contributorZip": "90071"
-            }
-          ]
-        },
-        {
-          "contributor": "California Apartment Association PAC",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 6000,
-          "contributions": [
-            {
-              "date": "2022-04-12",
-              "amount": 6000,
-              "contributorCommitteeId": "745208",
-              "contributorFirstName": "",
-              "contributorLastName": "California Apartment Association PAC",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95814"
             }
           ]
         },
