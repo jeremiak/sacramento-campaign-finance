@@ -1,5 +1,5 @@
 {
-  "generated": "2022-08-12T00:14:46.707Z",
+  "generated": "2022-08-13T00:16:07.263Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -1230,7 +1230,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "1",
-      "total": 189059.69,
+      "total": 190059.69,
       "contributors": [
         {
           "contributor": "California Apartment Association PAC",
@@ -1479,6 +1479,34 @@
               "contributorCity": "Roseville",
               "contributorState": "CA",
               "contributorZip": "95661"
+            }
+          ]
+        },
+        {
+          "contributor": "Steve Hansen for Mayor 2024",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2000,
+          "contributions": [
+            {
+              "date": "2022-01-07",
+              "amount": 1000,
+              "contributorCommitteeId": "1434125",
+              "contributorFirstName": "",
+              "contributorLastName": "Steve Hansen for Mayor 2024",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95815"
+            },
+            {
+              "date": "2022-08-11",
+              "amount": 1000,
+              "contributorCommitteeId": "1434125",
+              "contributorFirstName": "",
+              "contributorLastName": "Steve Hansen for Mayor 2024",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95815"
             }
           ]
         },
@@ -2187,24 +2215,6 @@
               "contributorCity": "San Francisco",
               "contributorState": "CA",
               "contributorZip": "94133"
-            }
-          ]
-        },
-        {
-          "contributor": "Steve Hansen for Mayor 2024",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 1000,
-          "contributions": [
-            {
-              "date": "2022-01-07",
-              "amount": 1000,
-              "contributorCommitteeId": "1434125",
-              "contributorFirstName": "",
-              "contributorLastName": "Steve Hansen for Mayor 2024",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95815"
             }
           ]
         },
@@ -14875,7 +14885,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "3",
-      "total": 195200.76,
+      "total": 197000.76,
       "contributors": [
         {
           "contributor": "California Apartment Association PAC",
@@ -15462,6 +15472,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95823"
+            }
+          ]
+        },
+        {
+          "contributor": "PGBC, Inc.",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1800,
+          "contributions": [
+            {
+              "date": "2022-08-10",
+              "amount": 1800,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "PGBC, Inc.",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95828"
             }
           ]
         },
@@ -21013,7 +21041,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "5",
-      "total": 53825,
+      "total": 55625,
       "contributors": [
         {
           "contributor": "Sacramento Central Labor Council COPE",
@@ -21166,6 +21194,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95820"
+            }
+          ]
+        },
+        {
+          "contributor": "David Spradlin",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1800,
+          "contributions": [
+            {
+              "date": "2022-08-10",
+              "amount": 1800,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "David",
+              "contributorLastName": "Spradlin",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95815"
             }
           ]
         },
@@ -35247,8 +35293,36 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 296378.47,
+      "total": 298878.47,
       "contributors": [
+        {
+          "contributor": "California Apartment Association PAC",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 5000,
+          "contributions": [
+            {
+              "date": "2022-02-03",
+              "amount": 2500,
+              "contributorCommitteeId": "745208",
+              "contributorFirstName": "",
+              "contributorLastName": "California Apartment Association PAC",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            },
+            {
+              "date": "2022-08-10",
+              "amount": 2500,
+              "contributorCommitteeId": "745208",
+              "contributorFirstName": "",
+              "contributorLastName": "California Apartment Association PAC",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            }
+          ]
+        },
         {
           "contributor": "Region Business",
           "contributorCity": "Sacramento",
@@ -35724,24 +35798,6 @@
               "contributorCity": "Eagle",
               "contributorState": "ID",
               "contributorZip": "83616"
-            }
-          ]
-        },
-        {
-          "contributor": "California Apartment Association PAC",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 2500,
-          "contributions": [
-            {
-              "date": "2022-02-03",
-              "amount": 2500,
-              "contributorCommitteeId": "745208",
-              "contributorFirstName": "",
-              "contributorLastName": "California Apartment Association PAC",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95814"
             }
           ]
         },
