@@ -1,5 +1,5 @@
 {
-  "generated": "2022-08-13T00:16:07.263Z",
+  "generated": "2022-08-14T00:16:01.447Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -14885,7 +14885,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "3",
-      "total": 197000.76,
+      "total": 198500.76,
       "contributors": [
         {
           "contributor": "California Apartment Association PAC",
@@ -15602,6 +15602,24 @@
               "contributorCity": "Roseville",
               "contributorState": "CA",
               "contributorZip": "95747"
+            }
+          ]
+        },
+        {
+          "contributor": "Michael Casper",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1500,
+          "contributions": [
+            {
+              "date": "2022-08-11",
+              "amount": 1500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Michael",
+              "contributorLastName": "Casper",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95838"
             }
           ]
         },
@@ -23776,16 +23794,26 @@
       "city/county": "City",
       "office": "City Council",
       "district": "5",
-      "total": 90800,
+      "total": 96800,
       "contributors": [
         {
           "contributor": "California Apartment Association PAC",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
-          "total": 6000,
+          "total": 12000,
           "contributions": [
             {
               "date": "2022-04-11",
+              "amount": 6000,
+              "contributorCommitteeId": "745208",
+              "contributorFirstName": "",
+              "contributorLastName": "California Apartment Association PAC",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            },
+            {
+              "date": "2022-08-12",
               "amount": 6000,
               "contributorCommitteeId": "745208",
               "contributorFirstName": "",
@@ -35293,7 +35321,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 298878.47,
+      "total": 301478.47,
       "contributors": [
         {
           "contributor": "California Apartment Association PAC",
@@ -35752,6 +35780,62 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95825"
+            }
+          ]
+        },
+        {
+          "contributor": "Michael Carlson",
+          "contributorCity": "Elk Grove",
+          "contributorState": "CA",
+          "total": 2600,
+          "contributions": [
+            {
+              "date": "2022-01-05",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Michael",
+              "contributorLastName": "Carlson",
+              "contributorCity": "Elk Grove",
+              "contributorState": "CA",
+              "contributorZip": "95624"
+            },
+            {
+              "date": "2022-08-11",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Michael",
+              "contributorLastName": "Carlson",
+              "contributorCity": "Elk Grove",
+              "contributorState": "CA",
+              "contributorZip": "95624"
+            }
+          ]
+        },
+        {
+          "contributor": "Sheryl Ann Carlson",
+          "contributorCity": "Elk Grove",
+          "contributorState": "CA",
+          "total": 2600,
+          "contributions": [
+            {
+              "date": "2022-01-05",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Sheryl Ann",
+              "contributorLastName": "Carlson",
+              "contributorCity": "Elk Grove",
+              "contributorState": "CA",
+              "contributorZip": "95624"
+            },
+            {
+              "date": "2022-08-11",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Sheryl Ann",
+              "contributorLastName": "Carlson",
+              "contributorCity": "Elk Grove",
+              "contributorState": "CA",
+              "contributorZip": "95624"
             }
           ]
         },
@@ -36298,24 +36382,6 @@
           ]
         },
         {
-          "contributor": "Michael Carlson",
-          "contributorCity": "Elk Grove",
-          "contributorState": "CA",
-          "total": 1300,
-          "contributions": [
-            {
-              "date": "2022-01-05",
-              "amount": 1300,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Michael",
-              "contributorLastName": "Carlson",
-              "contributorCity": "Elk Grove",
-              "contributorState": "CA",
-              "contributorZip": "95624"
-            }
-          ]
-        },
-        {
           "contributor": "Bruce Walters",
           "contributorCity": "Elk Grove",
           "contributorState": "CA",
@@ -36484,24 +36550,6 @@
               "contributorCity": "Elk Grove",
               "contributorState": "CA",
               "contributorZip": "95758"
-            }
-          ]
-        },
-        {
-          "contributor": "Sheryl Ann Carlson",
-          "contributorCity": "Elk Grove",
-          "contributorState": "CA",
-          "total": 1300,
-          "contributions": [
-            {
-              "date": "2022-01-05",
-              "amount": 1300,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Sheryl Ann",
-              "contributorLastName": "Carlson",
-              "contributorCity": "Elk Grove",
-              "contributorState": "CA",
-              "contributorZip": "95624"
             }
           ]
         },
