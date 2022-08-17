@@ -1,5 +1,5 @@
 {
-  "generated": "2022-08-16T00:16:37.623Z",
+  "generated": "2022-08-17T00:15:04.972Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -35321,7 +35321,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 301478.47,
+      "total": 306778.47,
       "contributors": [
         {
           "contributor": "California Apartment Association PAC",
@@ -35784,6 +35784,24 @@
           ]
         },
         {
+          "contributor": "Myers and Sons Construction, LLC(C.C. Myers)",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2700,
+          "contributions": [
+            {
+              "date": "2022-08-12",
+              "amount": 2700,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Myers and Sons Construction, LLC(C.C. Myers)",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95838"
+            }
+          ]
+        },
+        {
           "contributor": "Michael Carlson",
           "contributorCity": "Elk Grove",
           "contributorState": "CA",
@@ -35808,6 +35826,34 @@
               "contributorCity": "Elk Grove",
               "contributorState": "CA",
               "contributorZip": "95624"
+            }
+          ]
+        },
+        {
+          "contributor": "Chet Fite",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2600,
+          "contributions": [
+            {
+              "date": "2022-01-19",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Chet",
+              "contributorLastName": "Fite",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95827"
+            },
+            {
+              "date": "2022-08-13",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Chet",
+              "contributorLastName": "Fite",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95827"
             }
           ]
         },
@@ -36496,24 +36542,6 @@
               "contributorCity": "Waban",
               "contributorState": "MA",
               "contributorZip": "02468"
-            }
-          ]
-        },
-        {
-          "contributor": "Chet Fite",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 1300,
-          "contributions": [
-            {
-              "date": "2022-01-19",
-              "amount": 1300,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Chet",
-              "contributorLastName": "Fite",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95827"
             }
           ]
         },
@@ -37606,6 +37634,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95825"
+            }
+          ]
+        },
+        {
+          "contributor": "Parkway Company, LLC(Michael J. Cooke)",
+          "contributorCity": "El Dorado Hills",
+          "contributorState": "CA",
+          "total": 1300,
+          "contributions": [
+            {
+              "date": "2022-08-12",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Parkway Company, LLC(Michael J. Cooke)",
+              "contributorCity": "El Dorado Hills",
+              "contributorState": "CA",
+              "contributorZip": "95762"
             }
           ]
         },
