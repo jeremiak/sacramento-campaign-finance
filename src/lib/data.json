@@ -1,5 +1,5 @@
 {
-  "generated": "2022-08-17T00:15:04.972Z",
+  "generated": "2022-08-18T00:16:11.351Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -1230,7 +1230,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "1",
-      "total": 190059.69,
+      "total": 191079.69,
       "contributors": [
         {
           "contributor": "California Apartment Association PAC",
@@ -2215,6 +2215,34 @@
               "contributorCity": "San Francisco",
               "contributorState": "CA",
               "contributorZip": "94133"
+            }
+          ]
+        },
+        {
+          "contributor": "Martin A Harom and Auburn Manor Holding Corporation",
+          "contributorCity": "Rocklin",
+          "contributorState": "CA",
+          "total": 1020,
+          "contributions": [
+            {
+              "date": "2022-08-15",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Martin A Harom and Auburn Manor Holding Corporation",
+              "contributorCity": "Rocklin",
+              "contributorState": "CA",
+              "contributorZip": "95677"
+            },
+            {
+              "date": "2022-08-15",
+              "amount": 20,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Martin A Harom and Auburn Manor Holding Corporation",
+              "contributorCity": "Rocklin",
+              "contributorState": "CA",
+              "contributorZip": "95677"
             }
           ]
         },
@@ -8046,7 +8074,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "3",
-      "total": 168130.99,
+      "total": 169930.99,
       "contributors": [
         {
           "contributor": "Sacramento Central Labor Council, AFL-CIO",
@@ -8557,6 +8585,24 @@
               "contributorCity": "Long Beach",
               "contributorState": "CA",
               "contributorZip": "90802"
+            }
+          ]
+        },
+        {
+          "contributor": "Taylor & Wiley",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1800,
+          "contributions": [
+            {
+              "date": "2022-08-15",
+              "amount": 1800,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Taylor & Wiley",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
             }
           ]
         },
@@ -14885,7 +14931,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "3",
-      "total": 198500.76,
+      "total": 200300.76,
       "contributors": [
         {
           "contributor": "California Apartment Association PAC",
@@ -15490,6 +15536,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95828"
+            }
+          ]
+        },
+        {
+          "contributor": "Mark Adams",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1800,
+          "contributions": [
+            {
+              "date": "2022-08-16",
+              "amount": 1800,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Mark",
+              "contributorLastName": "Adams",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95829"
             }
           ]
         },
@@ -23794,7 +23858,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "5",
-      "total": 96800,
+      "total": 97800,
       "contributors": [
         {
           "contributor": "California Apartment Association PAC",
@@ -23957,6 +24021,34 @@
               "contributorCity": "Granite Bay",
               "contributorState": "CA",
               "contributorZip": "95746"
+            }
+          ]
+        },
+        {
+          "contributor": "Steve Hansen for Mayor 2024",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2000,
+          "contributions": [
+            {
+              "date": "2022-03-21",
+              "amount": 1000,
+              "contributorCommitteeId": "1434125",
+              "contributorFirstName": "",
+              "contributorLastName": "Steve Hansen for Mayor 2024",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95815"
+            },
+            {
+              "date": "2022-08-15",
+              "amount": 1000,
+              "contributorCommitteeId": "1434125",
+              "contributorFirstName": "",
+              "contributorLastName": "Steve Hansen for Mayor 2024",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95815"
             }
           ]
         },
@@ -24219,24 +24311,6 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95831"
-            }
-          ]
-        },
-        {
-          "contributor": "Steve Hansen for Mayor 2024",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 1000,
-          "contributions": [
-            {
-              "date": "2022-03-21",
-              "amount": 1000,
-              "contributorCommitteeId": "1434125",
-              "contributorFirstName": "",
-              "contributorLastName": "Steve Hansen for Mayor 2024",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95815"
             }
           ]
         },
@@ -31335,8 +31409,130 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 120860,
+      "total": 131260,
       "contributors": [
+        {
+          "contributor": "Dignity California SEIU Local 2015",
+          "contributorCity": "Los Angeles",
+          "contributorState": "CA",
+          "total": 5400,
+          "contributions": [
+            {
+              "date": "2022-05-06",
+              "amount": 2700,
+              "contributorCommitteeId": "1357256",
+              "contributorFirstName": "",
+              "contributorLastName": "Dignity California SEIU Local 2015",
+              "contributorCity": "Los Angeles",
+              "contributorState": "CA",
+              "contributorZip": "90057"
+            },
+            {
+              "date": "2022-08-15",
+              "amount": 2700,
+              "contributorCommitteeId": "1357256",
+              "contributorFirstName": "",
+              "contributorLastName": "Dignity California SEIU Local 2015",
+              "contributorCity": "Los Angeles",
+              "contributorState": "CA",
+              "contributorZip": "90057"
+            }
+          ]
+        },
+        {
+          "contributor": "Sacramento Central Labor Council - COPE",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 5400,
+          "contributions": [
+            {
+              "date": "2022-02-04",
+              "amount": 2700,
+              "contributorCommitteeId": "743338",
+              "contributorFirstName": "",
+              "contributorLastName": "Sacramento Central Labor Council - COPE",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95841"
+            },
+            {
+              "date": "2022-08-15",
+              "amount": 2700,
+              "contributorCommitteeId": "743338",
+              "contributorFirstName": "",
+              "contributorLastName": "Sacramento Central Labor Council - COPE",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95841"
+            }
+          ]
+        },
+        {
+          "contributor": "Harry S. Truman Club",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 4700,
+          "contributions": [
+            {
+              "date": "2022-04-12",
+              "amount": 2000,
+              "contributorCommitteeId": "810370",
+              "contributorFirstName": "",
+              "contributorLastName": "Harry S. Truman Club",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95841"
+            },
+            {
+              "date": "2022-08-15",
+              "amount": 2700,
+              "contributorCommitteeId": "810370",
+              "contributorFirstName": "",
+              "contributorLastName": "Harry S. Truman Club",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95841"
+            }
+          ]
+        },
+        {
+          "contributor": "California Nurses Association PAC (CNA-PAC) Small Contributor Committee",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 3300,
+          "contributions": [
+            {
+              "date": "2022-05-11",
+              "amount": 1000,
+              "contributorCommitteeId": "780657",
+              "contributorFirstName": "",
+              "contributorLastName": "California Nurses Association PAC (CNA-PAC) Small Contributor Committee",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            },
+            {
+              "date": "2022-03-03",
+              "amount": 1000,
+              "contributorCommitteeId": "780657",
+              "contributorFirstName": "",
+              "contributorLastName": "California Nurses Association PAC (CNA-PAC) Small Contributor Committee",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            },
+            {
+              "date": "2022-08-15",
+              "amount": 1300,
+              "contributorCommitteeId": "780657",
+              "contributorFirstName": "",
+              "contributorLastName": "California Nurses Association PAC (CNA-PAC) Small Contributor Committee",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            }
+          ]
+        },
         {
           "contributor": "IUPAT Polititical Action Together Legislative Education Committee",
           "contributorCity": "Hanover",
@@ -31392,24 +31588,6 @@
           ]
         },
         {
-          "contributor": "Dignity California SEIU Local 2015",
-          "contributorCity": "Los Angeles",
-          "contributorState": "CA",
-          "total": 2700,
-          "contributions": [
-            {
-              "date": "2022-05-06",
-              "amount": 2700,
-              "contributorCommitteeId": "1357256",
-              "contributorFirstName": "",
-              "contributorLastName": "Dignity California SEIU Local 2015",
-              "contributorCity": "Los Angeles",
-              "contributorState": "CA",
-              "contributorZip": "90057"
-            }
-          ]
-        },
-        {
           "contributor": "United Food and Commercial Workers (UFCW) Western States Council Candidate PAC Small Contributor Committee",
           "contributorCity": "Bueno Park",
           "contributorState": "CA",
@@ -31460,24 +31638,6 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95816"
-            }
-          ]
-        },
-        {
-          "contributor": "Sacramento Central Labor Council - COPE",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 2700,
-          "contributions": [
-            {
-              "date": "2022-02-04",
-              "amount": 2700,
-              "contributorCommitteeId": "743338",
-              "contributorFirstName": "",
-              "contributorLastName": "Sacramento Central Labor Council - COPE",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95841"
             }
           ]
         },
@@ -31746,48 +31906,30 @@
           ]
         },
         {
-          "contributor": "California Nurses Association PAC (CNA-PAC) Small Contributor Committee",
+          "contributor": "National Women's Political Caucus Sacramento PAC",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
           "total": 2000,
           "contributions": [
             {
-              "date": "2022-05-11",
+              "date": "2022-01-14",
               "amount": 1000,
-              "contributorCommitteeId": "780657",
+              "contributorCommitteeId": "1333708",
               "contributorFirstName": "",
-              "contributorLastName": "California Nurses Association PAC (CNA-PAC) Small Contributor Committee",
+              "contributorLastName": "National Women's Political Caucus Sacramento PAC",
               "contributorCity": "Sacramento",
               "contributorState": "CA",
-              "contributorZip": "95814"
+              "contributorZip": "95816"
             },
             {
-              "date": "2022-03-03",
+              "date": "2022-08-16",
               "amount": 1000,
-              "contributorCommitteeId": "780657",
+              "contributorCommitteeId": "1333708",
               "contributorFirstName": "",
-              "contributorLastName": "California Nurses Association PAC (CNA-PAC) Small Contributor Committee",
+              "contributorLastName": "National Women's Political Caucus Sacramento PAC",
               "contributorCity": "Sacramento",
               "contributorState": "CA",
-              "contributorZip": "95814"
-            }
-          ]
-        },
-        {
-          "contributor": "Harry S. Truman Club",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 2000,
-          "contributions": [
-            {
-              "date": "2022-04-12",
-              "amount": 2000,
-              "contributorCommitteeId": "810370",
-              "contributorFirstName": "",
-              "contributorLastName": "Harry S. Truman Club",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95841"
+              "contributorZip": "95816"
             }
           ]
         },
@@ -32244,24 +32386,6 @@
               "contributorCity": "Stockton",
               "contributorState": "CA",
               "contributorZip": "95206"
-            }
-          ]
-        },
-        {
-          "contributor": "National Women's Political Caucus Sacramento PAC",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 1000,
-          "contributions": [
-            {
-              "date": "2022-01-14",
-              "amount": 1000,
-              "contributorCommitteeId": "1333708",
-              "contributorFirstName": "",
-              "contributorLastName": "National Women's Political Caucus Sacramento PAC",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95816"
             }
           ]
         },
@@ -35321,7 +35445,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 306778.47,
+      "total": 312178.47,
       "contributors": [
         {
           "contributor": "California Apartment Association PAC",
@@ -35348,6 +35472,34 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95814"
+            }
+          ]
+        },
+        {
+          "contributor": "LDKV Management, Inc.",
+          "contributorCity": "Mcclellan",
+          "contributorState": "CA",
+          "total": 4000,
+          "contributions": [
+            {
+              "date": "2022-05-16",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "LDKV Management, Inc.",
+              "contributorCity": "Mcclellan",
+              "contributorState": "CA",
+              "contributorZip": "95652"
+            },
+            {
+              "date": "2022-08-15",
+              "amount": 2700,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "LDKV Management, Inc.",
+              "contributorCity": "Mcclellan",
+              "contributorState": "CA",
+              "contributorZip": "95652"
             }
           ]
         },
@@ -35798,6 +35950,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95838"
+            }
+          ]
+        },
+        {
+          "contributor": "DesCor Builders",
+          "contributorCity": "Rancho Cordova",
+          "contributorState": "CA",
+          "total": 2700,
+          "contributions": [
+            {
+              "date": "2022-08-15",
+              "amount": 2700,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "DesCor Builders",
+              "contributorCity": "Rancho Cordova",
+              "contributorState": "CA",
+              "contributorZip": "95670"
             }
           ]
         },
@@ -37490,24 +37660,6 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95816"
-            }
-          ]
-        },
-        {
-          "contributor": "LDKV Management, Inc.",
-          "contributorCity": "Mcclellan",
-          "contributorState": "CA",
-          "total": 1300,
-          "contributions": [
-            {
-              "date": "2022-05-16",
-              "amount": 1300,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "LDKV Management, Inc.",
-              "contributorCity": "Mcclellan",
-              "contributorState": "CA",
-              "contributorZip": "95652"
             }
           ]
         },
