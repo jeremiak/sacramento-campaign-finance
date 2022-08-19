@@ -1,5 +1,5 @@
 {
-  "generated": "2022-08-18T00:16:11.351Z",
+  "generated": "2022-08-19T00:17:02.045Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -35445,7 +35445,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 312178.47,
+      "total": 317878.47,
       "contributors": [
         {
           "contributor": "California Apartment Association PAC",
@@ -35972,6 +35972,24 @@
           ]
         },
         {
+          "contributor": "Anton DevCo",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2700,
+          "contributions": [
+            {
+              "date": "2022-08-16",
+              "amount": 2700,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Anton DevCo",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95811"
+            }
+          ]
+        },
+        {
           "contributor": "Michael Carlson",
           "contributorCity": "Elk Grove",
           "contributorState": "CA",
@@ -36374,6 +36392,42 @@
               "contributorCity": "Livermore",
               "contributorState": "CA",
               "contributorZip": "94551"
+            }
+          ]
+        },
+        {
+          "contributor": "John H. Kautz Farms",
+          "contributorCity": "Lodi",
+          "contributorState": "CA",
+          "total": 1500,
+          "contributions": [
+            {
+              "date": "2022-08-16",
+              "amount": 1500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "John H. Kautz Farms",
+              "contributorCity": "Lodi",
+              "contributorState": "CA",
+              "contributorZip": "95240"
+            }
+          ]
+        },
+        {
+          "contributor": "Kautz Row Crop Farms",
+          "contributorCity": "Lodi",
+          "contributorState": "CA",
+          "total": 1500,
+          "contributions": [
+            {
+              "date": "2022-08-16",
+              "amount": 1500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Kautz Row Crop Farms",
+              "contributorCity": "Lodi",
+              "contributorState": "CA",
+              "contributorZip": "95240"
             }
           ]
         },
