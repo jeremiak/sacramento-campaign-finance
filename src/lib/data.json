@@ -1,5 +1,5 @@
 {
-  "generated": "2022-08-19T00:17:02.045Z",
+  "generated": "2022-08-20T00:14:27.409Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -31409,7 +31409,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 131260,
+      "total": 133960,
       "contributors": [
         {
           "contributor": "Dignity California SEIU Local 2015",
@@ -31436,6 +31436,34 @@
               "contributorCity": "Los Angeles",
               "contributorState": "CA",
               "contributorZip": "90057"
+            }
+          ]
+        },
+        {
+          "contributor": "International Brotherhood of Electrical Workers Local 340 PAC Small Contributor Committee",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 5400,
+          "contributions": [
+            {
+              "date": "2022-05-17",
+              "amount": 2700,
+              "contributorCommitteeId": "880039",
+              "contributorFirstName": "",
+              "contributorLastName": "International Brotherhood of Electrical Workers Local 340 PAC Small Contributor Committee",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            },
+            {
+              "date": "2022-08-17",
+              "amount": 2700,
+              "contributorCommitteeId": "880039",
+              "contributorFirstName": "",
+              "contributorLastName": "International Brotherhood of Electrical Workers Local 340 PAC Small Contributor Committee",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
             }
           ]
         },
@@ -31602,24 +31630,6 @@
               "contributorCity": "Bueno Park",
               "contributorState": "CA",
               "contributorZip": "90620"
-            }
-          ]
-        },
-        {
-          "contributor": "International Brotherhood of Electrical Workers Local 340 PAC Small Contributor Committee",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 2700,
-          "contributions": [
-            {
-              "date": "2022-05-17",
-              "amount": 2700,
-              "contributorCommitteeId": "880039",
-              "contributorFirstName": "",
-              "contributorLastName": "International Brotherhood of Electrical Workers Local 340 PAC Small Contributor Committee",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95814"
             }
           ]
         },
@@ -35445,8 +35455,36 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 317878.47,
+      "total": 323278.47,
       "contributors": [
+        {
+          "contributor": "Elliott Homes, Inc.",
+          "contributorCity": "Folsom",
+          "contributorState": "CA",
+          "total": 5400,
+          "contributions": [
+            {
+              "date": "2022-03-16",
+              "amount": 2700,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Elliott Homes, Inc.",
+              "contributorCity": "Folsom",
+              "contributorState": "CA",
+              "contributorZip": "95630"
+            },
+            {
+              "date": "2022-08-17",
+              "amount": 2700,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Elliott Homes, Inc.",
+              "contributorCity": "Folsom",
+              "contributorState": "CA",
+              "contributorZip": "95630"
+            }
+          ]
+        },
         {
           "contributor": "California Apartment Association PAC",
           "contributorCity": "Sacramento",
@@ -35756,24 +35794,6 @@
           ]
         },
         {
-          "contributor": "Elliott Homes, Inc.",
-          "contributorCity": "Folsom",
-          "contributorState": "CA",
-          "total": 2700,
-          "contributions": [
-            {
-              "date": "2022-03-16",
-              "amount": 2700,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "Elliott Homes, Inc.",
-              "contributorCity": "Folsom",
-              "contributorState": "CA",
-              "contributorZip": "95630"
-            }
-          ]
-        },
-        {
           "contributor": "Wood Rodgers, Inc.",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -35986,6 +36006,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95811"
+            }
+          ]
+        },
+        {
+          "contributor": "Montez Glass, Inc.",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2700,
+          "contributions": [
+            {
+              "date": "2022-08-17",
+              "amount": 2700,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Montez Glass, Inc.",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95820"
             }
           ]
         },
