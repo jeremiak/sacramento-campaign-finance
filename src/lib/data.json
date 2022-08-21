@@ -1,5 +1,5 @@
 {
-  "generated": "2022-08-20T00:14:27.409Z",
+  "generated": "2022-08-21T00:16:51.352Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -8074,7 +8074,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "3",
-      "total": 169930.99,
+      "total": 173530.99,
       "contributors": [
         {
           "contributor": "Sacramento Central Labor Council, AFL-CIO",
@@ -8181,6 +8181,72 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95819"
+            }
+          ]
+        },
+        {
+          "contributor": "Steinberg for Sacramento Mayor 2020",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 3600,
+          "contributions": [
+            {
+              "date": "2022-02-07",
+              "amount": 500,
+              "contributorCommitteeId": "1388020",
+              "contributorFirstName": "",
+              "contributorLastName": "Steinberg for Sacramento Mayor 2020",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95815"
+            },
+            {
+              "date": "2022-03-24",
+              "amount": 1300,
+              "contributorCommitteeId": "1388020",
+              "contributorFirstName": "",
+              "contributorLastName": "Steinberg for Sacramento Mayor 2020",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95815"
+            },
+            {
+              "date": "2022-08-18",
+              "amount": 1800,
+              "contributorCommitteeId": "1388020",
+              "contributorFirstName": "",
+              "contributorLastName": "Steinberg for Sacramento Mayor 2020",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95815"
+            }
+          ]
+        },
+        {
+          "contributor": "Capitol Casino",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 3600,
+          "contributions": [
+            {
+              "date": "2022-03-28",
+              "amount": 1800,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Capitol Casino",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95811"
+            },
+            {
+              "date": "2022-08-18",
+              "amount": 1800,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Capitol Casino",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95811"
             }
           ]
         },
@@ -8333,34 +8399,6 @@
           ]
         },
         {
-          "contributor": "Steinberg for Sacramento Mayor 2020",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 1800,
-          "contributions": [
-            {
-              "date": "2022-02-07",
-              "amount": 500,
-              "contributorCommitteeId": "1388020",
-              "contributorFirstName": "",
-              "contributorLastName": "Steinberg for Sacramento Mayor 2020",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95815"
-            },
-            {
-              "date": "2022-03-24",
-              "amount": 1300,
-              "contributorCommitteeId": "1388020",
-              "contributorFirstName": "",
-              "contributorLastName": "Steinberg for Sacramento Mayor 2020",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95815"
-            }
-          ]
-        },
-        {
           "contributor": "Sotiris Kolokotronis",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -8431,24 +8469,6 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95814"
-            }
-          ]
-        },
-        {
-          "contributor": "Capitol Casino",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 1800,
-          "contributions": [
-            {
-              "date": "2022-03-28",
-              "amount": 1800,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "Capitol Casino",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95811"
             }
           ]
         },
@@ -14931,7 +14951,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "3",
-      "total": 200300.76,
+      "total": 201100.76,
       "contributors": [
         {
           "contributor": "California Apartment Association PAC",
@@ -15558,44 +15578,6 @@
           ]
         },
         {
-          "contributor": "John Hornsby",
-          "contributorCity": "Jamul",
-          "contributorState": "CA",
-          "total": 1700,
-          "contributions": [
-            {
-              "date": "2022-01-19",
-              "amount": 1000,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "John",
-              "contributorLastName": "Hornsby",
-              "contributorCity": "Jamul",
-              "contributorState": "CA",
-              "contributorZip": "91935"
-            },
-            {
-              "date": "2022-03-29",
-              "amount": 500,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "John",
-              "contributorLastName": "Hornsby",
-              "contributorCity": "Jamul",
-              "contributorState": "CA",
-              "contributorZip": "91935"
-            },
-            {
-              "date": "2022-03-29",
-              "amount": 200,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "John",
-              "contributorLastName": "Hornsby",
-              "contributorCity": "Jamul",
-              "contributorState": "CA",
-              "contributorZip": "91935"
-            }
-          ]
-        },
-        {
           "contributor": "Donna Lucas",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -15620,6 +15602,34 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95864"
+            }
+          ]
+        },
+        {
+          "contributor": "John Hornsby",
+          "contributorCity": "Jamul",
+          "contributorState": "CA",
+          "total": 1500,
+          "contributions": [
+            {
+              "date": "2022-01-19",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "John",
+              "contributorLastName": "Hornsby",
+              "contributorCity": "Jamul",
+              "contributorState": "CA",
+              "contributorZip": "91935"
+            },
+            {
+              "date": "2022-03-29",
+              "amount": 500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "John",
+              "contributorLastName": "Hornsby",
+              "contributorCity": "Jamul",
+              "contributorState": "CA",
+              "contributorZip": "91935"
             }
           ]
         },
@@ -16374,6 +16384,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95816"
+            }
+          ]
+        },
+        {
+          "contributor": "Ken Turton",
+          "contributorCity": "Roseville",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-08-18",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Ken",
+              "contributorLastName": "Turton",
+              "contributorCity": "Roseville",
+              "contributorState": "CA",
+              "contributorZip": "95661"
             }
           ]
         },
@@ -31409,7 +31437,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 133960,
+      "total": 136660,
       "contributors": [
         {
           "contributor": "Dignity California SEIU Local 2015",
@@ -31735,6 +31763,24 @@
               "contributorCommitteeId": "1388020",
               "contributorFirstName": "",
               "contributorLastName": "Steinberg for Sacramento Mayor 2020",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95815"
+            }
+          ]
+        },
+        {
+          "contributor": "Heidi Sanborn for SMUD Board 2022",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2700,
+          "contributions": [
+            {
+              "date": "2022-08-19",
+              "amount": 2700,
+              "contributorCommitteeId": "1403819",
+              "contributorFirstName": "",
+              "contributorLastName": "Heidi Sanborn for SMUD Board 2022",
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95815"
@@ -35455,7 +35501,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 323278.47,
+      "total": 325978.47,
       "contributors": [
         {
           "contributor": "Elliott Homes, Inc.",
@@ -35482,6 +35528,34 @@
               "contributorCity": "Folsom",
               "contributorState": "CA",
               "contributorZip": "95630"
+            }
+          ]
+        },
+        {
+          "contributor": "Wood Rodgers, Inc.",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 5400,
+          "contributions": [
+            {
+              "date": "2022-03-24",
+              "amount": 2700,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Wood Rodgers, Inc.",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95816"
+            },
+            {
+              "date": "2022-08-18",
+              "amount": 2700,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Wood Rodgers, Inc.",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95816"
             }
           ]
         },
@@ -35790,24 +35864,6 @@
               "contributorCity": "Rancho Cordova",
               "contributorState": "CA",
               "contributorZip": "95670"
-            }
-          ]
-        },
-        {
-          "contributor": "Wood Rodgers, Inc.",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 2700,
-          "contributions": [
-            {
-              "date": "2022-03-24",
-              "amount": 2700,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "Wood Rodgers, Inc.",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95816"
             }
           ]
         },
