@@ -113,6 +113,9 @@
       >it here</a
     >.
   </p>
+  <p>
+    Looking for this page as it looked at the end of the primary? That's <a href="https://62a13b239387a00008d3999a--sacramento-campaign-cash.netlify.app/">right here</a>.
+  </p>
 </footer>
 
 <style lang="scss">
