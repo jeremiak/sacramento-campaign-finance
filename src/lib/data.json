@@ -1,5 +1,5 @@
 {
-  "generated": "2022-08-22T06:13:35.871Z",
+  "generated": "2022-08-22T07:03:03.894Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -5523,16 +5523,6 @@
           ]
         }
       ],
-      "ie": []
-    },
-    {
-      "fppc id": "1422765",
-      "name": "Jeff Harris",
-      "city/county": "City",
-      "office": "City Council",
-      "district": "3",
-      "total": 0,
-      "contributors": [],
       "ie": []
     },
     {
