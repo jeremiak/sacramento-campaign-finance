@@ -32,7 +32,7 @@
 
 <style lang="scss">
   section {
-    background-color: #E2CFEA;
+    color: #212121;
     margin-bottom: 2.5rem;
     padding: 1.5rem;
   }
@@ -41,7 +41,7 @@
     margin-top: 0;
 
     a {
-      color: #062726;
+      color: white;
     }
   }
   

@@ -46,6 +46,13 @@
 
 <svelte:head>
   <title>Following the money in Sacramento elections</title>
+
+  <style>
+    body {
+      background-color: #3d521e;
+      color: white;
+    }
+  </style>
 </svelte:head>
 
 <section>
@@ -120,6 +127,7 @@
 
 <style lang="scss">
   .well-width {
+    color: white;
     max-width: 750px;
     margin: 0 auto;
   }
@@ -135,7 +143,7 @@
 
   .races-toc {
     background-color: #ffffff;
-    // border: 1px solid #ebebeb;
+    border: 1.5px solid #3d521e;
     border-top: none;
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
@@ -177,12 +185,17 @@
   }
 
   footer {
+    color: white;
     font-size: 0.9rem;
     padding-bottom: 1rem;
     text-align: center;
-  }
 
-  marquee span {
-    margin-right: 30vw;
+    a {
+      color: white;
+    }
+
+    marquee span {
+      margin-right: 30vw;
+    }
   }
 </style>
