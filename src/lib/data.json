@@ -1,5 +1,5 @@
 {
-  "generated": "2022-08-23T00:17:02.390Z",
+  "generated": "2022-08-24T00:16:11.149Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -5531,7 +5531,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "3",
-      "total": 173530.99,
+      "total": 175330.99,
       "contributors": [
         {
           "contributor": "Sacramento Central Labor Council, AFL-CIO",
@@ -5722,6 +5722,34 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95818"
+            }
+          ]
+        },
+        {
+          "contributor": "Kevin Nagle",
+          "contributorCity": "El Dorado Hills",
+          "contributorState": "CA",
+          "total": 2800,
+          "contributions": [
+            {
+              "date": "2022-04-21",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Kevin",
+              "contributorLastName": "Nagle",
+              "contributorCity": "El Dorado Hills",
+              "contributorState": "CA",
+              "contributorZip": "95762"
+            },
+            {
+              "date": "2022-08-19",
+              "amount": 1800,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Kevin",
+              "contributorLastName": "Nagle",
+              "contributorCity": "El Dorado Hills",
+              "contributorState": "CA",
+              "contributorZip": "95762"
             }
           ]
         },
@@ -6668,24 +6696,6 @@
               "contributorCity": "Vacaville",
               "contributorState": "CA",
               "contributorZip": "95687"
-            }
-          ]
-        },
-        {
-          "contributor": "Kevin Nagle",
-          "contributorCity": "El Dorado Hills",
-          "contributorState": "CA",
-          "total": 1000,
-          "contributions": [
-            {
-              "date": "2022-04-21",
-              "amount": 1000,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Kevin",
-              "contributorLastName": "Nagle",
-              "contributorCity": "El Dorado Hills",
-              "contributorState": "CA",
-              "contributorZip": "95762"
             }
           ]
         },
@@ -26973,7 +26983,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 325978.47,
+      "total": 331378.47,
       "contributors": [
         {
           "contributor": "Elliott Homes, Inc.",
@@ -27552,6 +27562,42 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95820"
+            }
+          ]
+        },
+        {
+          "contributor": "Soil Stoppers, Inc.",
+          "contributorCity": "Herald",
+          "contributorState": "CA",
+          "total": 2700,
+          "contributions": [
+            {
+              "date": "2022-08-19",
+              "amount": 2700,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Soil Stoppers, Inc.",
+              "contributorCity": "Herald",
+              "contributorState": "CA",
+              "contributorZip": "95638"
+            }
+          ]
+        },
+        {
+          "contributor": "Barnum &Celillo Electric, Inc.",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2700,
+          "contributions": [
+            {
+              "date": "2022-08-20",
+              "amount": 2700,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Barnum &Celillo Electric, Inc.",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95838"
             }
           ]
         },
