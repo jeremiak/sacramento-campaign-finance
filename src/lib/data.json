@@ -1,5 +1,5 @@
 {
-  "generated": "2022-08-24T00:16:11.149Z",
+  "generated": "2022-08-25T00:18:13.286Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -12418,7 +12418,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "3",
-      "total": 201100.76,
+      "total": 202100.76,
       "contributors": [
         {
           "contributor": "California Apartment Association PAC",
@@ -12581,6 +12581,34 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95815"
+            }
+          ]
+        },
+        {
+          "contributor": "Celestine Syphax",
+          "contributorCity": "Elk Grove",
+          "contributorState": "CA",
+          "total": 2000,
+          "contributions": [
+            {
+              "date": "2022-01-26",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Celestine",
+              "contributorLastName": "Syphax",
+              "contributorCity": "Elk Grove",
+              "contributorState": "CA",
+              "contributorZip": "95758"
+            },
+            {
+              "date": "2022-08-22",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Celestine",
+              "contributorLastName": "Syphax",
+              "contributorCity": "Elk Grove",
+              "contributorState": "CA",
+              "contributorZip": "95758"
             }
           ]
         },
@@ -13504,24 +13532,6 @@
               "contributorCommitteeId": "",
               "contributorFirstName": "Phyllis",
               "contributorLastName": "Marshall",
-              "contributorCity": "Elk Grove",
-              "contributorState": "CA",
-              "contributorZip": "95758"
-            }
-          ]
-        },
-        {
-          "contributor": "Celestine Syphax",
-          "contributorCity": "Elk Grove",
-          "contributorState": "CA",
-          "total": 1000,
-          "contributions": [
-            {
-              "date": "2022-01-26",
-              "amount": 1000,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Celestine",
-              "contributorLastName": "Syphax",
               "contributorCity": "Elk Grove",
               "contributorState": "CA",
               "contributorZip": "95758"
@@ -21033,7 +21043,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "5",
-      "total": 97800,
+      "total": 99600,
       "contributors": [
         {
           "contributor": "California Apartment Association PAC",
@@ -21422,6 +21432,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95815"
+            }
+          ]
+        },
+        {
+          "contributor": "Michelle Smira",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1800,
+          "contributions": [
+            {
+              "date": "2022-08-22",
+              "amount": 1800,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Michelle",
+              "contributorLastName": "Smira",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
             }
           ]
         },
@@ -22919,8 +22947,36 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 136660,
+      "total": 140360,
       "contributors": [
+        {
+          "contributor": "American Federation of State, County & Municipal Employees - Council 57 PAC",
+          "contributorCity": "Long Beach",
+          "contributorState": "CA",
+          "total": 5400,
+          "contributions": [
+            {
+              "date": "2022-06-06",
+              "amount": 2700,
+              "contributorCommitteeId": "1313474",
+              "contributorFirstName": "",
+              "contributorLastName": "American Federation of State, County & Municipal Employees - Council 57 PAC",
+              "contributorCity": "Long Beach",
+              "contributorState": "CA",
+              "contributorZip": "90802"
+            },
+            {
+              "date": "2022-08-22",
+              "amount": 2700,
+              "contributorCommitteeId": "1313474",
+              "contributorFirstName": "",
+              "contributorLastName": "American Federation of State, County & Municipal Employees - Council 57 PAC",
+              "contributorCity": "Long Beach",
+              "contributorState": "CA",
+              "contributorZip": "90802"
+            }
+          ]
+        },
         {
           "contributor": "Dignity California SEIU Local 2015",
           "contributorCity": "Los Angeles",
@@ -23086,24 +23142,6 @@
               "contributorCity": "Hanover",
               "contributorState": "MD",
               "contributorZip": "21076"
-            }
-          ]
-        },
-        {
-          "contributor": "American Federation of State, County & Municipal Employees - Council 57 PAC",
-          "contributorCity": "Long Beach",
-          "contributorState": "CA",
-          "total": 2700,
-          "contributions": [
-            {
-              "date": "2022-06-06",
-              "amount": 2700,
-              "contributorCommitteeId": "1313474",
-              "contributorFirstName": "",
-              "contributorLastName": "American Federation of State, County & Municipal Employees - Council 57 PAC",
-              "contributorCity": "Long Beach",
-              "contributorState": "CA",
-              "contributorZip": "90802"
             }
           ]
         },
@@ -23468,6 +23506,34 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95816"
+            }
+          ]
+        },
+        {
+          "contributor": "Angelique Ashby for City Council 2022",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1750,
+          "contributions": [
+            {
+              "date": "2022-01-26",
+              "amount": 750,
+              "contributorCommitteeId": "1413885",
+              "contributorFirstName": "",
+              "contributorLastName": "Angelique Ashby for City Council 2022",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            },
+            {
+              "date": "2022-08-23",
+              "amount": 1000,
+              "contributorCommitteeId": "1413885",
+              "contributorFirstName": "",
+              "contributorLastName": "Angelique Ashby for City Council 2022",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
             }
           ]
         },
@@ -24146,24 +24212,6 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95820"
-            }
-          ]
-        },
-        {
-          "contributor": "Angelique Ashby for City Council 2022",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 750,
-          "contributions": [
-            {
-              "date": "2022-01-26",
-              "amount": 750,
-              "contributorCommitteeId": "1413885",
-              "contributorFirstName": "",
-              "contributorLastName": "Angelique Ashby for City Council 2022",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95814"
             }
           ]
         },
@@ -26983,7 +27031,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 331378.47,
+      "total": 332578.47,
       "contributors": [
         {
           "contributor": "Elliott Homes, Inc.",
@@ -29516,6 +29564,24 @@
               "contributorCity": "Rio Linda",
               "contributorState": "CA",
               "contributorZip": "95673"
+            }
+          ]
+        },
+        {
+          "contributor": "Kevin Spease",
+          "contributorCity": "Elk Grove",
+          "contributorState": "CA",
+          "total": 1200,
+          "contributions": [
+            {
+              "date": "2022-08-22",
+              "amount": 1200,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Kevin",
+              "contributorLastName": "Spease",
+              "contributorCity": "Elk Grove",
+              "contributorState": "CA",
+              "contributorZip": "95624"
             }
           ]
         },
