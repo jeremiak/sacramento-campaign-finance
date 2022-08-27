@@ -1,5 +1,5 @@
 {
-  "generated": "2022-08-26T00:16:19.950Z",
+  "generated": "2022-08-27T00:15:32.932Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -1230,7 +1230,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "1",
-      "total": 191079.69,
+      "total": 200879.69,
       "contributors": [
         {
           "contributor": "California Apartment Association PAC",
@@ -1405,6 +1405,42 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95814"
+            }
+          ]
+        },
+        {
+          "contributor": "John Papagiannopoulos",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 4900,
+          "contributions": [
+            {
+              "date": "2022-08-24",
+              "amount": 4900,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "John",
+              "contributorLastName": "Papagiannopoulos",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95811"
+            }
+          ]
+        },
+        {
+          "contributor": "Louie J Pappas",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 4900,
+          "contributions": [
+            {
+              "date": "2022-08-24",
+              "amount": 4900,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Louie J",
+              "contributorLastName": "Pappas",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95811"
             }
           ]
         },
@@ -27031,7 +27067,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 341778.47,
+      "total": 347078.47,
       "contributors": [
         {
           "contributor": "Elliott Homes, Inc.",
@@ -27656,6 +27692,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95838"
+            }
+          ]
+        },
+        {
+          "contributor": "Vellutini Corporation dba Royal Electric Company Royal Southwest",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2700,
+          "contributions": [
+            {
+              "date": "2022-08-24",
+              "amount": 2700,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Vellutini Corporation dba Royal Electric Company Royal Southwest",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95828"
             }
           ]
         },
@@ -29586,6 +29640,42 @@
               "contributorCity": "Elk Grove",
               "contributorState": "CA",
               "contributorZip": "95624"
+            }
+          ]
+        },
+        {
+          "contributor": "Patricia Wackman",
+          "contributorCity": "Elk Grove",
+          "contributorState": "CA",
+          "total": 1300,
+          "contributions": [
+            {
+              "date": "2022-08-25",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Patricia",
+              "contributorLastName": "Wackman",
+              "contributorCity": "Elk Grove",
+              "contributorState": "CA",
+              "contributorZip": "95757"
+            }
+          ]
+        },
+        {
+          "contributor": "Michael Wackman",
+          "contributorCity": "Elk Grove",
+          "contributorState": "CA",
+          "total": 1300,
+          "contributions": [
+            {
+              "date": "2022-08-25",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Michael",
+              "contributorLastName": "Wackman",
+              "contributorCity": "Elk Grove",
+              "contributorState": "CA",
+              "contributorZip": "95757"
             }
           ]
         },
