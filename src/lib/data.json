@@ -1,5 +1,5 @@
 {
-  "generated": "2022-08-27T00:15:32.932Z",
+  "generated": "2022-08-29T00:17:38.041Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -12454,7 +12454,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "3",
-      "total": 202100.76,
+      "total": 203100.76,
       "contributors": [
         {
           "contributor": "California Apartment Association PAC",
@@ -13271,6 +13271,44 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95814"
+            }
+          ]
+        },
+        {
+          "contributor": "Katie McCleary",
+          "contributorCity": "Fair Oaks",
+          "contributorState": "CA",
+          "total": 1150,
+          "contributions": [
+            {
+              "date": "2022-01-04",
+              "amount": 100,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Katie",
+              "contributorLastName": "McCleary",
+              "contributorCity": "Fair Oaks",
+              "contributorState": "CA",
+              "contributorZip": "95628"
+            },
+            {
+              "date": "2022-02-02",
+              "amount": 50,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Katie",
+              "contributorLastName": "McCleary",
+              "contributorCity": "Fair Oaks",
+              "contributorState": "CA",
+              "contributorZip": "95628"
+            },
+            {
+              "date": "2022-08-25",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Katie",
+              "contributorLastName": "McCleary",
+              "contributorCity": "Fair Oaks",
+              "contributorState": "CA",
+              "contributorZip": "95628"
             }
           ]
         },
@@ -16867,34 +16905,6 @@
               "contributorCity": "Elk Grove",
               "contributorState": "CA",
               "contributorZip": "95758"
-            }
-          ]
-        },
-        {
-          "contributor": "Katie McCleary",
-          "contributorCity": "Fair Oaks",
-          "contributorState": "CA",
-          "total": 150,
-          "contributions": [
-            {
-              "date": "2022-01-04",
-              "amount": 100,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Katie",
-              "contributorLastName": "McCleary",
-              "contributorCity": "Fair Oaks",
-              "contributorState": "CA",
-              "contributorZip": "95628"
-            },
-            {
-              "date": "2022-02-02",
-              "amount": 50,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Katie",
-              "contributorLastName": "McCleary",
-              "contributorCity": "Fair Oaks",
-              "contributorState": "CA",
-              "contributorZip": "95628"
             }
           ]
         },
@@ -22983,7 +22993,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 140360,
+      "total": 143060,
       "contributors": [
         {
           "contributor": "American Federation of State, County & Municipal Employees - Council 57 PAC",
@@ -23340,6 +23350,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95815"
+            }
+          ]
+        },
+        {
+          "contributor": "Dave Tamayo for SMUD Board 2022",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2700,
+          "contributions": [
+            {
+              "date": "2022-08-25",
+              "amount": 2700,
+              "contributorCommitteeId": "1359356",
+              "contributorFirstName": "",
+              "contributorLastName": "Dave Tamayo for SMUD Board 2022",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95824"
             }
           ]
         },
@@ -27067,7 +27095,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 347078.47,
+      "total": 348378.47,
       "contributors": [
         {
           "contributor": "Elliott Homes, Inc.",
@@ -27714,6 +27742,44 @@
           ]
         },
         {
+          "contributor": "David Sander",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2600,
+          "contributions": [
+            {
+              "date": "2022-05-25",
+              "amount": 300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "David",
+              "contributorLastName": "Sander",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95827"
+            },
+            {
+              "date": "2022-02-08",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "David",
+              "contributorLastName": "Sander",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95827"
+            },
+            {
+              "date": "2022-08-25",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "David",
+              "contributorLastName": "Sander",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95827"
+            }
+          ]
+        },
+        {
           "contributor": "Michael Carlson",
           "contributorCity": "Elk Grove",
           "contributorState": "CA",
@@ -28282,34 +28348,6 @@
               "contributorCity": "Elk Grove",
               "contributorState": "CA",
               "contributorZip": "95624"
-            }
-          ]
-        },
-        {
-          "contributor": "David Sander",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 1300,
-          "contributions": [
-            {
-              "date": "2022-05-25",
-              "amount": 300,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "David",
-              "contributorLastName": "Sander",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95827"
-            },
-            {
-              "date": "2022-02-08",
-              "amount": 1000,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "David",
-              "contributorLastName": "Sander",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95827"
             }
           ]
         },
