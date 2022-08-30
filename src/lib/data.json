@@ -1,5 +1,5 @@
 {
-  "generated": "2022-08-29T00:17:38.041Z",
+  "generated": "2022-08-30T00:18:34.443Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -27095,7 +27095,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 348378.47,
+      "total": 353678.47,
       "contributors": [
         {
           "contributor": "Elliott Homes, Inc.",
@@ -27742,6 +27742,24 @@
           ]
         },
         {
+          "contributor": "Domeyko Taylor Holding Company",
+          "contributorCity": "Roseville",
+          "contributorState": "CA",
+          "total": 2700,
+          "contributions": [
+            {
+              "date": "2022-08-27",
+              "amount": 2700,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Domeyko Taylor Holding Company",
+              "contributorCity": "Roseville",
+              "contributorState": "CA",
+              "contributorZip": "95661"
+            }
+          ]
+        },
+        {
           "contributor": "David Sander",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -28018,6 +28036,24 @@
               "contributorCity": "Eagle",
               "contributorState": "ID",
               "contributorZip": "83616"
+            }
+          ]
+        },
+        {
+          "contributor": "Martin Brothers Construction",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2600,
+          "contributions": [
+            {
+              "date": "2022-08-26",
+              "amount": 2600,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Martin Brothers Construction",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95826"
             }
           ]
         },
