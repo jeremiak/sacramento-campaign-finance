@@ -1,5 +1,5 @@
 {
-  "generated": "2022-08-30T00:18:34.443Z",
+  "generated": "2022-08-31T00:18:09.485Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -5567,7 +5567,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "3",
-      "total": 175330.99,
+      "total": 176580.99,
       "contributors": [
         {
           "contributor": "Sacramento Central Labor Council, AFL-CIO",
@@ -6475,6 +6475,24 @@
               "contributorCommitteeId": "",
               "contributorFirstName": "Alberto",
               "contributorLastName": "Torrico",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95833"
+            }
+          ]
+        },
+        {
+          "contributor": "Robbins for Twin Rivers Trustee, Area 6 2022",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1250,
+          "contributions": [
+            {
+              "date": "2022-08-28",
+              "amount": 1250,
+              "contributorCommitteeId": "1440815",
+              "contributorFirstName": "",
+              "contributorLastName": "Robbins for Twin Rivers Trustee, Area 6 2022",
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95833"
@@ -12454,7 +12472,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "3",
-      "total": 203100.76,
+      "total": 204100.76,
       "contributors": [
         {
           "contributor": "California Apartment Association PAC",
@@ -12581,6 +12599,44 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95838"
+            }
+          ]
+        },
+        {
+          "contributor": "Cassandra Pye",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2250,
+          "contributions": [
+            {
+              "date": "2022-05-12",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Cassandra",
+              "contributorLastName": "Pye",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            },
+            {
+              "date": "2022-02-09",
+              "amount": 250,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Cassandra",
+              "contributorLastName": "Pye",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            },
+            {
+              "date": "2022-08-26",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Cassandra",
+              "contributorLastName": "Pye",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
             }
           ]
         },
@@ -13243,34 +13299,6 @@
               "contributorCity": "Elk Grove",
               "contributorState": "CA",
               "contributorZip": "95758"
-            }
-          ]
-        },
-        {
-          "contributor": "Cassandra Pye",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 1250,
-          "contributions": [
-            {
-              "date": "2022-05-12",
-              "amount": 1000,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Cassandra",
-              "contributorLastName": "Pye",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95814"
-            },
-            {
-              "date": "2022-02-09",
-              "amount": 250,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Cassandra",
-              "contributorLastName": "Pye",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95814"
             }
           ]
         },
@@ -21089,7 +21117,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "5",
-      "total": 99600,
+      "total": 103200,
       "contributors": [
         {
           "contributor": "California Apartment Association PAC",
@@ -21496,6 +21524,42 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95814"
+            }
+          ]
+        },
+        {
+          "contributor": "Phoong Law Corp",
+          "contributorCity": "Loomis",
+          "contributorState": "CA",
+          "total": 1800,
+          "contributions": [
+            {
+              "date": "2022-08-26",
+              "amount": 1800,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Phoong Law Corp",
+              "contributorCity": "Loomis",
+              "contributorState": "CA",
+              "contributorZip": "95650"
+            }
+          ]
+        },
+        {
+          "contributor": "Gavrilov & Brooks",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1800,
+          "contributions": [
+            {
+              "date": "2022-08-26",
+              "amount": 1800,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Gavrilov & Brooks",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95816"
             }
           ]
         },
