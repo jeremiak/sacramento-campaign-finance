@@ -1,5 +1,5 @@
 {
-  "generated": "2022-09-03T00:15:43.886Z",
+  "generated": "2022-09-04T00:17:23.279Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -12538,7 +12538,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "3",
-      "total": 215500.76,
+      "total": 218300.76,
       "contributors": [
         {
           "contributor": "International Brotherhood of Electrical Workers (IBEW) Local 340 PAC Small Contributor Committee",
@@ -12647,6 +12647,34 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95814"
+            }
+          ]
+        },
+        {
+          "contributor": "LDKV Management, Inc.",
+          "contributorCity": "McClellan",
+          "contributorState": "CA",
+          "total": 3600,
+          "contributions": [
+            {
+              "date": "2022-03-29",
+              "amount": 1800,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "LDKV Management, Inc.",
+              "contributorCity": "McClellan",
+              "contributorState": "CA",
+              "contributorZip": "95652"
+            },
+            {
+              "date": "2022-09-01",
+              "amount": 1800,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "LDKV Management, Inc.",
+              "contributorCity": "McClellan",
+              "contributorState": "CA",
+              "contributorZip": "95652"
             }
           ]
         },
@@ -13039,24 +13067,6 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95842"
-            }
-          ]
-        },
-        {
-          "contributor": "LDKV Management, Inc.",
-          "contributorCity": "McClellan",
-          "contributorState": "CA",
-          "total": 1800,
-          "contributions": [
-            {
-              "date": "2022-03-29",
-              "amount": 1800,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "LDKV Management, Inc.",
-              "contributorCity": "McClellan",
-              "contributorState": "CA",
-              "contributorZip": "95652"
             }
           ]
         },
@@ -14111,6 +14121,24 @@
               "contributorCity": "Roseville",
               "contributorState": "CA",
               "contributorZip": "95661"
+            }
+          ]
+        },
+        {
+          "contributor": "ElDee Poore",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-09-01",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "ElDee",
+              "contributorLastName": "Poore",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95811"
             }
           ]
         },
@@ -23207,7 +23235,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 147060,
+      "total": 151060,
       "contributors": [
         {
           "contributor": "American Federation of State, County & Municipal Employees - Council 57 PAC",
@@ -23614,6 +23642,24 @@
           ]
         },
         {
+          "contributor": "Martha Guerrero for Mayor 2022",
+          "contributorCity": "Carmichael",
+          "contributorState": "CA",
+          "total": 2700,
+          "contributions": [
+            {
+              "date": "2022-09-01",
+              "amount": 2700,
+              "contributorCommitteeId": "1438493",
+              "contributorFirstName": "",
+              "contributorLastName": "Martha Guerrero for Mayor 2022",
+              "contributorCity": "Carmichael",
+              "contributorState": "CA",
+              "contributorZip": "95608"
+            }
+          ]
+        },
+        {
           "contributor": "Smart TD Federal PAC",
           "contributorCity": "North Olmsted",
           "contributorState": "OH",
@@ -24016,6 +24062,24 @@
               "contributorCity": "Courtland",
               "contributorState": "CA",
               "contributorZip": "95615"
+            }
+          ]
+        },
+        {
+          "contributor": "Reuben Moreno",
+          "contributorCity": "Elk Grove",
+          "contributorState": "CA",
+          "total": 1300,
+          "contributions": [
+            {
+              "date": "2022-09-01",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Reuben",
+              "contributorLastName": "Moreno",
+              "contributorCity": "Elk Grove",
+              "contributorState": "CA",
+              "contributorZip": "95758"
             }
           ]
         },
@@ -27329,7 +27393,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 362678.47,
+      "total": 366578.47,
       "contributors": [
         {
           "contributor": "Elliott Homes, Inc.",
@@ -28190,6 +28254,34 @@
           ]
         },
         {
+          "contributor": "Jon Colton",
+          "contributorCity": "Elk Grove",
+          "contributorState": "CA",
+          "total": 2600,
+          "contributions": [
+            {
+              "date": "2022-02-12",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Jon",
+              "contributorLastName": "Colton",
+              "contributorCity": "Elk Grove",
+              "contributorState": "CA",
+              "contributorZip": "95624"
+            },
+            {
+              "date": "2022-09-01",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Jon",
+              "contributorLastName": "Colton",
+              "contributorCity": "Elk Grove",
+              "contributorState": "CA",
+              "contributorZip": "95624"
+            }
+          ]
+        },
+        {
           "contributor": "Chrisa L. Pappas",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -28374,6 +28466,54 @@
           ]
         },
         {
+          "contributor": "Martin L. Feletto",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2375,
+          "contributions": [
+            {
+              "date": "2022-04-07",
+              "amount": 325,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Martin L.",
+              "contributorLastName": "Feletto",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95819"
+            },
+            {
+              "date": "2022-01-13",
+              "amount": 250,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Martin L.",
+              "contributorLastName": "Feletto",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95819"
+            },
+            {
+              "date": "2022-05-08",
+              "amount": 500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Martin L.",
+              "contributorLastName": "Feletto",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95819"
+            },
+            {
+              "date": "2022-09-01",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Martin L.",
+              "contributorLastName": "Feletto",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95819"
+            }
+          ]
+        },
+        {
           "contributor": "Five Star Bank",
           "contributorCity": "Rancho Cordova",
           "contributorState": "CA",
@@ -28470,6 +28610,34 @@
               "contributorCity": "Elk Grove",
               "contributorState": "CA",
               "contributorZip": "95624"
+            }
+          ]
+        },
+        {
+          "contributor": "Donna Clark",
+          "contributorCity": "Carmichael",
+          "contributorState": "CA",
+          "total": 1625,
+          "contributions": [
+            {
+              "date": "2022-04-07",
+              "amount": 325,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Donna",
+              "contributorLastName": "Clark",
+              "contributorCity": "Carmichael",
+              "contributorState": "CA",
+              "contributorZip": "95608"
+            },
+            {
+              "date": "2022-09-01",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Donna",
+              "contributorLastName": "Clark",
+              "contributorCity": "Carmichael",
+              "contributorState": "CA",
+              "contributorZip": "95608"
             }
           ]
         },
@@ -29056,24 +29224,6 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95864"
-            }
-          ]
-        },
-        {
-          "contributor": "Jon Colton",
-          "contributorCity": "Elk Grove",
-          "contributorState": "CA",
-          "total": 1300,
-          "contributions": [
-            {
-              "date": "2022-02-12",
-              "amount": 1300,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Jon",
-              "contributorLastName": "Colton",
-              "contributorCity": "Elk Grove",
-              "contributorState": "CA",
-              "contributorZip": "95624"
             }
           ]
         },
@@ -30168,44 +30318,6 @@
               "contributorCity": "Davis",
               "contributorState": "CA",
               "contributorZip": "95616"
-            }
-          ]
-        },
-        {
-          "contributor": "Martin L. Feletto",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 1075,
-          "contributions": [
-            {
-              "date": "2022-04-07",
-              "amount": 325,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Martin L.",
-              "contributorLastName": "Feletto",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95819"
-            },
-            {
-              "date": "2022-01-13",
-              "amount": 250,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Martin L.",
-              "contributorLastName": "Feletto",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95819"
-            },
-            {
-              "date": "2022-05-08",
-              "amount": 500,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Martin L.",
-              "contributorLastName": "Feletto",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95819"
             }
           ]
         },
@@ -32490,24 +32602,6 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95828"
-            }
-          ]
-        },
-        {
-          "contributor": "Donna Clark",
-          "contributorCity": "Carmichael",
-          "contributorState": "CA",
-          "total": 325,
-          "contributions": [
-            {
-              "date": "2022-04-07",
-              "amount": 325,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Donna",
-              "contributorLastName": "Clark",
-              "contributorCity": "Carmichael",
-              "contributorState": "CA",
-              "contributorZip": "95608"
             }
           ]
         },
