@@ -1,5 +1,5 @@
 {
-  "generated": "2022-09-07T00:16:22.432Z",
+  "generated": "2022-09-08T00:19:45.395Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -1248,7 +1248,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "1",
-      "total": 209679.69,
+      "total": 217479.69,
       "contributors": [
         {
           "contributor": "California Apartment Association PAC",
@@ -1300,6 +1300,34 @@
               "contributorCommitteeId": "840819",
               "contributorFirstName": "",
               "contributorLastName": "Sacramento Metropolitan Chamber PAC",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            }
+          ]
+        },
+        {
+          "contributor": "International Brotherhood of Electrical Workers Local 340 PAC",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 12000,
+          "contributions": [
+            {
+              "date": "2022-05-13",
+              "amount": 6000,
+              "contributorCommitteeId": "880039",
+              "contributorFirstName": "",
+              "contributorLastName": "International Brotherhood of Electrical Workers Local 340 PAC",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            },
+            {
+              "date": "2022-09-02",
+              "amount": 6000,
+              "contributorCommitteeId": "880039",
+              "contributorFirstName": "",
+              "contributorLastName": "International Brotherhood of Electrical Workers Local 340 PAC",
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95814"
@@ -1401,24 +1429,6 @@
           ]
         },
         {
-          "contributor": "International Brotherhood of Electrical Workers Local 340 PAC",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 6000,
-          "contributions": [
-            {
-              "date": "2022-05-13",
-              "amount": 6000,
-              "contributorCommitteeId": "880039",
-              "contributorFirstName": "",
-              "contributorLastName": "International Brotherhood of Electrical Workers Local 340 PAC",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95814"
-            }
-          ]
-        },
-        {
           "contributor": "Western Manufactured Housing Communities Association PAC",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -1469,6 +1479,34 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95811"
+            }
+          ]
+        },
+        {
+          "contributor": "Michelle Smira",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 3600,
+          "contributions": [
+            {
+              "date": "2022-03-07",
+              "amount": 1800,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Michelle",
+              "contributorLastName": "Smira",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            },
+            {
+              "date": "2022-09-04",
+              "amount": 1800,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Michelle",
+              "contributorLastName": "Smira",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
             }
           ]
         },
@@ -1635,24 +1673,6 @@
               "contributorCity": "El Dorado Hills",
               "contributorState": "CA",
               "contributorZip": "95762"
-            }
-          ]
-        },
-        {
-          "contributor": "Michelle Smira",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 1800,
-          "contributions": [
-            {
-              "date": "2022-03-07",
-              "amount": 1800,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Michelle",
-              "contributorLastName": "Smira",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95814"
             }
           ]
         },
@@ -5623,7 +5643,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "3",
-      "total": 178380.99,
+      "total": 181080.99,
       "contributors": [
         {
           "contributor": "Sacramento Central Labor Council, AFL-CIO",
@@ -5712,6 +5732,34 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95814"
+            }
+          ]
+        },
+        {
+          "contributor": "Sacramento County Democratic Central Committee",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 4200,
+          "contributions": [
+            {
+              "date": "2022-04-25",
+              "amount": 1500,
+              "contributorCommitteeId": "741817",
+              "contributorFirstName": "",
+              "contributorLastName": "Sacramento County Democratic Central Committee",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95843"
+            },
+            {
+              "date": "2022-09-06",
+              "amount": 2700,
+              "contributorCommitteeId": "741817",
+              "contributorFirstName": "",
+              "contributorLastName": "Sacramento County Democratic Central Committee",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95843"
             }
           ]
         },
@@ -6406,24 +6454,6 @@
               "contributorCity": "San Francisco",
               "contributorState": "CA",
               "contributorZip": "94103"
-            }
-          ]
-        },
-        {
-          "contributor": "Sacramento County Democratic Central Committee",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 1500,
-          "contributions": [
-            {
-              "date": "2022-04-25",
-              "amount": 1500,
-              "contributorCommitteeId": "741817",
-              "contributorFirstName": "",
-              "contributorLastName": "Sacramento County Democratic Central Committee",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95843"
             }
           ]
         },
@@ -12538,7 +12568,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "3",
-      "total": 218300.76,
+      "total": 219300.76,
       "contributors": [
         {
           "contributor": "International Brotherhood of Electrical Workers (IBEW) Local 340 PAC Small Contributor Committee",
@@ -14139,6 +14169,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95811"
+            }
+          ]
+        },
+        {
+          "contributor": "Manroop Purewal",
+          "contributorCity": "Davis",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-09-03",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Manroop",
+              "contributorLastName": "Purewal",
+              "contributorCity": "Davis",
+              "contributorState": "CA",
+              "contributorZip": "95616"
             }
           ]
         },
@@ -21295,7 +21343,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "5",
-      "total": 103200,
+      "total": 109200,
       "contributors": [
         {
           "contributor": "California Apartment Association PAC",
@@ -21319,6 +21367,34 @@
               "contributorCommitteeId": "745208",
               "contributorFirstName": "",
               "contributorLastName": "California Apartment Association PAC",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            }
+          ]
+        },
+        {
+          "contributor": "International Brotherhood of Electrical Workers Local 340 PAC",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 12000,
+          "contributions": [
+            {
+              "date": "2022-05-17",
+              "amount": 6000,
+              "contributorCommitteeId": "880039",
+              "contributorFirstName": "",
+              "contributorLastName": "International Brotherhood of Electrical Workers Local 340 PAC",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            },
+            {
+              "date": "2022-09-02",
+              "amount": 6000,
+              "contributorCommitteeId": "880039",
+              "contributorFirstName": "",
+              "contributorLastName": "International Brotherhood of Electrical Workers Local 340 PAC",
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95814"
@@ -21419,24 +21495,6 @@
               "contributorCommitteeId": "746138",
               "contributorFirstName": "",
               "contributorLastName": "Sacramento Area Fire Fighters Local 522 PAC",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95814"
-            }
-          ]
-        },
-        {
-          "contributor": "International Brotherhood of Electrical Workers Local 340 PAC",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 6000,
-          "contributions": [
-            {
-              "date": "2022-05-17",
-              "amount": 6000,
-              "contributorCommitteeId": "880039",
-              "contributorFirstName": "",
-              "contributorLastName": "International Brotherhood of Electrical Workers Local 340 PAC",
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95814"
@@ -23235,7 +23293,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 151060,
+      "total": 153760,
       "contributors": [
         {
           "contributor": "American Federation of State, County & Municipal Employees - Council 57 PAC",
@@ -23374,6 +23432,44 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95819"
+            }
+          ]
+        },
+        {
+          "contributor": "California Conference Board Amalgamated Transit Union Small Contributor Committee",
+          "contributorCity": "Campbell",
+          "contributorState": "CA",
+          "total": 5150,
+          "contributions": [
+            {
+              "date": "2022-02-08",
+              "amount": 1500,
+              "contributorCommitteeId": "761357",
+              "contributorFirstName": "",
+              "contributorLastName": "California Conference Board Amalgamated Transit Union Small Contributor Committee",
+              "contributorCity": "Campbell",
+              "contributorState": "CA",
+              "contributorZip": "95008"
+            },
+            {
+              "date": "2022-03-04",
+              "amount": 950,
+              "contributorCommitteeId": "761357",
+              "contributorFirstName": "",
+              "contributorLastName": "California Conference Board Amalgamated Transit Union Small Contributor Committee",
+              "contributorCity": "Campbell",
+              "contributorState": "CA",
+              "contributorZip": "95008"
+            },
+            {
+              "date": "2022-09-02",
+              "amount": 2700,
+              "contributorCommitteeId": "761357",
+              "contributorFirstName": "",
+              "contributorLastName": "California Conference Board Amalgamated Transit Union Small Contributor Committee",
+              "contributorCity": "Campbell",
+              "contributorState": "CA",
+              "contributorZip": "95008"
             }
           ]
         },
@@ -23794,34 +23890,6 @@
               "contributorCity": "Washington",
               "contributorState": "DC",
               "contributorZip": "20001"
-            }
-          ]
-        },
-        {
-          "contributor": "California Conference Board Amalgamated Transit Union Small Contributor Committee",
-          "contributorCity": "Campbell",
-          "contributorState": "CA",
-          "total": 2450,
-          "contributions": [
-            {
-              "date": "2022-02-08",
-              "amount": 1500,
-              "contributorCommitteeId": "761357",
-              "contributorFirstName": "",
-              "contributorLastName": "California Conference Board Amalgamated Transit Union Small Contributor Committee",
-              "contributorCity": "Campbell",
-              "contributorState": "CA",
-              "contributorZip": "95008"
-            },
-            {
-              "date": "2022-03-04",
-              "amount": 950,
-              "contributorCommitteeId": "761357",
-              "contributorFirstName": "",
-              "contributorLastName": "California Conference Board Amalgamated Transit Union Small Contributor Committee",
-              "contributorCity": "Campbell",
-              "contributorState": "CA",
-              "contributorZip": "95008"
             }
           ]
         },
@@ -27393,7 +27461,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 366578.47,
+      "total": 371478.47,
       "contributors": [
         {
           "contributor": "Elliott Homes, Inc.",
@@ -28560,6 +28628,34 @@
           ]
         },
         {
+          "contributor": "Hal Bartholomew",
+          "contributorCity": "Elk Grove",
+          "contributorState": "CA",
+          "total": 2000,
+          "contributions": [
+            {
+              "date": "2022-06-06",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Hal",
+              "contributorLastName": "Bartholomew",
+              "contributorCity": "Elk Grove",
+              "contributorState": "CA",
+              "contributorZip": "95624"
+            },
+            {
+              "date": "2022-09-02",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Hal",
+              "contributorLastName": "Bartholomew",
+              "contributorCity": "Elk Grove",
+              "contributorState": "CA",
+              "contributorZip": "95624"
+            }
+          ]
+        },
+        {
           "contributor": "Biondi Paving & Engineering",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -28610,6 +28706,34 @@
               "contributorCity": "Elk Grove",
               "contributorState": "CA",
               "contributorZip": "95624"
+            }
+          ]
+        },
+        {
+          "contributor": "JR Hanson Consulting, LLC(Julie Hanson)",
+          "contributorCity": "Roseville",
+          "contributorState": "CA",
+          "total": 1800,
+          "contributions": [
+            {
+              "date": "2022-03-24",
+              "amount": 500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "JR Hanson Consulting, LLC(Julie Hanson)",
+              "contributorCity": "Roseville",
+              "contributorState": "CA",
+              "contributorZip": "95661"
+            },
+            {
+              "date": "2022-09-05",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "JR Hanson Consulting, LLC(Julie Hanson)",
+              "contributorCity": "Roseville",
+              "contributorState": "CA",
+              "contributorZip": "95661"
             }
           ]
         },
@@ -30202,6 +30326,42 @@
           ]
         },
         {
+          "contributor": "Joshua Wood",
+          "contributorCity": "Rancho Cordova",
+          "contributorState": "CA",
+          "total": 1300,
+          "contributions": [
+            {
+              "date": "2022-09-03",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Joshua",
+              "contributorLastName": "Wood",
+              "contributorCity": "Rancho Cordova",
+              "contributorState": "CA",
+              "contributorZip": "95742"
+            }
+          ]
+        },
+        {
+          "contributor": "C5 Consulting, LLC( )",
+          "contributorCity": "Rancho Cordova",
+          "contributorState": "CA",
+          "total": 1300,
+          "contributions": [
+            {
+              "date": "2022-09-05",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "C5 Consulting, LLC( )",
+              "contributorCity": "Rancho Cordova",
+              "contributorState": "CA",
+              "contributorZip": "95742"
+            }
+          ]
+        },
+        {
           "contributor": "Larry Gualco",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -30489,24 +30649,6 @@
               "contributorCommitteeId": "",
               "contributorFirstName": "",
               "contributorLastName": "Daehling Farms, LLC dba Daehling Ranch(Justin Oldfield)",
-              "contributorCity": "Elk Grove",
-              "contributorState": "CA",
-              "contributorZip": "95624"
-            }
-          ]
-        },
-        {
-          "contributor": "Hal Bartholomew",
-          "contributorCity": "Elk Grove",
-          "contributorState": "CA",
-          "total": 1000,
-          "contributions": [
-            {
-              "date": "2022-06-06",
-              "amount": 1000,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Hal",
-              "contributorLastName": "Bartholomew",
               "contributorCity": "Elk Grove",
               "contributorState": "CA",
               "contributorZip": "95624"
@@ -31804,24 +31946,6 @@
               "contributorCity": "Rancho Cordova",
               "contributorState": "CA",
               "contributorZip": "95742"
-            }
-          ]
-        },
-        {
-          "contributor": "JR Hanson Consulting, LLC(Julie Hanson)",
-          "contributorCity": "Roseville",
-          "contributorState": "CA",
-          "total": 500,
-          "contributions": [
-            {
-              "date": "2022-03-24",
-              "amount": 500,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "JR Hanson Consulting, LLC(Julie Hanson)",
-              "contributorCity": "Roseville",
-              "contributorState": "CA",
-              "contributorZip": "95661"
             }
           ]
         },
