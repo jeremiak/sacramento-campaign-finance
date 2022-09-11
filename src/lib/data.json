@@ -1,5 +1,5 @@
 {
-  "generated": "2022-09-09T00:17:45.210Z",
+  "generated": "2022-09-11T00:17:19.804Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -1248,7 +1248,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "1",
-      "total": 217479.69,
+      "total": 218479.69,
       "contributors": [
         {
           "contributor": "California Apartment Association PAC",
@@ -1539,6 +1539,34 @@
           ]
         },
         {
+          "contributor": "Roebbelen Contracting, Inc",
+          "contributorCity": "El Dorado Hills",
+          "contributorState": "CA",
+          "total": 2800,
+          "contributions": [
+            {
+              "date": "2022-02-17",
+              "amount": 1800,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Roebbelen Contracting, Inc",
+              "contributorCity": "El Dorado Hills",
+              "contributorState": "CA",
+              "contributorZip": "95762"
+            },
+            {
+              "date": "2022-09-08",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Roebbelen Contracting, Inc",
+              "contributorCity": "El Dorado Hills",
+              "contributorState": "CA",
+              "contributorZip": "95762"
+            }
+          ]
+        },
+        {
           "contributor": "Northern California Carpenters Regional Council",
           "contributorCity": "Oakland",
           "contributorState": "CA",
@@ -1655,24 +1683,6 @@
               "contributorCity": "Granite Bay",
               "contributorState": "CA",
               "contributorZip": "95746"
-            }
-          ]
-        },
-        {
-          "contributor": "Roebbelen Contracting, Inc",
-          "contributorCity": "El Dorado Hills",
-          "contributorState": "CA",
-          "total": 1800,
-          "contributions": [
-            {
-              "date": "2022-02-17",
-              "amount": 1800,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "Roebbelen Contracting, Inc",
-              "contributorCity": "El Dorado Hills",
-              "contributorState": "CA",
-              "contributorZip": "95762"
             }
           ]
         },
@@ -12568,7 +12578,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "3",
-      "total": 220300.76,
+      "total": 228100.76,
       "contributors": [
         {
           "contributor": "International Brotherhood of Electrical Workers (IBEW) Local 340 PAC Small Contributor Committee",
@@ -12627,6 +12637,34 @@
           ]
         },
         {
+          "contributor": "Sacramento Metropolitan Chamber PAC",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 11501.52,
+          "contributions": [
+            {
+              "date": "2022-04-22",
+              "amount": 5501.52,
+              "contributorCommitteeId": "840819",
+              "contributorFirstName": "",
+              "contributorLastName": "Sacramento Metropolitan Chamber PAC",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            },
+            {
+              "date": "2022-09-07",
+              "amount": 6000,
+              "contributorCommitteeId": "840819",
+              "contributorFirstName": "",
+              "contributorLastName": "Sacramento Metropolitan Chamber PAC",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            }
+          ]
+        },
+        {
           "contributor": "Plumbers & Pipefitters Local 447 Federal Political Fund",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -12659,24 +12697,6 @@
               "contributorCity": "Los Angeles",
               "contributorState": "CA",
               "contributorZip": "90071"
-            }
-          ]
-        },
-        {
-          "contributor": "Sacramento Metropolitan Chamber PAC",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 5501.52,
-          "contributions": [
-            {
-              "date": "2022-04-22",
-              "amount": 5501.52,
-              "contributorCommitteeId": "840819",
-              "contributorFirstName": "",
-              "contributorLastName": "Sacramento Metropolitan Chamber PAC",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95814"
             }
           ]
         },
@@ -13359,6 +13379,24 @@
               "contributorCity": "El Dorado Hills",
               "contributorState": "CA",
               "contributorZip": "95762"
+            }
+          ]
+        },
+        {
+          "contributor": "MarketOne Builders, Inc.",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1800,
+          "contributions": [
+            {
+              "date": "2022-09-09",
+              "amount": 1800,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "MarketOne Builders, Inc.",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95811"
             }
           ]
         },
@@ -23303,7 +23341,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 153760,
+      "total": 155060,
       "contributors": [
         {
           "contributor": "American Federation of State, County & Municipal Employees - Council 57 PAC",
@@ -24158,6 +24196,24 @@
               "contributorCity": "Elk Grove",
               "contributorState": "CA",
               "contributorZip": "95758"
+            }
+          ]
+        },
+        {
+          "contributor": "Deniz Tuncer",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1300,
+          "contributions": [
+            {
+              "date": "2022-09-08",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Deniz",
+              "contributorLastName": "Tuncer",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95816"
             }
           ]
         },
@@ -27471,7 +27527,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 374178.47,
+      "total": 377478.47,
       "contributors": [
         {
           "contributor": "Elliott Homes, Inc.",
@@ -30390,6 +30446,24 @@
           ]
         },
         {
+          "contributor": "James C. Christie",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1300,
+          "contributions": [
+            {
+              "date": "2022-09-07",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "James C.",
+              "contributorLastName": "Christie",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95811"
+            }
+          ]
+        },
+        {
           "contributor": "Larry Gualco",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -31124,6 +31198,42 @@
               "contributorCity": "Elk Grove",
               "contributorState": "CA",
               "contributorZip": "95757"
+            }
+          ]
+        },
+        {
+          "contributor": "Kay Dix, Inc.",
+          "contributorCity": "Isleton",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-09-07",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Kay Dix, Inc.",
+              "contributorCity": "Isleton",
+              "contributorState": "CA",
+              "contributorZip": "95641"
+            }
+          ]
+        },
+        {
+          "contributor": "Kristin A. Tollenaar",
+          "contributorCity": "Wheatland",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-09-08",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Kristin A.",
+              "contributorLastName": "Tollenaar",
+              "contributorCity": "Wheatland",
+              "contributorState": "CA",
+              "contributorZip": "95692"
             }
           ]
         },
