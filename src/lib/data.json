@@ -1,5 +1,5 @@
 {
-  "generated": "2022-09-12T00:16:35.864Z",
+  "generated": "2022-09-13T00:17:17.869Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -7,7 +7,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "1",
-      "total": 36775,
+      "total": 38575,
       "contributors": [
         {
           "contributor": "Philip Lozano",
@@ -31,6 +31,24 @@
               "contributorCommitteeId": "",
               "contributorFirstName": "Philip",
               "contributorLastName": "Lozano",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95835"
+            }
+          ]
+        },
+        {
+          "contributor": "Michael Lopez Sr",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1800,
+          "contributions": [
+            {
+              "date": "2022-09-09",
+              "amount": 1800,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Michael",
+              "contributorLastName": "Lopez Sr",
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95835"
@@ -27527,8 +27545,64 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 377478.47,
+      "total": 384178.47,
       "contributors": [
+        {
+          "contributor": "Sacramento County Probation Association PAC",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 5400,
+          "contributions": [
+            {
+              "date": "2022-01-24",
+              "amount": 2700,
+              "contributorCommitteeId": "1315755",
+              "contributorFirstName": "",
+              "contributorLastName": "Sacramento County Probation Association PAC",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95826"
+            },
+            {
+              "date": "2022-09-10",
+              "amount": 2700,
+              "contributorCommitteeId": "1315755",
+              "contributorFirstName": "",
+              "contributorLastName": "Sacramento County Probation Association PAC",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95826"
+            }
+          ]
+        },
+        {
+          "contributor": "Committee for Home Ownership of the Northstate Building Industry Association",
+          "contributorCity": "Granite Bay",
+          "contributorState": "CA",
+          "total": 5400,
+          "contributions": [
+            {
+              "date": "2022-02-08",
+              "amount": 2700,
+              "contributorCommitteeId": "782240",
+              "contributorFirstName": "",
+              "contributorLastName": "Committee for Home Ownership of the Northstate Building Industry Association",
+              "contributorCity": "Granite Bay",
+              "contributorState": "CA",
+              "contributorZip": "95746"
+            },
+            {
+              "date": "2022-09-09",
+              "amount": 2700,
+              "contributorCommitteeId": "782240",
+              "contributorFirstName": "",
+              "contributorLastName": "Committee for Home Ownership of the Northstate Building Industry Association",
+              "contributorCity": "Granite Bay",
+              "contributorState": "CA",
+              "contributorZip": "95746"
+            }
+          ]
+        },
         {
           "contributor": "Elliott Homes, Inc.",
           "contributorCity": "Folsom",
@@ -27798,24 +27872,6 @@
           ]
         },
         {
-          "contributor": "Sacramento County Probation Association PAC",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 2700,
-          "contributions": [
-            {
-              "date": "2022-01-24",
-              "amount": 2700,
-              "contributorCommitteeId": "1315755",
-              "contributorFirstName": "",
-              "contributorLastName": "Sacramento County Probation Association PAC",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95826"
-            }
-          ]
-        },
-        {
           "contributor": "Emerald Site Services, Inc",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -27884,24 +27940,6 @@
               "contributorCity": "Los Angeles",
               "contributorState": "CA",
               "contributorZip": "90071"
-            }
-          ]
-        },
-        {
-          "contributor": "Committee for Home Ownership of the Northstate Building Industry Association",
-          "contributorCity": "Granite Bay",
-          "contributorState": "CA",
-          "total": 2700,
-          "contributions": [
-            {
-              "date": "2022-02-08",
-              "amount": 2700,
-              "contributorCommitteeId": "782240",
-              "contributorFirstName": "",
-              "contributorLastName": "Committee for Home Ownership of the Northstate Building Industry Association",
-              "contributorCity": "Granite Bay",
-              "contributorState": "CA",
-              "contributorZip": "95746"
             }
           ]
         },
@@ -30460,6 +30498,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95811"
+            }
+          ]
+        },
+        {
+          "contributor": "Jon Q. Reynolds",
+          "contributorCity": "Concord",
+          "contributorState": "CA",
+          "total": 1300,
+          "contributions": [
+            {
+              "date": "2022-09-09",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Jon Q.",
+              "contributorLastName": "Reynolds",
+              "contributorCity": "Concord",
+              "contributorState": "CA",
+              "contributorZip": "94520"
             }
           ]
         },
