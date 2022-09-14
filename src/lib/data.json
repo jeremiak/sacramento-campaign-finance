@@ -1,5 +1,5 @@
 {
-  "generated": "2022-09-13T00:17:17.869Z",
+  "generated": "2022-09-14T00:17:54.241Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -1266,7 +1266,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "1",
-      "total": 218479.69,
+      "total": 227279.69,
       "contributors": [
         {
           "contributor": "California Apartment Association PAC",
@@ -1458,6 +1458,24 @@
               "contributorCommitteeId": "742422",
               "contributorFirstName": "",
               "contributorLastName": "Western Manufactured Housing Communities Association PAC",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            }
+          ]
+        },
+        {
+          "contributor": "Sacramento Police Officers Association PAF",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 6000,
+          "contributions": [
+            {
+              "date": "2022-09-09",
+              "amount": 6000,
+              "contributorCommitteeId": "746239",
+              "contributorFirstName": "",
+              "contributorLastName": "Sacramento Police Officers Association PAF",
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95814"
@@ -2175,6 +2193,24 @@
           ]
         },
         {
+          "contributor": "Studio W Architects",
+          "contributorCity": "San Jose",
+          "contributorState": "CA",
+          "total": 1800,
+          "contributions": [
+            {
+              "date": "2022-09-09",
+              "amount": 1800,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Studio W Architects",
+              "contributorCity": "San Jose",
+              "contributorState": "CA",
+              "contributorZip": "95113"
+            }
+          ]
+        },
+        {
           "contributor": "Cement Mason's Local 400 PAC",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -2881,6 +2917,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95811"
+            }
+          ]
+        },
+        {
+          "contributor": "International Brotherhood of Electrical Workers Local Union 1245",
+          "contributorCity": "Vacaville",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-09-12",
+              "amount": 1000,
+              "contributorCommitteeId": "742993",
+              "contributorFirstName": "",
+              "contributorLastName": "International Brotherhood of Electrical Workers Local Union 1245",
+              "contributorCity": "Vacaville",
+              "contributorState": "CA",
+              "contributorZip": "95696"
             }
           ]
         },
@@ -5671,7 +5725,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "3",
-      "total": 181080.99,
+      "total": 183880.99,
       "contributors": [
         {
           "contributor": "Sacramento Central Labor Council, AFL-CIO",
@@ -5918,6 +5972,34 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95818"
+            }
+          ]
+        },
+        {
+          "contributor": "Dignity CA SEIU Local 2015",
+          "contributorCity": "Los Angeles",
+          "contributorState": "CA",
+          "total": 3600,
+          "contributions": [
+            {
+              "date": "2022-05-10",
+              "amount": 1800,
+              "contributorCommitteeId": "1357256",
+              "contributorFirstName": "",
+              "contributorLastName": "Dignity CA SEIU Local 2015",
+              "contributorCity": "Los Angeles",
+              "contributorState": "CA",
+              "contributorZip": "90057"
+            },
+            {
+              "date": "2022-09-09",
+              "amount": 1800,
+              "contributorCommitteeId": "1357256",
+              "contributorFirstName": "",
+              "contributorLastName": "Dignity CA SEIU Local 2015",
+              "contributorCity": "Los Angeles",
+              "contributorState": "CA",
+              "contributorZip": "90057"
             }
           ]
         },
@@ -6196,24 +6278,6 @@
               "contributorCity": "Washington",
               "contributorState": "DC",
               "contributorZip": "20001"
-            }
-          ]
-        },
-        {
-          "contributor": "Dignity CA SEIU Local 2015",
-          "contributorCity": "Los Angeles",
-          "contributorState": "CA",
-          "total": 1800,
-          "contributions": [
-            {
-              "date": "2022-05-10",
-              "amount": 1800,
-              "contributorCommitteeId": "1357256",
-              "contributorFirstName": "",
-              "contributorLastName": "Dignity CA SEIU Local 2015",
-              "contributorCity": "Los Angeles",
-              "contributorState": "CA",
-              "contributorZip": "90057"
             }
           ]
         },
@@ -7072,6 +7136,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95811"
+            }
+          ]
+        },
+        {
+          "contributor": "Veronica Villalobos",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-09-08",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Veronica",
+              "contributorLastName": "Villalobos",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95831"
             }
           ]
         },
@@ -12596,7 +12678,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "3",
-      "total": 228100.76,
+      "total": 231900.76,
       "contributors": [
         {
           "contributor": "International Brotherhood of Electrical Workers (IBEW) Local 340 PAC Small Contributor Committee",
@@ -12898,6 +12980,34 @@
               "contributorCommitteeId": "",
               "contributorFirstName": "Celestine",
               "contributorLastName": "Syphax",
+              "contributorCity": "Elk Grove",
+              "contributorState": "CA",
+              "contributorZip": "95758"
+            }
+          ]
+        },
+        {
+          "contributor": "Michael A. Gunning",
+          "contributorCity": "Elk Grove",
+          "contributorState": "CA",
+          "total": 2000,
+          "contributions": [
+            {
+              "date": "2022-02-09",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Michael A.",
+              "contributorLastName": "Gunning",
+              "contributorCity": "Elk Grove",
+              "contributorState": "CA",
+              "contributorZip": "95758"
+            },
+            {
+              "date": "2022-09-11",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Michael A.",
+              "contributorLastName": "Gunning",
               "contributorCity": "Elk Grove",
               "contributorState": "CA",
               "contributorZip": "95758"
@@ -13419,6 +13529,24 @@
           ]
         },
         {
+          "contributor": "Eugene Wade",
+          "contributorCity": "Oakland",
+          "contributorState": "CA",
+          "total": 1800,
+          "contributions": [
+            {
+              "date": "2022-09-11",
+              "amount": 1800,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Eugene",
+              "contributorLastName": "Wade",
+              "contributorCity": "Oakland",
+              "contributorState": "CA",
+              "contributorZip": "94618"
+            }
+          ]
+        },
+        {
           "contributor": "Donna Lucas",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -13913,24 +14041,6 @@
           ]
         },
         {
-          "contributor": "Michael A. Gunning",
-          "contributorCity": "Elk Grove",
-          "contributorState": "CA",
-          "total": 1000,
-          "contributions": [
-            {
-              "date": "2022-02-09",
-              "amount": 1000,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Michael A.",
-              "contributorLastName": "Gunning",
-              "contributorCity": "Elk Grove",
-              "contributorState": "CA",
-              "contributorZip": "95758"
-            }
-          ]
-        },
-        {
           "contributor": "Jonathan Kaufman",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -14253,6 +14363,34 @@
               "contributorCity": "Davis",
               "contributorState": "CA",
               "contributorZip": "95616"
+            }
+          ]
+        },
+        {
+          "contributor": "Clifford Lynch",
+          "contributorCity": "Carmichael",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-08-20",
+              "amount": 500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Clifford",
+              "contributorLastName": "Lynch",
+              "contributorCity": "Carmichael",
+              "contributorState": "CA",
+              "contributorZip": "95608"
+            },
+            {
+              "date": "2022-09-09",
+              "amount": 500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Clifford",
+              "contributorLastName": "Lynch",
+              "contributorCity": "Carmichael",
+              "contributorState": "CA",
+              "contributorZip": "95608"
             }
           ]
         },
@@ -21409,7 +21547,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "5",
-      "total": 109200,
+      "total": 115200,
       "contributors": [
         {
           "contributor": "California Apartment Association PAC",
@@ -21440,6 +21578,34 @@
           ]
         },
         {
+          "contributor": "Sacramento Police Officers Association PAF",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 12000,
+          "contributions": [
+            {
+              "date": "2022-03-14",
+              "amount": 6000,
+              "contributorCommitteeId": "746239",
+              "contributorFirstName": "",
+              "contributorLastName": "Sacramento Police Officers Association PAF",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            },
+            {
+              "date": "2022-09-09",
+              "amount": 6000,
+              "contributorCommitteeId": "746239",
+              "contributorFirstName": "",
+              "contributorLastName": "Sacramento Police Officers Association PAF",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            }
+          ]
+        },
+        {
           "contributor": "International Brotherhood of Electrical Workers Local 340 PAC",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -21461,24 +21627,6 @@
               "contributorCommitteeId": "880039",
               "contributorFirstName": "",
               "contributorLastName": "International Brotherhood of Electrical Workers Local 340 PAC",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95814"
-            }
-          ]
-        },
-        {
-          "contributor": "Sacramento Police Officers Association PAF",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 6000,
-          "contributions": [
-            {
-              "date": "2022-03-14",
-              "amount": 6000,
-              "contributorCommitteeId": "746239",
-              "contributorFirstName": "",
-              "contributorLastName": "Sacramento Police Officers Association PAF",
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95814"
@@ -23359,7 +23507,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 155060,
+      "total": 156060,
       "contributors": [
         {
           "contributor": "American Federation of State, County & Municipal Employees - Council 57 PAC",
@@ -24006,6 +24154,54 @@
           ]
         },
         {
+          "contributor": "Rosanna J. Herber",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1850,
+          "contributions": [
+            {
+              "date": "2022-05-23",
+              "amount": 500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Rosanna J.",
+              "contributorLastName": "Herber",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95818"
+            },
+            {
+              "date": "2022-05-17",
+              "amount": 100,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Rosanna J.",
+              "contributorLastName": "Herber",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95818"
+            },
+            {
+              "date": "2022-03-27",
+              "amount": 250,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Rosanna J.",
+              "contributorLastName": "Herber",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95818"
+            },
+            {
+              "date": "2022-09-10",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Rosanna J.",
+              "contributorLastName": "Herber",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95818"
+            }
+          ]
+        },
+        {
           "contributor": "Angelique Ashby for City Council 2022",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -24632,44 +24828,6 @@
               "contributorCity": "Vacaville",
               "contributorState": "CA",
               "contributorZip": "95687"
-            }
-          ]
-        },
-        {
-          "contributor": "Rosanna J. Herber",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 850,
-          "contributions": [
-            {
-              "date": "2022-05-23",
-              "amount": 500,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Rosanna J.",
-              "contributorLastName": "Herber",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95818"
-            },
-            {
-              "date": "2022-05-17",
-              "amount": 100,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Rosanna J.",
-              "contributorLastName": "Herber",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95818"
-            },
-            {
-              "date": "2022-03-27",
-              "amount": 250,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Rosanna J.",
-              "contributorLastName": "Herber",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95818"
             }
           ]
         },
