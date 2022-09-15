@@ -1,5 +1,5 @@
 {
-  "generated": "2022-09-14T00:17:54.241Z",
+  "generated": "2022-09-15T00:16:54.225Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -1266,7 +1266,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "1",
-      "total": 227279.69,
+      "total": 231279.69,
       "contributors": [
         {
           "contributor": "California Apartment Association PAC",
@@ -1659,6 +1659,34 @@
           ]
         },
         {
+          "contributor": "CA Commodity Traders, Inc",
+          "contributorCity": "Williams",
+          "contributorState": "CA",
+          "total": 2500,
+          "contributions": [
+            {
+              "date": "2022-01-07",
+              "amount": 1500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "CA Commodity Traders, Inc",
+              "contributorCity": "Williams",
+              "contributorState": "CA",
+              "contributorZip": "95987"
+            },
+            {
+              "date": "2022-09-12",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "CA Commodity Traders, Inc",
+              "contributorCity": "Williams",
+              "contributorState": "CA",
+              "contributorZip": "95987"
+            }
+          ]
+        },
+        {
           "contributor": "United Food and Commercial Workers 8 Golden State PAC",
           "contributorCity": "Roseville",
           "contributorState": "CA",
@@ -1719,6 +1747,34 @@
               "contributorCity": "Granite Bay",
               "contributorState": "CA",
               "contributorZip": "95746"
+            }
+          ]
+        },
+        {
+          "contributor": "G B Commercial, LLC(Bobby Gosal)",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2000,
+          "contributions": [
+            {
+              "date": "2022-05-11",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "G B Commercial, LLC(Bobby Gosal)",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95835"
+            },
+            {
+              "date": "2022-09-12",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "G B Commercial, LLC(Bobby Gosal)",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95835"
             }
           ]
         },
@@ -2249,24 +2305,6 @@
           ]
         },
         {
-          "contributor": "CA Commodity Traders, Inc",
-          "contributorCity": "Williams",
-          "contributorState": "CA",
-          "total": 1500,
-          "contributions": [
-            {
-              "date": "2022-01-07",
-              "amount": 1500,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "CA Commodity Traders, Inc",
-              "contributorCity": "Williams",
-              "contributorState": "CA",
-              "contributorZip": "95987"
-            }
-          ]
-        },
-        {
           "contributor": "Bettina McCauslin",
           "contributorCity": "Roseville",
           "contributorState": "CA",
@@ -2705,24 +2743,6 @@
           ]
         },
         {
-          "contributor": "G B Commercial, LLC(Bobby Gosal)",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 1000,
-          "contributions": [
-            {
-              "date": "2022-05-11",
-              "amount": 1000,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "G B Commercial, LLC(Bobby Gosal)",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95835"
-            }
-          ]
-        },
-        {
           "contributor": "Tobacco Cartel, Inc",
           "contributorCity": "West Sacramento",
           "contributorState": "CA",
@@ -2935,6 +2955,42 @@
               "contributorCity": "Vacaville",
               "contributorState": "CA",
               "contributorZip": "95696"
+            }
+          ]
+        },
+        {
+          "contributor": "David Nybo",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-09-13",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "David",
+              "contributorLastName": "Nybo",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95819"
+            }
+          ]
+        },
+        {
+          "contributor": "OSE Properties, Inc.",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-09-12",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "OSE Properties, Inc.",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95825"
             }
           ]
         },
@@ -5725,8 +5781,36 @@
       "city/county": "City",
       "office": "City Council",
       "district": "3",
-      "total": 183880.99,
+      "total": 191680.99,
       "contributors": [
+        {
+          "contributor": "Sacramento Police Officers Association PAF",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 12000,
+          "contributions": [
+            {
+              "date": "2022-03-25",
+              "amount": 6000,
+              "contributorCommitteeId": "746239",
+              "contributorFirstName": "",
+              "contributorLastName": "Sacramento Police Officers Association PAF",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            },
+            {
+              "date": "2022-09-12",
+              "amount": 6000,
+              "contributorCommitteeId": "746239",
+              "contributorFirstName": "",
+              "contributorLastName": "Sacramento Police Officers Association PAF",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            }
+          ]
+        },
         {
           "contributor": "Sacramento Central Labor Council, AFL-CIO",
           "contributorCity": "Sacramento",
@@ -5742,24 +5826,6 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95841"
-            }
-          ]
-        },
-        {
-          "contributor": "Sacramento Police Officers Association PAF",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 6000,
-          "contributions": [
-            {
-              "date": "2022-03-25",
-              "amount": 6000,
-              "contributorCommitteeId": "746239",
-              "contributorFirstName": "",
-              "contributorLastName": "Sacramento Police Officers Association PAF",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95814"
             }
           ]
         },
@@ -6350,6 +6416,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95814"
+            }
+          ]
+        },
+        {
+          "contributor": "Park West Casinos, Inc",
+          "contributorCity": "Los Angeles",
+          "contributorState": "CA",
+          "total": 1800,
+          "contributions": [
+            {
+              "date": "2022-09-12",
+              "amount": 1800,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Park West Casinos, Inc",
+              "contributorCity": "Los Angeles",
+              "contributorState": "CA",
+              "contributorZip": "90015"
             }
           ]
         },
@@ -23507,7 +23591,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 156060,
+      "total": 158660,
       "contributors": [
         {
           "contributor": "American Federation of State, County & Municipal Employees - Council 57 PAC",
@@ -24126,6 +24210,44 @@
           ]
         },
         {
+          "contributor": "Eric Guerra",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2050,
+          "contributions": [
+            {
+              "date": "2022-05-20",
+              "amount": 250,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Eric",
+              "contributorLastName": "Guerra",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95820"
+            },
+            {
+              "date": "2022-02-22",
+              "amount": 500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Eric",
+              "contributorLastName": "Guerra",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95820"
+            },
+            {
+              "date": "2022-09-12",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Eric",
+              "contributorLastName": "Guerra",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95820"
+            }
+          ]
+        },
+        {
           "contributor": "National Women's Political Caucus Sacramento PAC",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -24428,6 +24550,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95816"
+            }
+          ]
+        },
+        {
+          "contributor": "Christina Lokke",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1300,
+          "contributions": [
+            {
+              "date": "2022-09-12",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Christina",
+              "contributorLastName": "Lokke",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95820"
             }
           ]
         },
@@ -24856,34 +24996,6 @@
               "contributorCity": "San Leandro",
               "contributorState": "CA",
               "contributorZip": "94577"
-            }
-          ]
-        },
-        {
-          "contributor": "Eric Guerra",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 750,
-          "contributions": [
-            {
-              "date": "2022-05-20",
-              "amount": 250,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Eric",
-              "contributorLastName": "Guerra",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95820"
-            },
-            {
-              "date": "2022-02-22",
-              "amount": 500,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Eric",
-              "contributorLastName": "Guerra",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95820"
             }
           ]
         },
@@ -27703,7 +27815,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 384178.47,
+      "total": 389478.47,
       "contributors": [
         {
           "contributor": "Sacramento County Probation Association PAC",
@@ -27870,6 +27982,44 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95814"
+            }
+          ]
+        },
+        {
+          "contributor": "Five Star Bank",
+          "contributorCity": "Rancho Cordova",
+          "contributorState": "CA",
+          "total": 5000,
+          "contributions": [
+            {
+              "date": "2022-02-24",
+              "amount": 1800,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Five Star Bank",
+              "contributorCity": "Rancho Cordova",
+              "contributorState": "CA",
+              "contributorZip": "95670"
+            },
+            {
+              "date": "2022-05-18",
+              "amount": 500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Five Star Bank",
+              "contributorCity": "Rancho Cordova",
+              "contributorState": "CA",
+              "contributorZip": "95670"
+            },
+            {
+              "date": "2022-09-12",
+              "amount": 2700,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Five Star Bank",
+              "contributorCity": "Rancho Cordova",
+              "contributorState": "CA",
+              "contributorZip": "95670"
             }
           ]
         },
@@ -28858,34 +29008,6 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95819"
-            }
-          ]
-        },
-        {
-          "contributor": "Five Star Bank",
-          "contributorCity": "Rancho Cordova",
-          "contributorState": "CA",
-          "total": 2300,
-          "contributions": [
-            {
-              "date": "2022-02-24",
-              "amount": 1800,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "Five Star Bank",
-              "contributorCity": "Rancho Cordova",
-              "contributorState": "CA",
-              "contributorZip": "95670"
-            },
-            {
-              "date": "2022-05-18",
-              "amount": 500,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "Five Star Bank",
-              "contributorCity": "Rancho Cordova",
-              "contributorState": "CA",
-              "contributorZip": "95670"
             }
           ]
         },
@@ -30674,6 +30796,42 @@
               "contributorCity": "Concord",
               "contributorState": "CA",
               "contributorZip": "94520"
+            }
+          ]
+        },
+        {
+          "contributor": "Sanjiv Patel",
+          "contributorCity": "San Jose",
+          "contributorState": "CA",
+          "total": 1300,
+          "contributions": [
+            {
+              "date": "2022-09-12",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Sanjiv",
+              "contributorLastName": "Patel",
+              "contributorCity": "San Jose",
+              "contributorState": "CA",
+              "contributorZip": "95138"
+            }
+          ]
+        },
+        {
+          "contributor": "Jivtesh Gill",
+          "contributorCity": "Tracy",
+          "contributorState": "CA",
+          "total": 1300,
+          "contributions": [
+            {
+              "date": "2022-09-12",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Jivtesh",
+              "contributorLastName": "Gill",
+              "contributorCity": "Tracy",
+              "contributorState": "CA",
+              "contributorZip": "95304"
             }
           ]
         },
