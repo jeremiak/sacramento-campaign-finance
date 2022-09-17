@@ -1,5 +1,5 @@
 {
-  "generated": "2022-09-16T00:19:44.838Z",
+  "generated": "2022-09-17T00:17:35.065Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -1266,7 +1266,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "1",
-      "total": 231279.69,
+      "total": 232779.69,
       "contributors": [
         {
           "contributor": "California Apartment Association PAC",
@@ -1519,6 +1519,34 @@
           ]
         },
         {
+          "contributor": "United Food and Commercial Workers 8 Golden State PAC",
+          "contributorCity": "Roseville",
+          "contributorState": "CA",
+          "total": 4000,
+          "contributions": [
+            {
+              "date": "2022-05-20",
+              "amount": 2500,
+              "contributorCommitteeId": "950663",
+              "contributorFirstName": "",
+              "contributorLastName": "United Food and Commercial Workers 8 Golden State PAC",
+              "contributorCity": "Roseville",
+              "contributorState": "CA",
+              "contributorZip": "95661"
+            },
+            {
+              "date": "2022-09-15",
+              "amount": 1500,
+              "contributorCommitteeId": "950663",
+              "contributorFirstName": "",
+              "contributorLastName": "United Food and Commercial Workers 8 Golden State PAC",
+              "contributorCity": "Roseville",
+              "contributorState": "CA",
+              "contributorZip": "95661"
+            }
+          ]
+        },
+        {
           "contributor": "Michelle Smira",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -1683,24 +1711,6 @@
               "contributorCity": "Williams",
               "contributorState": "CA",
               "contributorZip": "95987"
-            }
-          ]
-        },
-        {
-          "contributor": "United Food and Commercial Workers 8 Golden State PAC",
-          "contributorCity": "Roseville",
-          "contributorState": "CA",
-          "total": 2500,
-          "contributions": [
-            {
-              "date": "2022-05-20",
-              "amount": 2500,
-              "contributorCommitteeId": "950663",
-              "contributorFirstName": "",
-              "contributorLastName": "United Food and Commercial Workers 8 Golden State PAC",
-              "contributorCity": "Roseville",
-              "contributorState": "CA",
-              "contributorZip": "95661"
             }
           ]
         },
@@ -5781,7 +5791,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "3",
-      "total": 191680.99,
+      "total": 194180.99,
       "contributors": [
         {
           "contributor": "Sacramento Police Officers Association PAF",
@@ -5926,6 +5936,34 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95819"
+            }
+          ]
+        },
+        {
+          "contributor": "United Food and Commercial Workers 8 Golden State PAC",
+          "contributorCity": "Roseville",
+          "contributorState": "CA",
+          "total": 4000,
+          "contributions": [
+            {
+              "date": "2022-05-19",
+              "amount": 2500,
+              "contributorCommitteeId": "950663",
+              "contributorFirstName": "",
+              "contributorLastName": "United Food and Commercial Workers 8 Golden State PAC",
+              "contributorCity": "Roseville",
+              "contributorState": "CA",
+              "contributorZip": "95610"
+            },
+            {
+              "date": "2022-09-15",
+              "amount": 1500,
+              "contributorCommitteeId": "950663",
+              "contributorFirstName": "",
+              "contributorLastName": "United Food and Commercial Workers 8 Golden State PAC",
+              "contributorCity": "Roseville",
+              "contributorState": "CA",
+              "contributorZip": "95610"
             }
           ]
         },
@@ -6098,20 +6136,30 @@
           ]
         },
         {
-          "contributor": "United Food and Commercial Workers 8 Golden State PAC",
-          "contributorCity": "Roseville",
-          "contributorState": "CA",
-          "total": 2500,
+          "contributor": "Mauro Correa",
+          "contributorCity": "Blythewood",
+          "contributorState": "SC",
+          "total": 2000,
           "contributions": [
             {
-              "date": "2022-05-19",
-              "amount": 2500,
-              "contributorCommitteeId": "950663",
-              "contributorFirstName": "",
-              "contributorLastName": "United Food and Commercial Workers 8 Golden State PAC",
-              "contributorCity": "Roseville",
-              "contributorState": "CA",
-              "contributorZip": "95610"
+              "date": "2022-02-19",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Mauro",
+              "contributorLastName": "Correa",
+              "contributorCity": "Blythewood",
+              "contributorState": "SC",
+              "contributorZip": "29016"
+            },
+            {
+              "date": "2022-09-14",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Mauro",
+              "contributorLastName": "Correa",
+              "contributorCity": "Blythewood",
+              "contributorState": "SC",
+              "contributorZip": "29016"
             }
           ]
         },
@@ -6904,24 +6952,6 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95820"
-            }
-          ]
-        },
-        {
-          "contributor": "Mauro Correa",
-          "contributorCity": "Blythewood",
-          "contributorState": "SC",
-          "total": 1000,
-          "contributions": [
-            {
-              "date": "2022-02-19",
-              "amount": 1000,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Mauro",
-              "contributorLastName": "Correa",
-              "contributorCity": "Blythewood",
-              "contributorState": "SC",
-              "contributorZip": "29016"
             }
           ]
         },
@@ -19204,7 +19234,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "5",
-      "total": 59225,
+      "total": 61025,
       "contributors": [
         {
           "contributor": "Sacramento Central Labor Council COPE",
@@ -19249,6 +19279,34 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95814"
+            }
+          ]
+        },
+        {
+          "contributor": "Dignity CA SEIU Local 2015",
+          "contributorCity": "Los Angeles",
+          "contributorState": "CA",
+          "total": 3600,
+          "contributions": [
+            {
+              "date": "2022-05-25",
+              "amount": 1800,
+              "contributorCommitteeId": "1357256",
+              "contributorFirstName": "",
+              "contributorLastName": "Dignity CA SEIU Local 2015",
+              "contributorCity": "Los Angeles",
+              "contributorState": "CA",
+              "contributorZip": "90057"
+            },
+            {
+              "date": "2022-09-14",
+              "amount": 1800,
+              "contributorCommitteeId": "1357256",
+              "contributorFirstName": "",
+              "contributorLastName": "Dignity CA SEIU Local 2015",
+              "contributorCity": "Los Angeles",
+              "contributorState": "CA",
+              "contributorZip": "90057"
             }
           ]
         },
@@ -19323,24 +19381,6 @@
               "contributorCity": "Auburn",
               "contributorState": "CA",
               "contributorZip": "95603"
-            }
-          ]
-        },
-        {
-          "contributor": "Dignity CA SEIU Local 2015",
-          "contributorCity": "Los Angeles",
-          "contributorState": "CA",
-          "total": 1800,
-          "contributions": [
-            {
-              "date": "2022-05-25",
-              "amount": 1800,
-              "contributorCommitteeId": "1357256",
-              "contributorFirstName": "",
-              "contributorLastName": "Dignity CA SEIU Local 2015",
-              "contributorCity": "Los Angeles",
-              "contributorState": "CA",
-              "contributorZip": "90057"
             }
           ]
         },
@@ -23609,7 +23649,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 158660,
+      "total": 159960,
       "contributors": [
         {
           "contributor": "American Federation of State, County & Municipal Employees - Council 57 PAC",
@@ -24586,6 +24626,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95820"
+            }
+          ]
+        },
+        {
+          "contributor": "William Durston",
+          "contributorCity": "Gold River",
+          "contributorState": "CA",
+          "total": 1300,
+          "contributions": [
+            {
+              "date": "2022-09-14",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "William",
+              "contributorLastName": "Durston",
+              "contributorCity": "Gold River",
+              "contributorState": "CA",
+              "contributorZip": "95670"
             }
           ]
         },
