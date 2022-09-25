@@ -1,5 +1,5 @@
 {
-  "generated": "2022-09-24T00:19:26.466Z",
+  "generated": "2022-09-25T00:19:03.243Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -28229,7 +28229,7 @@
       "office": "Board of Supervisors",
       "district": "5",
       "year": "",
-      "total": 451878.47,
+      "total": 454478.47,
       "contributors": [
         {
           "contributor": "Sacramento County Probation Association PAC",
@@ -29424,6 +29424,62 @@
               "contributorCity": "Wilton",
               "contributorState": "CA",
               "contributorZip": "95693"
+            }
+          ]
+        },
+        {
+          "contributor": "Katerina G. Lagos",
+          "contributorCity": "Carmichael",
+          "contributorState": "CA",
+          "total": 2600,
+          "contributions": [
+            {
+              "date": "2022-03-13",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Katerina G.",
+              "contributorLastName": "Lagos",
+              "contributorCity": "Carmichael",
+              "contributorState": "CA",
+              "contributorZip": "95608"
+            },
+            {
+              "date": "2022-09-22",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Katerina G.",
+              "contributorLastName": "Lagos",
+              "contributorCity": "Carmichael",
+              "contributorState": "CA",
+              "contributorZip": "95608"
+            }
+          ]
+        },
+        {
+          "contributor": "Angelo G. Tsakopoulos",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2600,
+          "contributions": [
+            {
+              "date": "2022-03-13",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Angelo G.",
+              "contributorLastName": "Tsakopoulos",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95815"
+            },
+            {
+              "date": "2022-09-22",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Angelo G.",
+              "contributorLastName": "Tsakopoulos",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95815"
             }
           ]
         },
@@ -30716,42 +30772,6 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95814"
-            }
-          ]
-        },
-        {
-          "contributor": "Katerina G. Lagos",
-          "contributorCity": "Carmichael",
-          "contributorState": "CA",
-          "total": 1300,
-          "contributions": [
-            {
-              "date": "2022-03-13",
-              "amount": 1300,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Katerina G.",
-              "contributorLastName": "Lagos",
-              "contributorCity": "Carmichael",
-              "contributorState": "CA",
-              "contributorZip": "95608"
-            }
-          ]
-        },
-        {
-          "contributor": "Angelo G. Tsakopoulos",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 1300,
-          "contributions": [
-            {
-              "date": "2022-03-13",
-              "amount": 1300,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Angelo G.",
-              "contributorLastName": "Tsakopoulos",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95815"
             }
           ]
         },
