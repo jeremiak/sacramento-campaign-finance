@@ -1,5 +1,5 @@
 {
-  "generated": "2022-09-25T00:19:03.243Z",
+  "generated": "2022-09-26T00:19:16.164Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -23910,7 +23910,7 @@
       "office": "Board of Supervisors",
       "district": "5",
       "year": "",
-      "total": 167460,
+      "total": 174460,
       "contributors": [
         {
           "contributor": "American Federation of State, County & Municipal Employees - Council 57 PAC",
@@ -23993,6 +23993,62 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95841"
+            }
+          ]
+        },
+        {
+          "contributor": "Service Employees International Union Local 1021 Candidate PAC Small Conributor Committee",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 5400,
+          "contributions": [
+            {
+              "date": "2022-03-03",
+              "amount": 2700,
+              "contributorCommitteeId": "1296948",
+              "contributorFirstName": "",
+              "contributorLastName": "Service Employees International Union Local 1021 Candidate PAC Small Conributor Committee",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            },
+            {
+              "date": "2022-09-23",
+              "amount": 2700,
+              "contributorCommitteeId": "1296948",
+              "contributorFirstName": "",
+              "contributorLastName": "Service Employees International Union Local 1021 Candidate PAC Small Conributor Committee",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            }
+          ]
+        },
+        {
+          "contributor": "Sheet Metal Workers Local Union 104 Political Committee",
+          "contributorCity": "Livermore",
+          "contributorState": "CA",
+          "total": 5400,
+          "contributions": [
+            {
+              "date": "2022-03-15",
+              "amount": 2700,
+              "contributorCommitteeId": "850381",
+              "contributorFirstName": "",
+              "contributorLastName": "Sheet Metal Workers Local Union 104 Political Committee",
+              "contributorCity": "Livermore",
+              "contributorState": "CA",
+              "contributorZip": "94551"
+            },
+            {
+              "date": "2022-09-23",
+              "amount": 2700,
+              "contributorCommitteeId": "850381",
+              "contributorFirstName": "",
+              "contributorLastName": "Sheet Metal Workers Local Union 104 Political Committee",
+              "contributorCity": "Livermore",
+              "contributorState": "CA",
+              "contributorZip": "94551"
             }
           ]
         },
@@ -24235,42 +24291,6 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95814"
-            }
-          ]
-        },
-        {
-          "contributor": "Service Employees International Union Local 1021 Candidate PAC Small Conributor Committee",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 2700,
-          "contributions": [
-            {
-              "date": "2022-03-03",
-              "amount": 2700,
-              "contributorCommitteeId": "1296948",
-              "contributorFirstName": "",
-              "contributorLastName": "Service Employees International Union Local 1021 Candidate PAC Small Conributor Committee",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95814"
-            }
-          ]
-        },
-        {
-          "contributor": "Sheet Metal Workers Local Union 104 Political Committee",
-          "contributorCity": "Livermore",
-          "contributorState": "CA",
-          "total": 2700,
-          "contributions": [
-            {
-              "date": "2022-03-15",
-              "amount": 2700,
-              "contributorCommitteeId": "850381",
-              "contributorFirstName": "",
-              "contributorLastName": "Sheet Metal Workers Local Union 104 Political Committee",
-              "contributorCity": "Livermore",
-              "contributorState": "CA",
-              "contributorZip": "94551"
             }
           ]
         },
@@ -24573,6 +24593,44 @@
               "contributorCity": "Stockton",
               "contributorState": "CA",
               "contributorZip": "95206"
+            }
+          ]
+        },
+        {
+          "contributor": "Women Democrats of Sacramento County",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2250,
+          "contributions": [
+            {
+              "date": "2022-05-03",
+              "amount": 650,
+              "contributorCommitteeId": "980730",
+              "contributorFirstName": "",
+              "contributorLastName": "Women Democrats of Sacramento County",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95815"
+            },
+            {
+              "date": "2022-08-30",
+              "amount": 200,
+              "contributorCommitteeId": "980730",
+              "contributorFirstName": "",
+              "contributorLastName": "Women Democrats of Sacramento County",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95815"
+            },
+            {
+              "date": "2022-09-23",
+              "amount": 1400,
+              "contributorCommitteeId": "980730",
+              "contributorFirstName": "",
+              "contributorLastName": "Women Democrats of Sacramento County",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95815"
             }
           ]
         },
@@ -25427,24 +25485,6 @@
               "contributorCity": "Carmichael",
               "contributorState": "CA",
               "contributorZip": "95608"
-            }
-          ]
-        },
-        {
-          "contributor": "Women Democrats of Sacramento County",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 650,
-          "contributions": [
-            {
-              "date": "2022-05-03",
-              "amount": 650,
-              "contributorCommitteeId": "980730",
-              "contributorFirstName": "",
-              "contributorLastName": "Women Democrats of Sacramento County",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95815"
             }
           ]
         },
