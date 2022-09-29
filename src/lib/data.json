@@ -1,5 +1,5 @@
 {
-  "generated": "2022-09-28T00:23:58.986Z",
+  "generated": "2022-09-29T00:24:06.831Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -23938,7 +23938,7 @@
       "office": "Board of Supervisors",
       "district": "5",
       "year": "",
-      "total": 174460,
+      "total": 175460,
       "contributors": [
         {
           "contributor": "American Federation of State, County & Municipal Employees - Council 57 PAC",
@@ -25457,6 +25457,24 @@
               "contributorCity": "San Francisco",
               "contributorState": "CA",
               "contributorZip": "94103"
+            }
+          ]
+        },
+        {
+          "contributor": "Tera Investments, Inc. dba Cheveron on Promenade",
+          "contributorCity": "Elk Grove",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-09-26",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Tera Investments, Inc. dba Cheveron on Promenade",
+              "contributorCity": "Elk Grove",
+              "contributorState": "CA",
+              "contributorZip": "95757"
             }
           ]
         },
@@ -28297,7 +28315,7 @@
       "office": "Board of Supervisors",
       "district": "5",
       "year": "",
-      "total": 465278.47,
+      "total": 467978.47,
       "contributors": [
         {
           "contributor": "Sacramento County Probation Association PAC",
@@ -28380,6 +28398,34 @@
               "contributorCity": "Granite Bay",
               "contributorState": "CA",
               "contributorZip": "95746"
+            }
+          ]
+        },
+        {
+          "contributor": "Sacramento County Deputy Sheriffs Assoc PAC",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 5400,
+          "contributions": [
+            {
+              "date": "2022-02-28",
+              "amount": 2700,
+              "contributorCommitteeId": "781626",
+              "contributorFirstName": "",
+              "contributorLastName": "Sacramento County Deputy Sheriffs Assoc PAC",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95811"
+            },
+            {
+              "date": "2022-09-26",
+              "amount": 2700,
+              "contributorCommitteeId": "781626",
+              "contributorFirstName": "",
+              "contributorLastName": "Sacramento County Deputy Sheriffs Assoc PAC",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95811"
             }
           ]
         },
@@ -28880,24 +28926,6 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95814"
-            }
-          ]
-        },
-        {
-          "contributor": "Sacramento County Deputy Sheriffs Assoc PAC",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 2700,
-          "contributions": [
-            {
-              "date": "2022-02-28",
-              "amount": 2700,
-              "contributorCommitteeId": "781626",
-              "contributorFirstName": "",
-              "contributorLastName": "Sacramento County Deputy Sheriffs Assoc PAC",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95811"
             }
           ]
         },
