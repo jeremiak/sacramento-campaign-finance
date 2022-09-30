@@ -1,5 +1,5 @@
 {
-  "generated": "2022-09-29T00:24:06.831Z",
+  "generated": "2022-09-30T00:26:28.558Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -1268,7 +1268,7 @@
       "office": "City Council",
       "district": "1",
       "year": "",
-      "total": 243379.69,
+      "total": 249179.69,
       "contributors": [
         {
           "contributor": "California Real Estate PAC (CREPAC)",
@@ -1587,6 +1587,34 @@
           ]
         },
         {
+          "contributor": "Cheryl Petrovich",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 3600,
+          "contributions": [
+            {
+              "date": "2022-06-27",
+              "amount": 1800,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Cheryl",
+              "contributorLastName": "Petrovich",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            },
+            {
+              "date": "2022-09-27",
+              "amount": 1800,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Cheryl",
+              "contributorLastName": "Petrovich",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            }
+          ]
+        },
+        {
           "contributor": "Steinberg for Sacramento Mayor 2020",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -1695,6 +1723,34 @@
               "contributorCity": "Alameda",
               "contributorState": "CA",
               "contributorZip": "94502"
+            }
+          ]
+        },
+        {
+          "contributor": "Paul Petrovich",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2600,
+          "contributions": [
+            {
+              "date": "2022-06-24",
+              "amount": 800,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Paul",
+              "contributorLastName": "Petrovich",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            },
+            {
+              "date": "2022-09-27",
+              "amount": 1800,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Paul",
+              "contributorLastName": "Petrovich",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
             }
           ]
         },
@@ -2109,24 +2165,6 @@
           ]
         },
         {
-          "contributor": "Cheryl Petrovich",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 1800,
-          "contributions": [
-            {
-              "date": "2022-06-27",
-              "amount": 1800,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Cheryl",
-              "contributorLastName": "Petrovich",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95814"
-            }
-          ]
-        },
-        {
           "contributor": "Lance Waite",
           "contributorCity": "Calsbad",
           "contributorState": "CA",
@@ -2321,6 +2359,34 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95834"
+            }
+          ]
+        },
+        {
+          "contributor": "Women Democrats of Sacramento County",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1600,
+          "contributions": [
+            {
+              "date": "2022-05-11",
+              "amount": 400,
+              "contributorCommitteeId": "980730",
+              "contributorFirstName": "",
+              "contributorLastName": "Women Democrats of Sacramento County",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95815"
+            },
+            {
+              "date": "2022-09-27",
+              "amount": 1200,
+              "contributorCommitteeId": "980730",
+              "contributorFirstName": "",
+              "contributorLastName": "Women Democrats of Sacramento County",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95815"
             }
           ]
         },
@@ -3071,20 +3137,20 @@
           ]
         },
         {
-          "contributor": "Paul Petrovich",
-          "contributorCity": "Sacramento",
+          "contributor": "Marcine Friedman",
+          "contributorCity": "Carmichael",
           "contributorState": "CA",
-          "total": 800,
+          "total": 1000,
           "contributions": [
             {
-              "date": "2022-06-24",
-              "amount": 800,
+              "date": "2022-09-27",
+              "amount": 1000,
               "contributorCommitteeId": "",
-              "contributorFirstName": "Paul",
-              "contributorLastName": "Petrovich",
-              "contributorCity": "Sacramento",
+              "contributorFirstName": "Marcine",
+              "contributorLastName": "Friedman",
+              "contributorCity": "Carmichael",
               "contributorState": "CA",
-              "contributorZip": "95814"
+              "contributorZip": "95608"
             }
           ]
         },
@@ -4125,24 +4191,6 @@
               "contributorCity": "Antelope",
               "contributorState": "CA",
               "contributorZip": "95843"
-            }
-          ]
-        },
-        {
-          "contributor": "Women Democrats of Sacramento County",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 400,
-          "contributions": [
-            {
-              "date": "2022-05-11",
-              "amount": 400,
-              "contributorCommitteeId": "980730",
-              "contributorFirstName": "",
-              "contributorLastName": "Women Democrats of Sacramento County",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95815"
             }
           ]
         },
@@ -5858,7 +5906,7 @@
       "office": "City Council",
       "district": "3",
       "year": "",
-      "total": 200980.99,
+      "total": 201980.99,
       "contributors": [
         {
           "contributor": "Sacramento Police Officers Association PAF",
@@ -6877,6 +6925,34 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95864"
+            }
+          ]
+        },
+        {
+          "contributor": "Women Democrats of Sacramento County",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1400,
+          "contributions": [
+            {
+              "date": "2022-05-05",
+              "amount": 400,
+              "contributorCommitteeId": "980730",
+              "contributorFirstName": "",
+              "contributorLastName": "Women Democrats of Sacramento County",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95815"
+            },
+            {
+              "date": "2022-09-27",
+              "amount": 1000,
+              "contributorCommitteeId": "980730",
+              "contributorFirstName": "",
+              "contributorLastName": "Women Democrats of Sacramento County",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95815"
             }
           ]
         },
@@ -8279,24 +8355,6 @@
               "contributorCity": "West Sacramento",
               "contributorState": "CA",
               "contributorZip": "95691"
-            }
-          ]
-        },
-        {
-          "contributor": "Women Democrats of Sacramento County",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 400,
-          "contributions": [
-            {
-              "date": "2022-05-05",
-              "amount": 400,
-              "contributorCommitteeId": "980730",
-              "contributorFirstName": "",
-              "contributorLastName": "Women Democrats of Sacramento County",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95815"
             }
           ]
         },
@@ -12944,7 +13002,7 @@
       "office": "City Council",
       "district": "3",
       "year": "",
-      "total": 248800.76,
+      "total": 250600.76,
       "contributors": [
         {
           "contributor": "International Brotherhood of Electrical Workers (IBEW) Local 340 PAC Small Contributor Committee",
@@ -13923,6 +13981,24 @@
               "contributorCity": "Winters",
               "contributorState": "CA",
               "contributorZip": "95694"
+            }
+          ]
+        },
+        {
+          "contributor": "Marcine Friedman",
+          "contributorCity": "Carmichael",
+          "contributorState": "CA",
+          "total": 1800,
+          "contributions": [
+            {
+              "date": "2022-09-27",
+              "amount": 1800,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Marcine",
+              "contributorLastName": "Friedman",
+              "contributorCity": "Carmichael",
+              "contributorState": "CA",
+              "contributorZip": "95608"
             }
           ]
         },
@@ -19842,6 +19918,24 @@
           ]
         },
         {
+          "contributor": "Paul Bauer",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-04-26",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Paul",
+              "contributorLastName": "Bauer",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95818"
+            }
+          ]
+        },
+        {
           "contributor": "Laborers Local Union 270 PAC",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -19892,24 +19986,6 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95811"
-            }
-          ]
-        },
-        {
-          "contributor": "Paul Bauer",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 1000,
-          "contributions": [
-            {
-              "date": "2022-04-26",
-              "amount": 1000,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Paul",
-              "contributorLastName": "Bauer",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95818"
             }
           ]
         },
@@ -19970,34 +20046,6 @@
           ]
         },
         {
-          "contributor": "Rosanna Herber",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 750,
-          "contributions": [
-            {
-              "date": "2022-05-26",
-              "amount": 500,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Rosanna",
-              "contributorLastName": "Herber",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95818"
-            },
-            {
-              "date": "2022-04-26",
-              "amount": 250,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Rosanna",
-              "contributorLastName": "Herber",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95818"
-            }
-          ]
-        },
-        {
           "contributor": "National Women's Political Caucus Sacramento PAC",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -20012,6 +20060,34 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95826"
+            }
+          ]
+        },
+        {
+          "contributor": "Rosanna Herber",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 750,
+          "contributions": [
+            {
+              "date": "2022-04-26",
+              "amount": 250,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Rosanna",
+              "contributorLastName": "Herber",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95818"
+            },
+            {
+              "date": "2022-05-26",
+              "amount": 500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Rosanna",
+              "contributorLastName": "Herber",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95818"
             }
           ]
         },
@@ -20062,7 +20138,7 @@
               "contributorZip": "95614"
             },
             {
-              "date": "2022-06-30",
+              "date": "2022-05-01",
               "amount": 100,
               "contributorCommitteeId": "",
               "contributorFirstName": "Sarah",
@@ -20072,7 +20148,7 @@
               "contributorZip": "95614"
             },
             {
-              "date": "2022-05-01",
+              "date": "2022-06-30",
               "amount": 100,
               "contributorCommitteeId": "",
               "contributorFirstName": "Sarah",
@@ -20300,24 +20376,6 @@
           ]
         },
         {
-          "contributor": "Michael Ulin",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 500,
-          "contributions": [
-            {
-              "date": "2022-05-24",
-              "amount": 500,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Michael",
-              "contributorLastName": "Ulin",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95818"
-            }
-          ]
-        },
-        {
           "contributor": "United Domestic Workers of America Action Fund",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -20350,6 +20408,24 @@
               "contributorCity": "Little Rock",
               "contributorState": "AR",
               "contributorZip": "72205"
+            }
+          ]
+        },
+        {
+          "contributor": "Michael Ulin",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 500,
+          "contributions": [
+            {
+              "date": "2022-05-24",
+              "amount": 500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Michael",
+              "contributorLastName": "Ulin",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95818"
             }
           ]
         },
@@ -20580,6 +20656,42 @@
           ]
         },
         {
+          "contributor": "Owen Jackman",
+          "contributorCity": "Orangevale",
+          "contributorState": "CA",
+          "total": 250,
+          "contributions": [
+            {
+              "date": "2022-04-26",
+              "amount": 250,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Owen",
+              "contributorLastName": "Jackman",
+              "contributorCity": "Orangevale",
+              "contributorState": "CA",
+              "contributorZip": "95662"
+            }
+          ]
+        },
+        {
+          "contributor": "Alberto Torrico",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 250,
+          "contributions": [
+            {
+              "date": "2022-05-20",
+              "amount": 250,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Alberto",
+              "contributorLastName": "Torrico",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            }
+          ]
+        },
+        {
           "contributor": "Annalisa Perea",
           "contributorCity": "Fresno",
           "contributorState": "CA",
@@ -20670,42 +20782,6 @@
           ]
         },
         {
-          "contributor": "Owen Jackman",
-          "contributorCity": "Orangevale",
-          "contributorState": "CA",
-          "total": 250,
-          "contributions": [
-            {
-              "date": "2022-04-26",
-              "amount": 250,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Owen",
-              "contributorLastName": "Jackman",
-              "contributorCity": "Orangevale",
-              "contributorState": "CA",
-              "contributorZip": "95662"
-            }
-          ]
-        },
-        {
-          "contributor": "Alberto Torrico",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 250,
-          "contributions": [
-            {
-              "date": "2022-05-20",
-              "amount": 250,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Alberto",
-              "contributorLastName": "Torrico",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95814"
-            }
-          ]
-        },
-        {
           "contributor": "Eric Wilson",
           "contributorCity": "West Sacramento",
           "contributorState": "CA",
@@ -20755,6 +20831,24 @@
               "contributorCommitteeId": "",
               "contributorFirstName": "Jennifer",
               "contributorLastName": "Regoli",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95817"
+            }
+          ]
+        },
+        {
+          "contributor": "David Brown",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 200,
+          "contributions": [
+            {
+              "date": "2022-04-27",
+              "amount": 200,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "David",
+              "contributorLastName": "Brown",
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95817"
@@ -20812,24 +20906,6 @@
               "contributorCity": "West Sacramento",
               "contributorState": "CA",
               "contributorZip": "95691"
-            }
-          ]
-        },
-        {
-          "contributor": "David Brown",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 200,
-          "contributions": [
-            {
-              "date": "2022-04-27",
-              "amount": 200,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "David",
-              "contributorLastName": "Brown",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95817"
             }
           ]
         },
@@ -21434,214 +21510,6 @@
           ]
         },
         {
-          "contributor": "Richard Stapler",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 100,
-          "contributions": [
-            {
-              "date": "2022-05-24",
-              "amount": 100,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Richard",
-              "contributorLastName": "Stapler",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95811"
-            }
-          ]
-        },
-        {
-          "contributor": "Jensen Jennings",
-          "contributorCity": "Aiken",
-          "contributorState": "SC",
-          "total": 100,
-          "contributions": [
-            {
-              "date": "2022-05-24",
-              "amount": 100,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Jensen",
-              "contributorLastName": "Jennings",
-              "contributorCity": "Aiken",
-              "contributorState": "SC",
-              "contributorZip": "29803"
-            }
-          ]
-        },
-        {
-          "contributor": "Jannelle Rattigan",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 100,
-          "contributions": [
-            {
-              "date": "2022-05-26",
-              "amount": 100,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Jannelle",
-              "contributorLastName": "Rattigan",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95822"
-            }
-          ]
-        },
-        {
-          "contributor": "Chris Valencia",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 100,
-          "contributions": [
-            {
-              "date": "2022-05-26",
-              "amount": 100,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Chris",
-              "contributorLastName": "Valencia",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95811"
-            }
-          ]
-        },
-        {
-          "contributor": "Max Mikalonis",
-          "contributorCity": "Davis",
-          "contributorState": "CA",
-          "total": 100,
-          "contributions": [
-            {
-              "date": "2022-05-29",
-              "amount": 100,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Max",
-              "contributorLastName": "Mikalonis",
-              "contributorCity": "Davis",
-              "contributorState": "CA",
-              "contributorZip": "95616"
-            }
-          ]
-        },
-        {
-          "contributor": "Fielding Greaves",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 100,
-          "contributions": [
-            {
-              "date": "2022-05-31",
-              "amount": 100,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Fielding",
-              "contributorLastName": "Greaves",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95816"
-            }
-          ]
-        },
-        {
-          "contributor": "Beverly Yu",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 100,
-          "contributions": [
-            {
-              "date": "2022-05-31",
-              "amount": 100,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Beverly",
-              "contributorLastName": "Yu",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95816"
-            }
-          ]
-        },
-        {
-          "contributor": "Joseph Harbison",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 100,
-          "contributions": [
-            {
-              "date": "2022-05-31",
-              "amount": 100,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Joseph",
-              "contributorLastName": "Harbison",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95816"
-            }
-          ]
-        },
-        {
-          "contributor": "DW Consulting",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 100,
-          "contributions": [
-            {
-              "date": "2022-06-02",
-              "amount": 100,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "DW Consulting",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95831"
-            }
-          ]
-        },
-        {
-          "contributor": "Michelle Pariset",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 100,
-          "contributions": [
-            {
-              "date": "2022-06-03",
-              "amount": 50,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Michelle",
-              "contributorLastName": "Pariset",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95820"
-            },
-            {
-              "date": "2022-05-19",
-              "amount": 50,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Michelle",
-              "contributorLastName": "Pariset",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95820"
-            }
-          ]
-        },
-        {
-          "contributor": "Sarah Smith",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 100,
-          "contributions": [
-            {
-              "date": "2022-06-01",
-              "amount": 100,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Sarah",
-              "contributorLastName": "Smith",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95819"
-            }
-          ]
-        },
-        {
           "contributor": "Edwin Kirby",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -21876,6 +21744,34 @@
           ]
         },
         {
+          "contributor": "Michelle Pariset",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 100,
+          "contributions": [
+            {
+              "date": "2022-05-19",
+              "amount": 50,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Michelle",
+              "contributorLastName": "Pariset",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95820"
+            },
+            {
+              "date": "2022-06-03",
+              "amount": 50,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Michelle",
+              "contributorLastName": "Pariset",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95820"
+            }
+          ]
+        },
+        {
           "contributor": "Thongxy Phansopha",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -21890,6 +21786,186 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95817"
+            }
+          ]
+        },
+        {
+          "contributor": "Richard Stapler",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 100,
+          "contributions": [
+            {
+              "date": "2022-05-24",
+              "amount": 100,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Richard",
+              "contributorLastName": "Stapler",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95811"
+            }
+          ]
+        },
+        {
+          "contributor": "Jensen Jennings",
+          "contributorCity": "Aiken",
+          "contributorState": "SC",
+          "total": 100,
+          "contributions": [
+            {
+              "date": "2022-05-24",
+              "amount": 100,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Jensen",
+              "contributorLastName": "Jennings",
+              "contributorCity": "Aiken",
+              "contributorState": "SC",
+              "contributorZip": "29803"
+            }
+          ]
+        },
+        {
+          "contributor": "Jannelle Rattigan",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 100,
+          "contributions": [
+            {
+              "date": "2022-05-26",
+              "amount": 100,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Jannelle",
+              "contributorLastName": "Rattigan",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95822"
+            }
+          ]
+        },
+        {
+          "contributor": "Chris Valencia",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 100,
+          "contributions": [
+            {
+              "date": "2022-05-26",
+              "amount": 100,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Chris",
+              "contributorLastName": "Valencia",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95811"
+            }
+          ]
+        },
+        {
+          "contributor": "Max Mikalonis",
+          "contributorCity": "West Sacramento",
+          "contributorState": "CA",
+          "total": 100,
+          "contributions": [
+            {
+              "date": "2022-05-29",
+              "amount": 100,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Max",
+              "contributorLastName": "Mikalonis",
+              "contributorCity": "West Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95691"
+            }
+          ]
+        },
+        {
+          "contributor": "Fielding Greaves",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 100,
+          "contributions": [
+            {
+              "date": "2022-05-31",
+              "amount": 100,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Fielding",
+              "contributorLastName": "Greaves",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95816"
+            }
+          ]
+        },
+        {
+          "contributor": "Beverly Yu",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 100,
+          "contributions": [
+            {
+              "date": "2022-05-31",
+              "amount": 100,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Beverly",
+              "contributorLastName": "Yu",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95816"
+            }
+          ]
+        },
+        {
+          "contributor": "Joseph Harbison",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 100,
+          "contributions": [
+            {
+              "date": "2022-05-31",
+              "amount": 100,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Joseph",
+              "contributorLastName": "Harbison",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95816"
+            }
+          ]
+        },
+        {
+          "contributor": "DW Consulting",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 100,
+          "contributions": [
+            {
+              "date": "2022-06-02",
+              "amount": 100,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "DW Consulting",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95831"
+            }
+          ]
+        },
+        {
+          "contributor": "Sarah Smith",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 100,
+          "contributions": [
+            {
+              "date": "2022-06-01",
+              "amount": 100,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Sarah",
+              "contributorLastName": "Smith",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95819"
             }
           ]
         },
@@ -28315,7 +28391,7 @@
       "office": "Board of Supervisors",
       "district": "5",
       "year": "",
-      "total": 467978.47,
+      "total": 469278.47,
       "contributors": [
         {
           "contributor": "Sacramento County Probation Association PAC",
@@ -29964,6 +30040,34 @@
           ]
         },
         {
+          "contributor": "Marcine Friedman",
+          "contributorCity": "Carmichael",
+          "contributorState": "CA",
+          "total": 2600,
+          "contributions": [
+            {
+              "date": "2022-05-07",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Marcine",
+              "contributorLastName": "Friedman",
+              "contributorCity": "Carmichael",
+              "contributorState": "CA",
+              "contributorZip": "95608"
+            },
+            {
+              "date": "2022-09-27",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Marcine",
+              "contributorLastName": "Friedman",
+              "contributorCity": "Carmichael",
+              "contributorState": "CA",
+              "contributorZip": "95608"
+            }
+          ]
+        },
+        {
           "contributor": "Ryan M. Hooper",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -31282,24 +31386,6 @@
               "contributorCity": "El Dorado Hills",
               "contributorState": "CA",
               "contributorZip": "95762"
-            }
-          ]
-        },
-        {
-          "contributor": "Marcine Friedman",
-          "contributorCity": "Carmichael",
-          "contributorState": "CA",
-          "total": 1300,
-          "contributions": [
-            {
-              "date": "2022-05-07",
-              "amount": 1300,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Marcine",
-              "contributorLastName": "Friedman",
-              "contributorCity": "Carmichael",
-              "contributorState": "CA",
-              "contributorZip": "95608"
             }
           ]
         },
