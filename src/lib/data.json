@@ -1,5 +1,5 @@
 {
-  "generated": "2022-10-01T00:25:38.668Z",
+  "generated": "2022-10-02T00:23:04.357Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -1342,7 +1342,7 @@
       "office": "City Council",
       "district": "1",
       "year": "",
-      "total": 276779.69,
+      "total": 278779.69,
       "contributors": [
         {
           "contributor": "California Real Estate PAC (CREPAC)",
@@ -2005,6 +2005,34 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95835"
+            }
+          ]
+        },
+        {
+          "contributor": "Fahn Brothers Properties, LLC(Kenneth Fahn)",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2000,
+          "contributions": [
+            {
+              "date": "2022-05-24",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Fahn Brothers Properties, LLC(Kenneth Fahn)",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            },
+            {
+              "date": "2022-09-29",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Fahn Brothers Properties, LLC(Kenneth Fahn)",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
             }
           ]
         },
@@ -3221,24 +3249,6 @@
           ]
         },
         {
-          "contributor": "Fahn Brothers Properties, LLC(Kenneth Fahn)",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 1000,
-          "contributions": [
-            {
-              "date": "2022-05-24",
-              "amount": 1000,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "Fahn Brothers Properties, LLC(Kenneth Fahn)",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95814"
-            }
-          ]
-        },
-        {
           "contributor": "Artisan Homes of CA, Inc",
           "contributorCity": "Mather",
           "contributorState": "CA",
@@ -3505,6 +3515,24 @@
               "contributorCity": "Carmichael",
               "contributorState": "CA",
               "contributorZip": "95608"
+            }
+          ]
+        },
+        {
+          "contributor": "Marquee Media Solutions LLC(Michael Wagener)",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-09-29",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Marquee Media Solutions LLC(Michael Wagener)",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
             }
           ]
         },
@@ -25395,7 +25423,7 @@
       "office": "City Council",
       "district": "5",
       "year": "",
-      "total": 82750,
+      "total": 84250,
       "contributors": [
         {
           "contributor": "Sacramento Central Labor Council COPE",
@@ -25782,6 +25810,24 @@
               "contributorCity": "San Francisco",
               "contributorState": "CA",
               "contributorZip": "94103"
+            }
+          ]
+        },
+        {
+          "contributor": "Operating Engineers Local Union No 3 District 80 PAC",
+          "contributorCity": "Alameda",
+          "contributorState": "CA",
+          "total": 1500,
+          "contributions": [
+            {
+              "date": "2022-09-29",
+              "amount": 1500,
+              "contributorCommitteeId": "891402",
+              "contributorFirstName": "",
+              "contributorLastName": "Operating Engineers Local Union No 3 District 80 PAC",
+              "contributorCity": "Alameda",
+              "contributorState": "CA",
+              "contributorZip": "94502"
             }
           ]
         },
@@ -37685,7 +37731,7 @@
       "office": "Board of Supervisors",
       "district": "5",
       "year": "",
-      "total": 557452.47,
+      "total": 562152.47,
       "contributors": [
         {
           "contributor": "Fulcrum Property Group",
@@ -38052,6 +38098,34 @@
           ]
         },
         {
+          "contributor": "Sacramento County Law Enforcement Managers Assoc PAC",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 5200,
+          "contributions": [
+            {
+              "date": "2022-04-06",
+              "amount": 2500,
+              "contributorCommitteeId": "1302356",
+              "contributorFirstName": "",
+              "contributorLastName": "Sacramento County Law Enforcement Managers Assoc PAC",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            },
+            {
+              "date": "2022-09-29",
+              "amount": 2700,
+              "contributorCommitteeId": "1302356",
+              "contributorFirstName": "",
+              "contributorLastName": "Sacramento County Law Enforcement Managers Assoc PAC",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            }
+          ]
+        },
+        {
           "contributor": "California Apartment Association PAC",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -38114,6 +38188,34 @@
               "contributorCity": "Rancho Cordova",
               "contributorState": "CA",
               "contributorZip": "95670"
+            }
+          ]
+        },
+        {
+          "contributor": "Rancho Cordova Chamber of Commerce PAC",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 4000,
+          "contributions": [
+            {
+              "date": "2022-06-04",
+              "amount": 2000,
+              "contributorCommitteeId": "1248483",
+              "contributorFirstName": "",
+              "contributorLastName": "Rancho Cordova Chamber of Commerce PAC",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95841"
+            },
+            {
+              "date": "2022-09-29",
+              "amount": 2000,
+              "contributorCommitteeId": "1248483",
+              "contributorFirstName": "",
+              "contributorLastName": "Rancho Cordova Chamber of Commerce PAC",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95841"
             }
           ]
         },
@@ -39862,24 +39964,6 @@
           ]
         },
         {
-          "contributor": "Sacramento County Law Enforcement Managers Assoc PAC",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 2500,
-          "contributions": [
-            {
-              "date": "2022-04-06",
-              "amount": 2500,
-              "contributorCommitteeId": "1302356",
-              "contributorFirstName": "",
-              "contributorLastName": "Sacramento County Law Enforcement Managers Assoc PAC",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95814"
-            }
-          ]
-        },
-        {
           "contributor": "Seco Cattle Feeding, Inc.",
           "contributorCity": "Herald",
           "contributorState": "CA",
@@ -40084,24 +40168,6 @@
               "contributorCity": "Elk Grove",
               "contributorState": "CA",
               "contributorZip": "95624"
-            }
-          ]
-        },
-        {
-          "contributor": "Rancho Cordova Chamber of Commerce PAC",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 2000,
-          "contributions": [
-            {
-              "date": "2022-06-04",
-              "amount": 2000,
-              "contributorCommitteeId": "1248483",
-              "contributorFirstName": "",
-              "contributorLastName": "Rancho Cordova Chamber of Commerce PAC",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95841"
             }
           ]
         },
