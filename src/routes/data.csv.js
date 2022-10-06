@@ -1,7 +1,7 @@
 import data from '$lib/data.json'
 
 const rows = data.committees.map(committee => {
-    const { name: candidate, office, district, contributors } = committee
+    const { name: candidate, office, district, measure, position, contributors } = committee
     const fppcId = committee['fppc id']
 
     return contributors.map(c => {
@@ -11,6 +11,8 @@ const rows = data.committees.map(committee => {
             candidate,
             office,
             district,
+            measure,
+            position,
             contributor: contributor.replace(/,/g, '\,'),
             contributorCity,
             contributorState,
@@ -33,8 +35,12 @@ const csv = `${cols.map(c => c[1]).join(',')}\n${rows.map(r => {
   const row = cols.map((c, i) => {
     const value = r[c[0]]
 
-    if (value.includes && value.includes(',')) {
-      return `"${value}"`
+    if (!value) {
+      return null
+    } else if (value.includes && value.includes(',')) {
+      return `
+"${value}"
+`
     } else {
       return value
     }
