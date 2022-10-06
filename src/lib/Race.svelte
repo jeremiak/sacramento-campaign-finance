@@ -56,17 +56,5 @@
       margin: 0.5rem;
       max-width: 50%;
     }
-  }
-
-  .candidate.unopposed {
-    background: inherit;
-    font-style: italic;
-    display: none;
-
-    @media screen and (min-width: 700px) {
-      display: block;
-    }
-  }
-
-  
+  }  
   </style>
