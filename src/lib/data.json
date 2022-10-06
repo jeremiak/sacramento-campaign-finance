@@ -1,5 +1,5 @@
 {
-  "generated": "2022-10-04T00:23:15.855Z",
+  "generated": "2022-10-06T00:22:11.994Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -1342,7 +1342,7 @@
       "office": "City Council",
       "district": "1",
       "year": "",
-      "total": 278779.69,
+      "total": 280279.69,
       "contributors": [
         {
           "contributor": "California Real Estate PAC (CREPAC)",
@@ -2809,6 +2809,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95851"
+            }
+          ]
+        },
+        {
+          "contributor": "Engineers Publishing",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1500,
+          "contributions": [
+            {
+              "date": "2022-09-27",
+              "amount": 1500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Engineers Publishing",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95834"
             }
           ]
         },
@@ -7086,7 +7104,7 @@
       "office": "City Council",
       "district": "3",
       "year": "",
-      "total": 256659.99,
+      "total": 259659.99,
       "contributors": [
         {
           "contributor": "Sacramento Central Labor Council, AFL-CIO",
@@ -7865,6 +7883,90 @@
               "contributorCity": "Blythewood",
               "contributorState": "SC",
               "contributorZip": "29016"
+            }
+          ]
+        },
+        {
+          "contributor": "Jwalant S Shukla",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2000,
+          "contributions": [
+            {
+              "date": "2022-05-04",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Jwalant S",
+              "contributorLastName": "Shukla",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95835"
+            },
+            {
+              "date": "2022-10-03",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Jwalant S",
+              "contributorLastName": "Shukla",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95835"
+            }
+          ]
+        },
+        {
+          "contributor": "Natomas Golf Center, LLC(Sukhvinder S Cheema)",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2000,
+          "contributions": [
+            {
+              "date": "2022-05-04",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Natomas Golf Center, LLC(Sukhvinder S Cheema)",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95833"
+            },
+            {
+              "date": "2022-10-03",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Natomas Golf Center, LLC(Sukhvinder S Cheema)",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95833"
+            }
+          ]
+        },
+        {
+          "contributor": "Service Employees International Union Local 1000 Candidate PAC",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2000,
+          "contributions": [
+            {
+              "date": "2022-06-07",
+              "amount": 1000,
+              "contributorCommitteeId": "1273063",
+              "contributorFirstName": "",
+              "contributorLastName": "Service Employees International Union Local 1000 Candidate PAC",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95811"
+            },
+            {
+              "date": "2022-10-03",
+              "amount": 1000,
+              "contributorCommitteeId": "1273063",
+              "contributorFirstName": "",
+              "contributorLastName": "Service Employees International Union Local 1000 Candidate PAC",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95811"
             }
           ]
         },
@@ -8821,42 +8923,6 @@
           ]
         },
         {
-          "contributor": "Jwalant S Shukla",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 1000,
-          "contributions": [
-            {
-              "date": "2022-05-04",
-              "amount": 1000,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Jwalant S",
-              "contributorLastName": "Shukla",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95835"
-            }
-          ]
-        },
-        {
-          "contributor": "Natomas Golf Center, LLC(Sukhvinder S Cheema)",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 1000,
-          "contributions": [
-            {
-              "date": "2022-05-04",
-              "amount": 1000,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "Natomas Golf Center, LLC(Sukhvinder S Cheema)",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95833"
-            }
-          ]
-        },
-        {
           "contributor": "Committee for Home Ownership of the Northstate Building Industry Association",
           "contributorCity": "Granite Bay",
           "contributorState": "CA",
@@ -8971,24 +9037,6 @@
               "contributorCity": "San Antonio",
               "contributorState": "TX",
               "contributorZip": "78249"
-            }
-          ]
-        },
-        {
-          "contributor": "Service Employees International Union Local 1000 Candidate PAC",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 1000,
-          "contributions": [
-            {
-              "date": "2022-06-07",
-              "amount": 1000,
-              "contributorCommitteeId": "1273063",
-              "contributorFirstName": "",
-              "contributorLastName": "Service Employees International Union Local 1000 Candidate PAC",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95811"
             }
           ]
         },
@@ -31246,7 +31294,7 @@
       "office": "Board of Supervisors",
       "district": "5",
       "year": "",
-      "total": 220857,
+      "total": 222857,
       "contributors": [
         {
           "contributor": "Los Rios College Federation of Teachers Political Action Fund Committee",
@@ -32321,6 +32369,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95816"
+            }
+          ]
+        },
+        {
+          "contributor": "Service Employees International  Union Local 1000 Candidate PAC Small Contributor Committee",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2000,
+          "contributions": [
+            {
+              "date": "2022-10-03",
+              "amount": 2000,
+              "contributorCommitteeId": "1273063",
+              "contributorFirstName": "",
+              "contributorLastName": "Service Employees International  Union Local 1000 Candidate PAC Small Contributor Committee",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95811"
             }
           ]
         },
@@ -37731,7 +37797,7 @@
       "office": "Board of Supervisors",
       "district": "5",
       "year": "",
-      "total": 562152.47,
+      "total": 564452.47,
       "contributors": [
         {
           "contributor": "Fulcrum Property Group",
@@ -41820,6 +41886,24 @@
           ]
         },
         {
+          "contributor": "Eric Smith",
+          "contributorCity": "Boston",
+          "contributorState": "MA",
+          "total": 1300,
+          "contributions": [
+            {
+              "date": "2022-09-30",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Eric",
+              "contributorLastName": "Smith",
+              "contributorCity": "Boston",
+              "contributorState": "MA",
+              "contributorZip": "02118"
+            }
+          ]
+        },
+        {
           "contributor": "Larry Gualco",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -42884,6 +42968,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95824"
+            }
+          ]
+        },
+        {
+          "contributor": "Gillum Consulting, Inc.",
+          "contributorCity": "Rancho Cordova",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-10-03",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Gillum Consulting, Inc.",
+              "contributorCity": "Rancho Cordova",
+              "contributorState": "CA",
+              "contributorZip": "95670"
             }
           ]
         },
@@ -48591,7 +48693,7 @@
           "spenderId": "840819",
           "spenderName": "Sacramento Metropolitan Chamber Political Action Committee",
           "position": "S",
-          "total": 97976
+          "total": 160483
         },
         {
           "spenderId": "1405176",
