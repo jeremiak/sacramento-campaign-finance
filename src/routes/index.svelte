@@ -2,11 +2,26 @@
   import { writable } from "svelte/store";
   import { committees, generated } from "$lib/data.json";
   const isTocExpanded = writable(true);
+
+  function createRaceKey(committee) {
+    const { office, district, measure, position } = committee;
+    let raceKey = null
+    
+    if (measure) {
+      raceKey = `Measure ${measure}`
+    } else if (district === '') {
+      raceKey = office
+    } else {
+      raceKey = `${office} ${district}`
+    }
+
+    return raceKey
+  }
+
   export async function load() {
     const races = {};
     committees.forEach((committee) => {
-      const { office, district } = committee;
-      const raceKey = district === "" ? office : `${office} ${district}`;
+      const raceKey = createRaceKey(committee)
 
       if (races[raceKey]) {
         races[raceKey].push(committee);
@@ -58,7 +73,7 @@
 <section>
   <div class="well-width">
     <h1>Sacramento campaign cash</h1>
-    <p>This site helps answer the question: who is funding each candidate.</p>
+    <p>This site helps answer the question: who is funding each candidate or measure.</p>
     <p>
       Both the city and county have websites that purport to allow the public
       access to campaign finance information, but they're hard to use and

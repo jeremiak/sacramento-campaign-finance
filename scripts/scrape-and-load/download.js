@@ -30,28 +30,19 @@ export default async function downloadNetfile({ agencyId, year }) {
         await page.goto(downloadPageUrl, { timeout: 60000 })
     }
 
-    console.log('c', agencyId)
-
     await page._client.send("Page.setDownloadBehavior", {
         behavior: "allow",
         downloadPath,
     })
-
-    console.log('d', agencyId)
-
     await page.waitForSelector("#ctl00_phBody_DateSelect")
-    console.log('e', agencyId)
     await page.select("#ctl00_phBody_DateSelect", year)
-    console.log('f', agencyId)
     await page.click("#ctl00_phBody_GetExcelAmend")
-    console.log('g', agencyId)
 
     // instead of trying to figure out if the file is done
     // downloading, let's just wait 5 seconds and see if
     // that works for now. shrug
     // const fileName = `${aid}-${year}.zip`
     await page.waitForTimeout(7000)
-    console.log('h', agencyId)
     await browser.close()
     return
 }

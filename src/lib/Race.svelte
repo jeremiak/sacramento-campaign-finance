@@ -1,8 +1,6 @@
 <script>
-  import _ from 'lodash'
   import Candidate from './Candidate.svelte'
   export let data = []
-
 
   $: candidatesWithNoMoney = data.committees.filter(d => d.total === 0)
 </script>

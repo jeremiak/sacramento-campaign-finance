@@ -17,6 +17,7 @@
     "dependencies": {
         "@prisma/client": "^3.14.0",
         "convert-excel-to-json": "^1.7.0",
+        "d3-dsv": "^3.0.1",
         "d3-time-format": "^3.0.0",
         "isomorphic-fetch": "^3.0.0",
         "p-queue": "^7.2.0",

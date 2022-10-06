@@ -1,4 +1,5 @@
 import _ from 'lodash'
+import { csvParse } from 'd3-dsv'
 import { promises as fs } from 'fs'
 import fetch from 'isomorphic-fetch'
 import Queue from 'p-queue'
@@ -6,22 +7,36 @@ import { PrismaClient } from '@prisma/client'
 
 const prisma = new PrismaClient()
 
-async function fetchCommittees() {
-    const sheetUrl = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTYknxsCYe8BIY7UjLTuqFP9bbohEpJdnXo-GfuemreQfB5eQyrA08Yg2CDZ6OWz7KT_Nhech_kilEP/pub?gid=0&single=true&output=csv'
-    const response = await fetch(sheetUrl)
+async function fetchCsv(url) {
+    const response = await fetch(url)
     const text = await response.text()
-    const [header, ...rows] = text.split('\n')
-    const committees = []
+    const csv = csvParse(text)
 
-    rows.forEach(row => {
-        const cells = row.split(',')
-        const d = {}
-        header.split(',').forEach((col, i) => {
-            const value = cells[i]
-            d[col.toLowerCase().trim()] = value.trim()
+    const withNormalizedKeys = csv.map(d => {
+        const dd = {}
+
+        Object.keys(d).forEach(key => {
+            const normalized = key.toLowerCase().trim()
+            dd[normalized] = d[key]
         })
-        committees.push(d)
+
+        return dd
     })
+
+    return withNormalizedKeys
+}
+
+async function fetchCandidateCommittees() {
+    const sheetUrl = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTYknxsCYe8BIY7UjLTuqFP9bbohEpJdnXo-GfuemreQfB5eQyrA08Yg2CDZ6OWz7KT_Nhech_kilEP/pub?gid=0&single=true&output=csv'
+    const committees = await fetchCsv(sheetUrl)
+
+    return committees
+}
+
+async function fetchBallotMeasureCommittees() {
+    const sheetUrl = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTYknxsCYe8BIY7UjLTuqFP9bbohEpJdnXo-GfuemreQfB5eQyrA08Yg2CDZ6OWz7KT_Nhech_kilEP/pub?gid=1703417596&single=true&output=csv'
+    const committees = await fetchCsv(sheetUrl)
+
     return committees
 }
 
@@ -136,7 +151,9 @@ async function aggregateContributorsByCommittee(committeeId) {
 
 async function main() {
     const q = new Queue({ concurrency: 1 })
-    const committees = await fetchCommittees()
+    const candidateCommittees = await fetchCandidateCommittees()
+    const ballotMeasureCommittees = await fetchBallotMeasureCommittees()
+    const committees = [...candidateCommittees, ...ballotMeasureCommittees]
     const data = []
     const ies = await fetchIEs()
 
