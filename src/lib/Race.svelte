@@ -10,22 +10,11 @@
 
   <ul class="candidates">
     {#each data.committees as candidate}
-    {#if candidate.total > 0}
       <li class="candidate">
         <Candidate {candidate} />
       </li>
-      {/if}
     {/each}
-    {#if data.committees.length === 1}
-    <li class="candidate unopposed">
-      <p>There's only one person running in this race.</p>
-    </li>
-    {/if}
   </ul>
-
-  {#if candidatesWithNoMoney.length > 0}
-    <p>{candidatesWithNoMoney.map(c => c.name).join(' and ')} {#if candidatesWithNoMoney.length === 1}hasn't{:else}haven't{/if} raised any money yet.</p>
-  {/if}
 </section>
 
 <style lang="scss">

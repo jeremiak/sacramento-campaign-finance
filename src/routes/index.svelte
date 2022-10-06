@@ -30,6 +30,23 @@
       }
     });
 
+    const measureA = {
+        race: 'Measure A',
+        committees: [
+          {
+            name: 'Support',
+            total: 0,
+            contributors: [],
+            ie: []
+          },
+          {
+            name: 'Oppose',
+            total: 0,
+            contributors: [],
+            ie: []
+          }
+        ]
+      }
     const array = [];
     Object.keys(races).forEach((raceKey) => {
       const committees = races[raceKey];
@@ -37,6 +54,33 @@
         race: raceKey,
         committees,
       };
+
+      if (raceKey.includes('Measure')) {
+
+        if (raceKey === 'Measure L') {
+          array.push(measureA)
+        }
+
+        const supporters = committees.filter(d => d.position === 'Support')
+        const opponents = committees.filter(d => d.position === 'Oppose')
+
+        race.committees = [
+          {
+            'fppc id': '',
+            name: 'Support',
+            total: supporters.reduce((accum, next) => accum + next.total, 0),
+            contributors: supporters.map(d => d.contributors).flat().sort((a, b) => b.amount - a.amount),
+            ie: supporters.map(d => d.ie).flat()
+          },
+          {
+            'fppc id': '',
+            name: 'Oppose',
+            total: opponents.reduce((accum, next) => accum + next.total, 0),
+            contributors: opponents.map(d => d.contributors).flat().sort((a, b) => b.amount - a.amount),
+            ie: opponents.map(d => d.ie).flat()
+          }
+        ]
+      }
 
       array.push(race);
     });

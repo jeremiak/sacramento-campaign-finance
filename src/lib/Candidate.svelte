@@ -9,6 +9,7 @@
 
 <div class="candidate">
   <div class="candidate-name">{candidate.name}</div>
+  {#if candidate.total > 0}
   <div class="candidate-stats">
     <p>
       <span class="monospace">${candidate.total.toLocaleString("en-US")}</span>
@@ -19,6 +20,9 @@
   </div>
   <Contributors data={candidate.contributors} />
   <IE data={candidate.ie} name={candidate.name} />
+  {:else}
+    <p>Hasn't reported any fundraising yet.</p>
+  {/if}
 </div>
 
 <style lang="scss">
