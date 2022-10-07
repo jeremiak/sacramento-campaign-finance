@@ -1,5 +1,5 @@
 {
-  "generated": "2022-10-07T00:25:29.251Z",
+  "generated": "2022-10-07T03:40:38.586Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -48788,6 +48788,815 @@
           "total": 1318.86
         }
       ]
+    },
+    {
+      "fppc id": "1443583",
+      "name": "Yes on Measure A - Committee for a Better Sacramento, sponsored by labor and construction organizations",
+      "city/county": "City",
+      "measure": "A",
+      "position": "Support",
+      "total": 1609809.52,
+      "contributors": [
+        {
+          "contributor": "Cordova Hills Development Corp.",
+          "contributorCity": "Mcclellan",
+          "contributorState": "CA",
+          "total": 250000,
+          "contributions": [
+            {
+              "date": "2022-02-17",
+              "amount": 250000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Cordova Hills Development Corp.",
+              "contributorCity": "Mcclellan",
+              "contributorState": "CA",
+              "contributorZip": "95652"
+            }
+          ]
+        },
+        {
+          "contributor": "California Alliance for Jobs - Rebuild California Committee",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 250000,
+          "contributions": [
+            {
+              "date": "2022-04-28",
+              "amount": 250000,
+              "contributorCommitteeId": "1241892",
+              "contributorFirstName": "",
+              "contributorLastName": "California Alliance for Jobs - Rebuild California Committee",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            }
+          ]
+        },
+        {
+          "contributor": "Labor Management Cooperation Committee",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 100000,
+          "contributions": [
+            {
+              "date": "2022-09-08",
+              "amount": 100000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Labor Management Cooperation Committee",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95827"
+            }
+          ]
+        },
+        {
+          "contributor": "LOCAL 1245 IBEW EXECUTIVE BOARD",
+          "contributorCity": "Vacaville",
+          "contributorState": "CA",
+          "total": 100000,
+          "contributions": [
+            {
+              "date": "2022-09-12",
+              "amount": 100000,
+              "contributorCommitteeId": "742993",
+              "contributorFirstName": "",
+              "contributorLastName": "LOCAL 1245 IBEW EXECUTIVE BOARD",
+              "contributorCity": "Vacaville",
+              "contributorState": "CA",
+              "contributorZip": "95687"
+            }
+          ]
+        },
+        {
+          "contributor": "Granite Construction Company",
+          "contributorCity": "Watsonville",
+          "contributorState": "CA",
+          "total": 100000,
+          "contributions": [
+            {
+              "date": "2022-07-21",
+              "amount": 100000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Granite Construction Company",
+              "contributorCity": "Watsonville",
+              "contributorState": "CA",
+              "contributorZip": "95076"
+            }
+          ]
+        },
+        {
+          "contributor": "Laborers Pacific Southwest Regional Organizing Coalition Issues PAC",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 100000,
+          "contributions": [
+            {
+              "date": "2022-07-21",
+              "amount": 100000,
+              "contributorCommitteeId": "1358725",
+              "contributorFirstName": "",
+              "contributorLastName": "Laborers Pacific Southwest Regional Organizing Coalition Issues PAC",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            }
+          ]
+        },
+        {
+          "contributor": "Angelo K. Tsakopoulos and Affiliated Entities",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 95809.52000000002,
+          "contributions": [
+            {
+              "date": "2022-03-09",
+              "amount": 10421.77,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Angelo K. Tsakopoulos and Affiliated Entities",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95826"
+            },
+            {
+              "date": "2022-03-09",
+              "amount": 24680.27,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Angelo K. Tsakopoulos and Affiliated Entities",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95826"
+            },
+            {
+              "date": "2022-03-09",
+              "amount": 12816.33,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Angelo K. Tsakopoulos and Affiliated Entities",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95826"
+            },
+            {
+              "date": "2022-03-09",
+              "amount": 18204.08,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Angelo K. Tsakopoulos and Affiliated Entities",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95826"
+            },
+            {
+              "date": "2022-03-09",
+              "amount": 18204.08,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Angelo K. Tsakopoulos and Affiliated Entities",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95826"
+            },
+            {
+              "date": "2022-03-09",
+              "amount": 11482.99,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Angelo K. Tsakopoulos and Affiliated Entities",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95826"
+            }
+          ]
+        },
+        {
+          "contributor": "Operating Engineers Local Union No. 3 Issues Advocacy / Ballot Initiative PAC",
+          "contributorCity": "Alameda",
+          "contributorState": "CA",
+          "total": 75000,
+          "contributions": [
+            {
+              "date": "2022-08-01",
+              "amount": 75000,
+              "contributorCommitteeId": "1345344",
+              "contributorFirstName": "",
+              "contributorLastName": "Operating Engineers Local Union No. 3 Issues Advocacy / Ballot Initiative PAC",
+              "contributorCity": "Alameda",
+              "contributorState": "CA",
+              "contributorZip": "94502"
+            }
+          ]
+        },
+        {
+          "contributor": "Northern California Carpenters Regional Council Issues PAC",
+          "contributorCity": "Oakland",
+          "contributorState": "CA",
+          "total": 75000,
+          "contributions": [
+            {
+              "date": "2022-08-23",
+              "amount": 75000,
+              "contributorCommitteeId": "1219354",
+              "contributorFirstName": "",
+              "contributorLastName": "Northern California Carpenters Regional Council Issues PAC",
+              "contributorCity": "Oakland",
+              "contributorState": "CA",
+              "contributorZip": "94621"
+            }
+          ]
+        },
+        {
+          "contributor": "De Silva Holding Company,Inc. and Affiliated Entities",
+          "contributorCity": "Dublin",
+          "contributorState": "CA",
+          "total": 50000,
+          "contributions": [
+            {
+              "date": "2022-08-09",
+              "amount": 50000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "De Silva Holding Company,Inc. and Affiliated Entities",
+              "contributorCity": "Dublin",
+              "contributorState": "CA",
+              "contributorZip": "94568"
+            }
+          ]
+        },
+        {
+          "contributor": "California American Council of Engineering Companies Issues Fund (CA ACEC Issues Fund)",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 50000,
+          "contributions": [
+            {
+              "date": "2022-07-21",
+              "amount": 50000,
+              "contributorCommitteeId": "1270458",
+              "contributorFirstName": "",
+              "contributorLastName": "California American Council of Engineering Companies Issues Fund (CA ACEC Issues Fund)",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            }
+          ]
+        },
+        {
+          "contributor": "Teichert, Inc. and Affiliates",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 50000,
+          "contributions": [
+            {
+              "date": "2022-07-26",
+              "amount": 50000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Teichert, Inc. and Affiliates",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95851"
+            }
+          ]
+        },
+        {
+          "contributor": "Lennar Corporation and its Affiliates",
+          "contributorCity": "San Rafael",
+          "contributorState": "CA",
+          "total": 50000,
+          "contributions": [
+            {
+              "date": "2022-05-16",
+              "amount": 50000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Lennar Corporation and its Affiliates",
+              "contributorCity": "San Rafael",
+              "contributorState": "CA",
+              "contributorZip": "94901"
+            }
+          ]
+        },
+        {
+          "contributor": "Myers & Sons Contruction, LLC(Clinton  Meyers)",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 50000,
+          "contributions": [
+            {
+              "date": "2022-04-12",
+              "amount": 25000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Myers & Sons Contruction, LLC(Clinton  Meyers)",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95838"
+            },
+            {
+              "date": "2022-09-28",
+              "amount": 25000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Myers & Sons Contruction, LLC(Clinton  Meyers)",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95838"
+            }
+          ]
+        },
+        {
+          "contributor": "Associated General Contractors Issues PAC",
+          "contributorCity": "West Sacramento",
+          "contributorState": "CA",
+          "total": 25000,
+          "contributions": [
+            {
+              "date": "2022-07-20",
+              "amount": 25000,
+              "contributorCommitteeId": "970230",
+              "contributorFirstName": "",
+              "contributorLastName": "Associated General Contractors Issues PAC",
+              "contributorCity": "West Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95691"
+            }
+          ]
+        },
+        {
+          "contributor": "Kamilos Companies LLC(Gerry Kamilos)",
+          "contributorCity": "Gold River",
+          "contributorState": "CA",
+          "total": 25000,
+          "contributions": [
+            {
+              "date": "2022-04-28",
+              "amount": 25000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Kamilos Companies LLC(Gerry Kamilos)",
+              "contributorCity": "Gold River",
+              "contributorState": "CA",
+              "contributorZip": "95670"
+            }
+          ]
+        },
+        {
+          "contributor": "Easton Development Company LLC(David Aatca)",
+          "contributorCity": "Folsom",
+          "contributorState": "CA",
+          "total": 25000,
+          "contributions": [
+            {
+              "date": "2022-05-19",
+              "amount": 25000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Easton Development Company LLC(David Aatca)",
+              "contributorCity": "Folsom",
+              "contributorState": "CA",
+              "contributorZip": "95630"
+            }
+          ]
+        },
+        {
+          "contributor": "Region Business, Inc.",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 23000,
+          "contributions": [
+            {
+              "date": "2022-04-28",
+              "amount": 23000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Region Business, Inc.",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95811"
+            }
+          ]
+        },
+        {
+          "contributor": "Mark Thomas And Company, Inc.",
+          "contributorCity": "San Jose",
+          "contributorState": "CA",
+          "total": 20000,
+          "contributions": [
+            {
+              "date": "2022-09-26",
+              "amount": 20000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Mark Thomas And Company, Inc.",
+              "contributorCity": "San Jose",
+              "contributorState": "CA",
+              "contributorZip": "95134"
+            }
+          ]
+        },
+        {
+          "contributor": "Murraysmith, Inc.",
+          "contributorCity": "Portland",
+          "contributorState": "CA",
+          "total": 15000,
+          "contributions": [
+            {
+              "date": "2022-03-07",
+              "amount": 15000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Murraysmith, Inc.",
+              "contributorCity": "Portland",
+              "contributorState": "CA",
+              "contributorZip": "97204"
+            }
+          ]
+        },
+        {
+          "contributor": "PSOMAS",
+          "contributorCity": "Roseville",
+          "contributorState": "CA",
+          "total": 10000,
+          "contributions": [
+            {
+              "date": "2022-02-22",
+              "amount": 10000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "PSOMAS",
+              "contributorCity": "Roseville",
+              "contributorState": "CA",
+              "contributorZip": "95678"
+            }
+          ]
+        },
+        {
+          "contributor": "Greater Sacramento Area Economic Council",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 10000,
+          "contributions": [
+            {
+              "date": "2022-08-15",
+              "amount": 10000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Greater Sacramento Area Economic Council",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            }
+          ]
+        },
+        {
+          "contributor": "Blue Knight Security & Patrol, Inc.",
+          "contributorCity": "Rancho Cordova",
+          "contributorState": "CA",
+          "total": 10000,
+          "contributions": [
+            {
+              "date": "2022-04-05",
+              "amount": 10000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Blue Knight Security & Patrol, Inc.",
+              "contributorCity": "Rancho Cordova",
+              "contributorState": "CA",
+              "contributorZip": "95670"
+            }
+          ]
+        },
+        {
+          "contributor": "WSP USA, Inc.",
+          "contributorCity": "New York",
+          "contributorState": "NY",
+          "total": 10000,
+          "contributions": [
+            {
+              "date": "2022-04-21",
+              "amount": 10000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "WSP USA, Inc.",
+              "contributorCity": "New York",
+              "contributorState": "NY",
+              "contributorZip": "10119"
+            }
+          ]
+        },
+        {
+          "contributor": "Wood Rodgers",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 5000,
+          "contributions": [
+            {
+              "date": "2022-02-08",
+              "amount": 5000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Wood Rodgers",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95816"
+            }
+          ]
+        },
+        {
+          "contributor": "Kimley-Horn & Associates, Inc.",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 5000,
+          "contributions": [
+            {
+              "date": "2022-08-01",
+              "amount": 5000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Kimley-Horn & Associates, Inc.",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            }
+          ]
+        },
+        {
+          "contributor": "Dewberry",
+          "contributorCity": "Rancho Cordova",
+          "contributorState": "CA",
+          "total": 5000,
+          "contributions": [
+            {
+              "date": "2022-06-13",
+              "amount": 5000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Dewberry",
+              "contributorCity": "Rancho Cordova",
+              "contributorState": "CA",
+              "contributorZip": "95670"
+            }
+          ]
+        },
+        {
+          "contributor": "Atlas Disposal Industries, LLC(Dave Sikich)",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 4000,
+          "contributions": [
+            {
+              "date": "2022-03-24",
+              "amount": 4000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Atlas Disposal Industries, LLC(Dave Sikich)",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95826"
+            }
+          ]
+        },
+        {
+          "contributor": "G3 Quality, Inc.",
+          "contributorCity": "Cerritos",
+          "contributorState": "CA",
+          "total": 3000,
+          "contributions": [
+            {
+              "date": "2022-03-28",
+              "amount": 3000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "G3 Quality, Inc.",
+              "contributorCity": "Cerritos",
+              "contributorState": "CA",
+              "contributorZip": "90703"
+            }
+          ]
+        },
+        {
+          "contributor": "BSK Associates",
+          "contributorCity": "Fresno",
+          "contributorState": "CA",
+          "total": 2500,
+          "contributions": [
+            {
+              "date": "2022-03-14",
+              "amount": 2500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "BSK Associates",
+              "contributorCity": "Fresno",
+              "contributorState": "CA",
+              "contributorZip": "93650"
+            }
+          ]
+        },
+        {
+          "contributor": "Crawford & Associates, Inc.",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2500,
+          "contributions": [
+            {
+              "date": "2022-03-21",
+              "amount": 2500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Crawford & Associates, Inc.",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95831"
+            }
+          ]
+        },
+        {
+          "contributor": "Bennett Engineering Services",
+          "contributorCity": "Roseville",
+          "contributorState": "CA",
+          "total": 2500,
+          "contributions": [
+            {
+              "date": "2022-02-17",
+              "amount": 2500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Bennett Engineering Services",
+              "contributorCity": "Roseville",
+              "contributorState": "CA",
+              "contributorZip": "95661"
+            }
+          ]
+        },
+        {
+          "contributor": "Richard Meeker",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2000,
+          "contributions": [
+            {
+              "date": "2022-03-24",
+              "amount": 2000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Richard",
+              "contributorLastName": "Meeker",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95835"
+            }
+          ]
+        },
+        {
+          "contributor": "Capital Engineering Consultants, Inc.",
+          "contributorCity": "Rancho Cordova",
+          "contributorState": "CA",
+          "total": 2000,
+          "contributions": [
+            {
+              "date": "2022-03-24",
+              "amount": 2000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Capital Engineering Consultants, Inc.",
+              "contributorCity": "Rancho Cordova",
+              "contributorState": "CA",
+              "contributorZip": "95670"
+            }
+          ]
+        },
+        {
+          "contributor": "AIRCO Mechanical",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2000,
+          "contributions": [
+            {
+              "date": "2022-04-26",
+              "amount": 2000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "AIRCO Mechanical",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95828"
+            }
+          ]
+        },
+        {
+          "contributor": "Morrow Surveying, Inc.",
+          "contributorCity": "West Sacramento",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-03-24",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Morrow Surveying, Inc.",
+              "contributorCity": "West Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95691"
+            }
+          ]
+        },
+        {
+          "contributor": "Comstock Johnson Architects, Inc.",
+          "contributorCity": "Mather",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-03-24",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Comstock Johnson Architects, Inc.",
+              "contributorCity": "Mather",
+              "contributorState": "CA",
+              "contributorZip": "95655"
+            }
+          ]
+        },
+        {
+          "contributor": "Porter Law Group",
+          "contributorCity": "Gold River",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-03-24",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Porter Law Group",
+              "contributorCity": "Gold River",
+              "contributorState": "CA",
+              "contributorZip": "95670"
+            }
+          ]
+        },
+        {
+          "contributor": "Kimmel Construction, Inc.",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-03-24",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Kimmel Construction, Inc.",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95838"
+            }
+          ]
+        },
+        {
+          "contributor": "Stanley Van Vleck",
+          "contributorCity": "Crystal Bay",
+          "contributorState": "NV",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-09-09",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Stanley",
+              "contributorLastName": "Van Vleck",
+              "contributorCity": "Crystal Bay",
+              "contributorState": "NV",
+              "contributorZip": "89402"
+            }
+          ]
+        },
+        {
+          "contributor": "Nancy Miller Thompson",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 500,
+          "contributions": [
+            {
+              "date": "2022-07-21",
+              "amount": 500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Nancy",
+              "contributorLastName": "Miller Thompson",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95818"
+            }
+          ]
+        }
+      ],
+      "ie": []
     },
     {
       "fppc id": "1454170",

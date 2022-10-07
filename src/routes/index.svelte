@@ -30,23 +30,6 @@
       }
     });
 
-    const measureA = {
-        race: 'Measure A',
-        committees: [
-          {
-            name: 'Support',
-            total: 0,
-            contributors: [],
-            ie: []
-          },
-          {
-            name: 'Oppose',
-            total: 0,
-            contributors: [],
-            ie: []
-          }
-        ]
-      }
     const array = [];
     Object.keys(races).forEach((raceKey) => {
       const committees = races[raceKey];
@@ -56,11 +39,6 @@
       };
 
       if (raceKey.includes('Measure')) {
-
-        if (raceKey === 'Measure L') {
-          array.push(measureA)
-        }
-
         const supporters = committees.filter(d => d.position === 'Support')
         const opponents = committees.filter(d => d.position === 'Oppose')
 
