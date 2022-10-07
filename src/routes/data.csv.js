@@ -1,3 +1,4 @@
+import { csvFormat } from 'd3-dsv'
 import data from '$lib/data.json'
 
 const rows = data.committees.map(committee => {
@@ -21,32 +22,29 @@ const rows = data.committees.map(committee => {
     })
 }).flat()
 
-const cols = [
-    ['fppcId', 'FPPC ID', ],
-    ['candidate', 'Candidate', ],
-    ['office', 'Office', ],
-    ['district', 'District', ],
-    ['contributor', 'Contributor', ],
-    ['contributorCity', 'Contributor city', ],
-    ['contributorState', 'Contributor state', ],
-    ['total', 'Contributor total'],
-]
-const csv = `${cols.map(c => c[1]).join(',')}\n${rows.map(r => {
-  const row = cols.map((c, i) => {
-    const value = r[c[0]]
+const cols = {
+    'fppcId': 'FPPC ID',
+    'candidate': 'Candidate',
+    'office': 'Office',
+    'district': 'District',
+    'measure': 'Measure',
+    'position': 'Position',
+    'contributor': 'Contributor',
+    'contributorCity': 'Contributor city',
+    'contributorState': 'Contributor state',
+    'total': 'Contributor total',
+}
 
-    if (!value) {
-      return null
-    } else if (value.includes && value.includes(',')) {
-      return `
-"${value}"
-`
-    } else {
-      return value
-    }
-  }).join(',')
-  return row
-}).join('\n')}`
+const transformed = rows.map(d => {
+    const dd = {}
+    Object.keys(cols).forEach(col => {
+        const value = d[col]
+        const newCol = cols[col]
+        dd[newCol] = value
+    })
+    return dd
+})
+const csv = csvFormat(transformed)
 const filename = `sac-contributions-${data.generated}.csv`
 
 export async function get() {
