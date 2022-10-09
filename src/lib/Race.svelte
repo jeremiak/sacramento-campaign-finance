@@ -21,7 +21,10 @@
   section {
     color: #212121;
     margin-bottom: 2.5rem;
-    padding: 1.5rem;
+    padding: .5rem;
+    @media screen and (min-width: 700px) {
+      padding: 1.5rem;
+    }
   }
 
   h1 {
