@@ -1,5 +1,5 @@
 {
-  "generated": "2022-10-09T20:34:57.378Z",
+  "generated": "2022-10-09T22:04:24.889Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -49908,6 +49908,16 @@
           ]
         }
       ],
+      "ie": []
+    },
+    {
+      "fppc id": "1454384",
+      "name": "Measure A, Not OK",
+      "city/county": "City",
+      "measure": "A",
+      "position": "Oppose",
+      "total": 0,
+      "contributors": [],
       "ie": []
     },
     {
