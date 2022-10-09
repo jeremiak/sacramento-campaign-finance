@@ -1,5 +1,5 @@
 {
-  "generated": "2022-10-09T00:21:02.779Z",
+  "generated": "2022-10-09T20:34:57.378Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -50163,8 +50163,26 @@
       "city/county": "City",
       "measure": "O",
       "position": "Oppose",
-      "total": 2500,
+      "total": 32500,
       "contributors": [
+        {
+          "contributor": "ACLU of Northern California Issues Committee",
+          "contributorCity": "San Francisco",
+          "contributorState": "CA",
+          "total": 30000,
+          "contributions": [
+            {
+              "date": "2022-10-05",
+              "amount": 30000,
+              "contributorCommitteeId": "1423278",
+              "contributorFirstName": "",
+              "contributorLastName": "ACLU of Northern California Issues Committee",
+              "contributorCity": "San Francisco",
+              "contributorState": "CA",
+              "contributorZip": "94111"
+            }
+          ]
+        },
         {
           "contributor": "Organize Sacramento",
           "contributorCity": "Sacramento",
