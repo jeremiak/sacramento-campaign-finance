@@ -36,4 +36,8 @@
   .candidate-name {
     font-weight: 700;
   }
+
+  .candidate-stats p {
+    height: 3.25rem;
+  }
 </style>

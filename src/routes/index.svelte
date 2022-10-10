@@ -21,7 +21,6 @@
   function formatGeneratedAt(generatedAt) {
     const d = new Date(generatedAt);
     const dateGeneratedAt = d.toLocaleString(undefined, {
-      second: "numeric",
       hour: "numeric",
       minute: "numeric",
       month: "long",
@@ -114,22 +113,23 @@
     body {
       background-color: #3d521e;
       color: white;
+      /* margin-top: 0; */
     }
   </style>
 </svelte:head>
 
 <section>
-  <div class="well-width">
+  <div class="intro well-width">
     <h1>Sacramento campaign cash</h1>
     <p>
       This site helps answer the question: who is funding each candidate or
-      measure.
+      measure?
     </p>
     <p>
       Both the city and county have websites that purport to allow the public
       access to campaign finance information, but they're hard to use and
       clunky. Below, you can see the individual contributors to each campaign as
-      well as the groups are spending their own money on advertisements, called
+      well as the groups that are spending their own money on advertisements, called
       "independent expenditures."
     </p>
     <p class="last-updated">
@@ -199,6 +199,21 @@
     max-width: 750px;
     margin: 0 auto;
   }
+
+  .intro {
+    background-color: white;
+    border: 1.5px solid #3d521e;
+    border-bottom: none;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    color: #062726;
+    padding: 1rem;
+    font-size: 1em;
+    
+    .last-updated {
+      margin-bottom: 0;
+    }
+  }
   h1 {
     font-weight: 700;
     text-align: center;
@@ -223,7 +238,6 @@
     position: sticky;
     text-align: center;
     top: 0;
-    // width: 80%;
 
     ul {
       display: flex;

@@ -9,7 +9,9 @@
 <div>
   <h3>Independent expenditures</h3>
   {#if data.length > 0}
-    <p>${Math.floor(total).toLocaleString("en-US")} from {data.length} spender{#if data.length !== 1}s{/if}{#if data.length !== 0}:{/if}</p>
+    <p>
+      <span class="monospace">${Math.floor(total).toLocaleString("en-US")}</span> from {data.length} spender{#if data.length !== 1}s{/if}{#if data.length !== 0}:{/if}
+    </p>
     <ul>
       {#each data as ie}
         <li>
@@ -27,7 +29,7 @@
       {/each}
     </ul>
   {:else}
-    <p>No independent spending to support or oppose</p>
+    <p>No independent spending to support or oppose.</p>
   {/if}
 </div>
 
