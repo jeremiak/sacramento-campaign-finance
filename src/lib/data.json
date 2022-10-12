@@ -1,5 +1,5 @@
 {
-  "generated": "2022-10-11T00:22:08.802Z",
+  "generated": "2022-10-12T00:24:59.085Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -16108,7 +16108,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "3",
-      "total": 350376.76,
+      "total": 353976.76,
       "contributors": [
         {
           "contributor": "California Real Estate PAC (CREPAC) Small Contributor Committee",
@@ -17633,6 +17633,42 @@
               "contributorCity": "Davie",
               "contributorState": "FL",
               "contributorZip": "33314"
+            }
+          ]
+        },
+        {
+          "contributor": "Alana Mathews for District Attorney 2022",
+          "contributorCity": "Antelope",
+          "contributorState": "CA",
+          "total": 1800,
+          "contributions": [
+            {
+              "date": "2022-10-07",
+              "amount": 1800,
+              "contributorCommitteeId": "1435592",
+              "contributorFirstName": "",
+              "contributorLastName": "Alana Mathews for District Attorney 2022",
+              "contributorCity": "Antelope",
+              "contributorState": "CA",
+              "contributorZip": "95843"
+            }
+          ]
+        },
+        {
+          "contributor": "Geoff Griffin",
+          "contributorCity": "Roseville",
+          "contributorState": "CA",
+          "total": 1800,
+          "contributions": [
+            {
+              "date": "2022-10-10",
+              "amount": 1800,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Geoff",
+              "contributorLastName": "Griffin",
+              "contributorCity": "Roseville",
+              "contributorState": "CA",
+              "contributorZip": "95661"
             }
           ]
         },
@@ -31517,7 +31553,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 228257,
+      "total": 229257,
       "contributors": [
         {
           "contributor": "Los Rios College Federation of Teachers Political Action Fund Committee",
@@ -33494,6 +33530,24 @@
               "contributorCity": "Elk Grove",
               "contributorState": "CA",
               "contributorZip": "95757"
+            }
+          ]
+        },
+        {
+          "contributor": "Sharon Rogoff",
+          "contributorCity": "Folsom",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-10-09",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Sharon",
+              "contributorLastName": "Rogoff",
+              "contributorCity": "Folsom",
+              "contributorState": "CA",
+              "contributorZip": "95630"
             }
           ]
         },
@@ -38039,7 +38093,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 575952.47,
+      "total": 591152.47,
       "contributors": [
         {
           "contributor": "Fulcrum Property Group",
@@ -38322,6 +38376,34 @@
           ]
         },
         {
+          "contributor": "I Street Public Affairs",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 5400,
+          "contributions": [
+            {
+              "date": "2022-01-12",
+              "amount": 2700,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "I Street Public Affairs",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95811"
+            },
+            {
+              "date": "2022-10-07",
+              "amount": 2700,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "I Street Public Affairs",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95811"
+            }
+          ]
+        },
+        {
           "contributor": "Sacramento County Deputy Sheriffs Assoc PAC",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -38580,6 +38662,34 @@
               "contributorCity": "Mcclellan",
               "contributorState": "CA",
               "contributorZip": "95652"
+            }
+          ]
+        },
+        {
+          "contributor": "PG&E Corporation",
+          "contributorCity": "Fresno",
+          "contributorState": "CA",
+          "total": 4000,
+          "contributions": [
+            {
+              "date": "2022-05-21",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "PG&E Corporation",
+              "contributorCity": "Fresno",
+              "contributorState": "CA",
+              "contributorZip": "93721"
+            },
+            {
+              "date": "2022-10-07",
+              "amount": 2700,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "PG&E Corporation",
+              "contributorCity": "Fresno",
+              "contributorState": "CA",
+              "contributorZip": "93721"
             }
           ]
         },
@@ -39164,24 +39274,6 @@
           ]
         },
         {
-          "contributor": "I Street Public Affairs",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 2700,
-          "contributions": [
-            {
-              "date": "2022-01-12",
-              "amount": 2700,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "I Street Public Affairs",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95811"
-            }
-          ]
-        },
-        {
           "contributor": "Emerald Site Services, Inc",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -39268,6 +39360,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95825"
+            }
+          ]
+        },
+        {
+          "contributor": "Taylor Morrison Inc. Building Strong Business PAC",
+          "contributorCity": "Scottsdale",
+          "contributorState": "AZ",
+          "total": 2700,
+          "contributions": [
+            {
+              "date": "2022-10-07",
+              "amount": 2700,
+              "contributorCommitteeId": "1425184",
+              "contributorFirstName": "",
+              "contributorLastName": "Taylor Morrison Inc. Building Strong Business PAC",
+              "contributorCity": "Scottsdale",
+              "contributorState": "AZ",
+              "contributorZip": "85251"
             }
           ]
         },
@@ -40672,6 +40782,44 @@
               "contributorCity": "Roseville",
               "contributorState": "CA",
               "contributorZip": "95661"
+            }
+          ]
+        },
+        {
+          "contributor": "Nick S. Avdis",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1750,
+          "contributions": [
+            {
+              "date": "2022-09-21",
+              "amount": 650,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Nick S.",
+              "contributorLastName": "Avdis",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95835"
+            },
+            {
+              "date": "2022-03-24",
+              "amount": 500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Nick S.",
+              "contributorLastName": "Avdis",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95835"
+            },
+            {
+              "date": "2022-10-07",
+              "amount": 600,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Nick S.",
+              "contributorLastName": "Avdis",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95835"
             }
           ]
         },
@@ -42104,24 +42252,6 @@
           ]
         },
         {
-          "contributor": "PG&E Corporation",
-          "contributorCity": "Fresno",
-          "contributorState": "CA",
-          "total": 1300,
-          "contributions": [
-            {
-              "date": "2022-05-21",
-              "amount": 1300,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "PG&E Corporation",
-              "contributorCity": "Fresno",
-              "contributorState": "CA",
-              "contributorZip": "93721"
-            }
-          ]
-        },
-        {
           "contributor": "John Jackson Sr.",
           "contributorCity": "Elk Grove",
           "contributorState": "CA",
@@ -42284,6 +42414,24 @@
           ]
         },
         {
+          "contributor": "James Stewart",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1300,
+          "contributions": [
+            {
+              "date": "2022-10-07",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "James",
+              "contributorLastName": "Stewart",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95864"
+            }
+          ]
+        },
+        {
           "contributor": "Larry Gualco",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -42348,30 +42496,20 @@
           ]
         },
         {
-          "contributor": "Nick S. Avdis",
-          "contributorCity": "Sacramento",
+          "contributor": "Hanford Sand and Gravel, Inc.",
+          "contributorCity": "Elk Grove",
           "contributorState": "CA",
-          "total": 1150,
+          "total": 1200,
           "contributions": [
             {
-              "date": "2022-09-21",
-              "amount": 650,
+              "date": "2022-10-07",
+              "amount": 1200,
               "contributorCommitteeId": "",
-              "contributorFirstName": "Nick S.",
-              "contributorLastName": "Avdis",
-              "contributorCity": "Sacramento",
+              "contributorFirstName": "",
+              "contributorLastName": "Hanford Sand and Gravel, Inc.",
+              "contributorCity": "Elk Grove",
               "contributorState": "CA",
-              "contributorZip": "95835"
-            },
-            {
-              "date": "2022-03-24",
-              "amount": 500,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Nick S.",
-              "contributorLastName": "Avdis",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95835"
+              "contributorZip": "95624"
             }
           ]
         },
@@ -43366,6 +43504,78 @@
               "contributorCity": "Rancho Cordova",
               "contributorState": "CA",
               "contributorZip": "95670"
+            }
+          ]
+        },
+        {
+          "contributor": "Roni Roberts",
+          "contributorCity": "Myrtle Beach",
+          "contributorState": "SC",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-10-07",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Roni",
+              "contributorLastName": "Roberts",
+              "contributorCity": "Myrtle Beach",
+              "contributorState": "SC",
+              "contributorZip": "29579"
+            }
+          ]
+        },
+        {
+          "contributor": "Chris Stevens",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-10-07",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Chris",
+              "contributorLastName": "Stevens",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95864"
+            }
+          ]
+        },
+        {
+          "contributor": "Term Strategies, LLC(Mary Eglee)",
+          "contributorCity": "Wilton",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-10-07",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Term Strategies, LLC(Mary Eglee)",
+              "contributorCity": "Wilton",
+              "contributorState": "CA",
+              "contributorZip": "95693"
+            }
+          ]
+        },
+        {
+          "contributor": "Robert P. Thomas & Associates",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-10-07",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Robert P. Thomas & Associates",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95815"
             }
           ]
         },
@@ -49086,11 +49296,39 @@
     {
       "fppc id": "1443583",
       "name": "Yes on Measure A - Committee for a Better Sacramento, sponsored by labor and construction organizations",
-      "city/county": "City",
+      "city/county": "County",
       "measure": "A",
       "position": "Support",
-      "total": 1634809.52,
+      "total": 2189809.52,
       "contributors": [
+        {
+          "contributor": "California Alliance for Jobs - Rebuild California Committee",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 750000,
+          "contributions": [
+            {
+              "date": "2022-04-28",
+              "amount": 250000,
+              "contributorCommitteeId": "1241892",
+              "contributorFirstName": "",
+              "contributorLastName": "California Alliance for Jobs - Rebuild California Committee",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            },
+            {
+              "date": "2022-10-07",
+              "amount": 500000,
+              "contributorCommitteeId": "1241892",
+              "contributorFirstName": "",
+              "contributorLastName": "California Alliance for Jobs - Rebuild California Committee",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            }
+          ]
+        },
         {
           "contributor": "Cordova Hills Development Corp.",
           "contributorCity": "Mcclellan",
@@ -49106,24 +49344,6 @@
               "contributorCity": "Mcclellan",
               "contributorState": "CA",
               "contributorZip": "95652"
-            }
-          ]
-        },
-        {
-          "contributor": "California Alliance for Jobs - Rebuild California Committee",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 250000,
-          "contributions": [
-            {
-              "date": "2022-04-28",
-              "amount": 250000,
-              "contributorCommitteeId": "1241892",
-              "contributorFirstName": "",
-              "contributorLastName": "California Alliance for Jobs - Rebuild California Committee",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95814"
             }
           ]
         },
@@ -49196,6 +49416,34 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95814"
+            }
+          ]
+        },
+        {
+          "contributor": "Teichert, Inc. and Affiliates",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 100000,
+          "contributions": [
+            {
+              "date": "2022-07-26",
+              "amount": 50000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Teichert, Inc. and Affiliates",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95851"
+            },
+            {
+              "date": "2022-10-07",
+              "amount": 50000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Teichert, Inc. and Affiliates",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95851"
             }
           ]
         },
@@ -49336,24 +49584,6 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95814"
-            }
-          ]
-        },
-        {
-          "contributor": "Teichert, Inc. and Affiliates",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 50000,
-          "contributions": [
-            {
-              "date": "2022-07-26",
-              "amount": 50000,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "Teichert, Inc. and Affiliates",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95851"
             }
           ]
         },
@@ -49656,6 +49886,24 @@
           ]
         },
         {
+          "contributor": "Salaber Associates, Inc.",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 5000,
+          "contributions": [
+            {
+              "date": "2022-10-07",
+              "amount": 5000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Salaber Associates, Inc.",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95670"
+            }
+          ]
+        },
+        {
           "contributor": "Atlas Disposal Industries, LLC(Dave Sikich)",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -49913,7 +50161,7 @@
     {
       "fppc id": "1454384",
       "name": "Measure A, Not OK",
-      "city/county": "City",
+      "city/county": "County",
       "measure": "A",
       "position": "Oppose",
       "total": 0,
@@ -49936,7 +50184,7 @@
       "city/county": "City",
       "measure": "L",
       "position": "Support",
-      "total": 135200,
+      "total": 145200,
       "contributors": [
         {
           "contributor": "Youth Forward",
@@ -50047,6 +50295,52 @@
           ]
         },
         {
+          "contributor": "Mai Vang for City Council 2024",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 6000,
+          "contributions": [
+            {
+              "date": "2022-08-17",
+              "amount": 1000,
+              "contributorCommitteeId": "1435334",
+              "contributorFirstName": "",
+              "contributorLastName": "Mai Vang for City Council 2024",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95815"
+            },
+            {
+              "date": "2022-10-10",
+              "amount": 5000,
+              "contributorCommitteeId": "1435334",
+              "contributorFirstName": "",
+              "contributorLastName": "Mai Vang for City Council 2024",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95815"
+            }
+          ]
+        },
+        {
+          "contributor": "Domeyko Taylor Holding Company",
+          "contributorCity": "Roseville",
+          "contributorState": "CA",
+          "total": 5000,
+          "contributions": [
+            {
+              "date": "2022-10-07",
+              "amount": 5000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Domeyko Taylor Holding Company",
+              "contributorCity": "Roseville",
+              "contributorState": "CA",
+              "contributorZip": "95661"
+            }
+          ]
+        },
+        {
           "contributor": "Derrell Roberts",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -50058,24 +50352,6 @@
               "contributorCommitteeId": "",
               "contributorFirstName": "Derrell",
               "contributorLastName": "Roberts",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95815"
-            }
-          ]
-        },
-        {
-          "contributor": "Mai Vang for City Council 2024",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 1000,
-          "contributions": [
-            {
-              "date": "2022-08-17",
-              "amount": 1000,
-              "contributorCommitteeId": "1435334",
-              "contributorFirstName": "",
-              "contributorLastName": "Mai Vang for City Council 2024",
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95815"
