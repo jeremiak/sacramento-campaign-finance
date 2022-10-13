@@ -1,5 +1,5 @@
 {
-  "generated": "2022-10-12T00:24:59.085Z",
+  "generated": "2022-10-13T00:22:51.256Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -16108,7 +16108,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "3",
-      "total": 353976.76,
+      "total": 355776.76,
       "contributors": [
         {
           "contributor": "California Real Estate PAC (CREPAC) Small Contributor Committee",
@@ -17669,6 +17669,24 @@
               "contributorCity": "Roseville",
               "contributorState": "CA",
               "contributorZip": "95661"
+            }
+          ]
+        },
+        {
+          "contributor": "KJ 2 Productions",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1800,
+          "contributions": [
+            {
+              "date": "2022-10-10",
+              "amount": 1800,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "KJ 2 Productions",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
             }
           ]
         },
@@ -49268,16 +49286,16 @@
           "total": 160483
         },
         {
+          "spenderId": "782240",
+          "spenderName": "COMMITTEE FOR HOME OWNERSHIP, SPONSORED BY NORTH STATE BUILDING INDUSTRY ASSOC.",
+          "position": "S",
+          "total": 118319.21000000002
+        },
+        {
           "spenderId": "1447157",
           "spenderName": "Working Families for Jaclyn Moreno for Sacramento County Supervisor 2022, sponsored by labor unions",
           "position": "O",
           "total": 14643.17
-        },
-        {
-          "spenderId": "782240",
-          "spenderName": "COMMITTEE FOR HOME OWNERSHIP, SPONSORED BY NORTH STATE BUILDING INDUSTRY ASSOC.",
-          "position": "S",
-          "total": 78258.92
         },
         {
           "spenderId": "1405176",
@@ -50184,7 +50202,7 @@
       "city/county": "City",
       "measure": "L",
       "position": "Support",
-      "total": 145200,
+      "total": 155200,
       "contributors": [
         {
           "contributor": "Youth Forward",
@@ -50291,6 +50309,24 @@
               "contributorCity": "Oakland",
               "contributorState": "CA",
               "contributorZip": "94609"
+            }
+          ]
+        },
+        {
+          "contributor": "Kevin Nagle",
+          "contributorCity": "El Dorado Hills",
+          "contributorState": "CA",
+          "total": 10000,
+          "contributions": [
+            {
+              "date": "2022-10-10",
+              "amount": 10000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Kevin",
+              "contributorLastName": "Nagle",
+              "contributorCity": "El Dorado Hills",
+              "contributorState": "CA",
+              "contributorZip": "95762"
             }
           ]
         },
@@ -50496,7 +50532,7 @@
       "city/county": "City",
       "measure": "O",
       "position": "Support",
-      "total": 312550,
+      "total": 313550,
       "contributors": [
         {
           "contributor": "Sacramento Moving Forward",
@@ -51091,6 +51127,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95834"
+            }
+          ]
+        },
+        {
+          "contributor": "Ken Turton",
+          "contributorCity": "Roseville",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-10-10",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Ken",
+              "contributorLastName": "Turton",
+              "contributorCity": "Roseville",
+              "contributorState": "CA",
+              "contributorZip": "95661"
             }
           ]
         },
