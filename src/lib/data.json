@@ -1,5 +1,5 @@
 {
-  "generated": "2022-10-13T00:22:51.256Z",
+  "generated": "2022-10-15T00:20:34.199Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -1358,7 +1358,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "1",
-      "total": 282779.69,
+      "total": 284579.69,
       "contributors": [
         {
           "contributor": "California Real Estate PAC (CREPAC)",
@@ -2611,6 +2611,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95811"
+            }
+          ]
+        },
+        {
+          "contributor": "Jon J. Jenkins",
+          "contributorCity": "Ballwin",
+          "contributorState": "MO",
+          "total": 1800,
+          "contributions": [
+            {
+              "date": "2022-10-12",
+              "amount": 1800,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Jon J.",
+              "contributorLastName": "Jenkins",
+              "contributorCity": "Ballwin",
+              "contributorState": "MO",
+              "contributorZip": "63021"
             }
           ]
         },
@@ -7155,7 +7173,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "3",
-      "total": 261159.99,
+      "total": 264659.99,
       "contributors": [
         {
           "contributor": "Sacramento Central Labor Council, AFL-CIO",
@@ -7293,11 +7311,21 @@
           "contributor": "California Federation of Teachers COPE",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
-          "total": 6000,
+          "total": 7500,
           "contributions": [
             {
               "date": "2022-05-16",
               "amount": 6000,
+              "contributorCommitteeId": "741857",
+              "contributorFirstName": "",
+              "contributorLastName": "California Federation of Teachers COPE",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            },
+            {
+              "date": "2022-10-12",
+              "amount": 1500,
               "contributorCommitteeId": "741857",
               "contributorFirstName": "",
               "contributorLastName": "California Federation of Teachers COPE",
@@ -7332,6 +7360,64 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95843"
+            }
+          ]
+        },
+        {
+          "contributor": "G B Commercial LLC(Bobby Gosel)",
+          "contributorCity": "Greenwood",
+          "contributorState": "CA",
+          "total": 4000,
+          "contributions": [
+            {
+              "date": "2022-02-10",
+              "amount": 500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "G B Commercial LLC(Bobby Gosel)",
+              "contributorCity": "Greenwood",
+              "contributorState": "CA",
+              "contributorZip": "95635"
+            },
+            {
+              "date": "2022-05-04",
+              "amount": 500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "G B Commercial LLC(Bobby Gosel)",
+              "contributorCity": "Greenwood",
+              "contributorState": "CA",
+              "contributorZip": "95635"
+            },
+            {
+              "date": "2022-09-15",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "G B Commercial LLC(Bobby Gosel)",
+              "contributorCity": "Greenwood",
+              "contributorState": "CA",
+              "contributorZip": "95635"
+            },
+            {
+              "date": "2022-09-15",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "G B Commercial LLC(Bobby Gosel)",
+              "contributorCity": "Greenwood",
+              "contributorState": "CA",
+              "contributorZip": "95635"
+            },
+            {
+              "date": "2022-10-12",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "G B Commercial LLC(Bobby Gosel)",
+              "contributorCity": "Greenwood",
+              "contributorState": "CA",
+              "contributorZip": "95635"
             }
           ]
         },
@@ -7612,54 +7698,6 @@
               "contributorCity": "Los Angeles",
               "contributorState": "CA",
               "contributorZip": "90057"
-            }
-          ]
-        },
-        {
-          "contributor": "G B Commercial LLC(Bobby Gosel)",
-          "contributorCity": "Greenwood",
-          "contributorState": "CA",
-          "total": 3000,
-          "contributions": [
-            {
-              "date": "2022-02-10",
-              "amount": 500,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "G B Commercial LLC(Bobby Gosel)",
-              "contributorCity": "Greenwood",
-              "contributorState": "CA",
-              "contributorZip": "95635"
-            },
-            {
-              "date": "2022-05-04",
-              "amount": 500,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "G B Commercial LLC(Bobby Gosel)",
-              "contributorCity": "Greenwood",
-              "contributorState": "CA",
-              "contributorZip": "95635"
-            },
-            {
-              "date": "2022-09-15",
-              "amount": 1000,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "G B Commercial LLC(Bobby Gosel)",
-              "contributorCity": "Greenwood",
-              "contributorState": "CA",
-              "contributorZip": "95635"
-            },
-            {
-              "date": "2022-09-15",
-              "amount": 1000,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "G B Commercial LLC(Bobby Gosel)",
-              "contributorCity": "Greenwood",
-              "contributorState": "CA",
-              "contributorZip": "95635"
             }
           ]
         },
@@ -9178,6 +9216,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95831"
+            }
+          ]
+        },
+        {
+          "contributor": "Kisugu, LLC bda A-1 Mart(Lamnora Nijhar)",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-10-12",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Kisugu, LLC bda A-1 Mart(Lamnora Nijhar)",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95833"
             }
           ]
         },
@@ -25656,7 +25712,7 @@
           "spenderId": "1400377",
           "spenderName": "Alliance to Support the Middle Class",
           "position": "S",
-          "total": 45085.979999999996
+          "total": 57663.81
         }
       ]
     },
@@ -25666,7 +25722,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "5",
-      "total": 95350,
+      "total": 101450,
       "contributors": [
         {
           "contributor": "Sacramento Central Labor Council COPE",
@@ -25767,6 +25823,34 @@
               "contributorCity": "Los Angeles",
               "contributorState": "CA",
               "contributorZip": "90057"
+            }
+          ]
+        },
+        {
+          "contributor": "Front Runner Communications, LLC(Marcus Wolf)",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 3600,
+          "contributions": [
+            {
+              "date": "2022-03-24",
+              "amount": 1800,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Front Runner Communications, LLC(Marcus Wolf)",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95820"
+            },
+            {
+              "date": "2022-10-12",
+              "amount": 1800,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Front Runner Communications, LLC(Marcus Wolf)",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95820"
             }
           ]
         },
@@ -25889,6 +25973,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95815"
+            }
+          ]
+        },
+        {
+          "contributor": "California Nurses Association PAC",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2500,
+          "contributions": [
+            {
+              "date": "2022-10-12",
+              "amount": 2500,
+              "contributorCommitteeId": "780657",
+              "contributorFirstName": "",
+              "contributorLastName": "California Nurses Association PAC",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
             }
           ]
         },
@@ -26049,24 +26151,6 @@
           ]
         },
         {
-          "contributor": "Front Runner Communications, LLC(Marcus Wolf)",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 1800,
-          "contributions": [
-            {
-              "date": "2022-03-24",
-              "amount": 1800,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "Front Runner Communications, LLC(Marcus Wolf)",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95820"
-            }
-          ]
-        },
-        {
           "contributor": "Alana Mathews for District Attorney 2022",
           "contributorCity": "Antelope",
           "contributorState": "CA",
@@ -26099,6 +26183,24 @@
               "contributorCity": "Whitefish",
               "contributorState": "MT",
               "contributorZip": "59937"
+            }
+          ]
+        },
+        {
+          "contributor": "Kelly Kimball",
+          "contributorCity": "Malibu",
+          "contributorState": "CA",
+          "total": 1800,
+          "contributions": [
+            {
+              "date": "2022-10-11",
+              "amount": 1800,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Kelly",
+              "contributorLastName": "Kimball",
+              "contributorCity": "Malibu",
+              "contributorState": "CA",
+              "contributorZip": "90265"
             }
           ]
         },
@@ -28949,7 +29051,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "5",
-      "total": 159725,
+      "total": 161525,
       "contributors": [
         {
           "contributor": "California Apartment Association PAC",
@@ -29204,6 +29306,34 @@
           ]
         },
         {
+          "contributor": "Californians for a Growing Economy and Safe Streets",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 3600,
+          "contributions": [
+            {
+              "date": "2022-04-18",
+              "amount": 1800,
+              "contributorCommitteeId": "1405176",
+              "contributorFirstName": "",
+              "contributorLastName": "Californians for a Growing Economy and Safe Streets",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            },
+            {
+              "date": "2022-10-12",
+              "amount": 1800,
+              "contributorCommitteeId": "1405176",
+              "contributorFirstName": "",
+              "contributorLastName": "Californians for a Growing Economy and Safe Streets",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            }
+          ]
+        },
+        {
           "contributor": "CFY Development Inc.",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -29348,24 +29478,6 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95835"
-            }
-          ]
-        },
-        {
-          "contributor": "Californians for a Growing Economy and Safe Streets",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 1800,
-          "contributions": [
-            {
-              "date": "2022-04-18",
-              "amount": 1800,
-              "contributorCommitteeId": "1405176",
-              "contributorFirstName": "",
-              "contributorLastName": "Californians for a Growing Economy and Safe Streets",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95814"
             }
           ]
         },
@@ -31555,7 +31667,7 @@
           "spenderId": "1400377",
           "spenderName": "Alliance to Support the Middle Class",
           "position": "S",
-          "total": 68308.36
+          "total": 89116.6
         },
         {
           "spenderId": "840819",
@@ -31571,7 +31683,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 229257,
+      "total": 233257,
       "contributors": [
         {
           "contributor": "Los Rios College Federation of Teachers Political Action Fund Committee",
@@ -31878,6 +31990,34 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95815"
+            }
+          ]
+        },
+        {
+          "contributor": "Northern California Carpenters Regional Council Small Contributor Committee",
+          "contributorCity": "Oakland",
+          "contributorState": "CA",
+          "total": 5200,
+          "contributions": [
+            {
+              "date": "2022-04-05",
+              "amount": 2500,
+              "contributorCommitteeId": "972104",
+              "contributorFirstName": "",
+              "contributorLastName": "Northern California Carpenters Regional Council Small Contributor Committee",
+              "contributorCity": "Oakland",
+              "contributorState": "CA",
+              "contributorZip": "94621"
+            },
+            {
+              "date": "2022-10-12",
+              "amount": 2700,
+              "contributorCommitteeId": "972104",
+              "contributorFirstName": "",
+              "contributorLastName": "Northern California Carpenters Regional Council Small Contributor Committee",
+              "contributorCity": "Oakland",
+              "contributorState": "CA",
+              "contributorZip": "94621"
             }
           ]
         },
@@ -32328,24 +32468,6 @@
           ]
         },
         {
-          "contributor": "Northern California Carpenters Regional Council Small Contributor Committee",
-          "contributorCity": "Oakland",
-          "contributorState": "CA",
-          "total": 2500,
-          "contributions": [
-            {
-              "date": "2022-04-05",
-              "amount": 2500,
-              "contributorCommitteeId": "972104",
-              "contributorFirstName": "",
-              "contributorLastName": "Northern California Carpenters Regional Council Small Contributor Committee",
-              "contributorCity": "Oakland",
-              "contributorState": "CA",
-              "contributorZip": "94621"
-            }
-          ]
-        },
-        {
           "contributor": "Communications Workers of America (CWA-COPE PCC)",
           "contributorCity": "Washington",
           "contributorState": "DC",
@@ -32458,6 +32580,44 @@
               "contributorCity": "Elk Grove",
               "contributorState": "CA",
               "contributorZip": "95624"
+            }
+          ]
+        },
+        {
+          "contributor": "Operating Engineers Local Union No. 3 District 80 PAC Small Contributor Committee",
+          "contributorCity": "Alameda",
+          "contributorState": "CA",
+          "total": 2300,
+          "contributions": [
+            {
+              "date": "2022-09-14",
+              "amount": 500,
+              "contributorCommitteeId": "891402",
+              "contributorFirstName": "",
+              "contributorLastName": "Operating Engineers Local Union No. 3 District 80 PAC Small Contributor Committee",
+              "contributorCity": "Alameda",
+              "contributorState": "CA",
+              "contributorZip": "94502"
+            },
+            {
+              "date": "2022-02-17",
+              "amount": 500,
+              "contributorCommitteeId": "891402",
+              "contributorFirstName": "",
+              "contributorLastName": "Operating Engineers Local Union No. 3 District 80 PAC Small Contributor Committee",
+              "contributorCity": "Alameda",
+              "contributorState": "CA",
+              "contributorZip": "94502"
+            },
+            {
+              "date": "2022-10-12",
+              "amount": 1300,
+              "contributorCommitteeId": "891402",
+              "contributorFirstName": "",
+              "contributorLastName": "Operating Engineers Local Union No. 3 District 80 PAC Small Contributor Committee",
+              "contributorCity": "Alameda",
+              "contributorState": "CA",
+              "contributorZip": "94502"
             }
           ]
         },
@@ -33302,34 +33462,6 @@
               "contributorCity": "San Francisco",
               "contributorState": "CA",
               "contributorZip": "94110"
-            }
-          ]
-        },
-        {
-          "contributor": "Operating Engineers Local Union No. 3 District 80 PAC Small Contributor Committee",
-          "contributorCity": "Alameda",
-          "contributorState": "CA",
-          "total": 1000,
-          "contributions": [
-            {
-              "date": "2022-09-14",
-              "amount": 500,
-              "contributorCommitteeId": "891402",
-              "contributorFirstName": "",
-              "contributorLastName": "Operating Engineers Local Union No. 3 District 80 PAC Small Contributor Committee",
-              "contributorCity": "Alameda",
-              "contributorState": "CA",
-              "contributorZip": "94502"
-            },
-            {
-              "date": "2022-02-17",
-              "amount": 500,
-              "contributorCommitteeId": "891402",
-              "contributorFirstName": "",
-              "contributorLastName": "Operating Engineers Local Union No. 3 District 80 PAC Small Contributor Committee",
-              "contributorCity": "Alameda",
-              "contributorState": "CA",
-              "contributorZip": "94502"
             }
           ]
         },
@@ -38111,7 +38243,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 591152.47,
+      "total": 593152.47,
       "contributors": [
         {
           "contributor": "Fulcrum Property Group",
@@ -41122,6 +41254,34 @@
           ]
         },
         {
+          "contributor": "Donna Lucas",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1500,
+          "contributions": [
+            {
+              "date": "2022-05-11",
+              "amount": 500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Donna",
+              "contributorLastName": "Lucas",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95864"
+            },
+            {
+              "date": "2022-10-12",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Donna",
+              "contributorLastName": "Lucas",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95864"
+            }
+          ]
+        },
+        {
           "contributor": "McGinness Communication Solutions, Inc.",
           "contributorCity": "Folsom",
           "contributorState": "CA",
@@ -43598,6 +43758,24 @@
           ]
         },
         {
+          "contributor": "Joseph Devlin",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-10-06",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Joseph",
+              "contributorLastName": "Devlin",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95818"
+            }
+          ]
+        },
+        {
           "contributor": "Roger W. Niello",
           "contributorCity": "Fair Oaks",
           "contributorState": "CA",
@@ -45468,24 +45646,6 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95814"
-            }
-          ]
-        },
-        {
-          "contributor": "Donna Lucas",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 500,
-          "contributions": [
-            {
-              "date": "2022-05-11",
-              "amount": 500,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Donna",
-              "contributorLastName": "Lucas",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95864"
             }
           ]
         },
@@ -49286,16 +49446,16 @@
           "total": 160483
         },
         {
+          "spenderId": "1447157",
+          "spenderName": "Working Families for Jaclyn Moreno for Sacramento County Supervisor 2022, sponsored by labor unions",
+          "position": "O",
+          "total": 54439.86
+        },
+        {
           "spenderId": "782240",
           "spenderName": "COMMITTEE FOR HOME OWNERSHIP, SPONSORED BY NORTH STATE BUILDING INDUSTRY ASSOC.",
           "position": "S",
           "total": 118319.21000000002
-        },
-        {
-          "spenderId": "1447157",
-          "spenderName": "Working Families for Jaclyn Moreno for Sacramento County Supervisor 2022, sponsored by labor unions",
-          "position": "O",
-          "total": 14643.17
         },
         {
           "spenderId": "1405176",
@@ -50202,7 +50362,7 @@
       "city/county": "City",
       "measure": "L",
       "position": "Support",
-      "total": 155200,
+      "total": 156200,
       "contributors": [
         {
           "contributor": "Youth Forward",
@@ -50413,6 +50573,24 @@
           ]
         },
         {
+          "contributor": "David Kakishiba",
+          "contributorCity": "Oakland",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-10-12",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "David",
+              "contributorLastName": "Kakishiba",
+              "contributorCity": "Oakland",
+              "contributorState": "CA",
+              "contributorZip": "94606"
+            }
+          ]
+        },
+        {
           "contributor": "Jim Keddy",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -50485,7 +50663,7 @@
       "city/county": "City",
       "measure": "O",
       "position": "Oppose",
-      "total": 32500,
+      "total": 62500,
       "contributors": [
         {
           "contributor": "ACLU of Northern California Issues Committee",
@@ -50502,6 +50680,24 @@
               "contributorCity": "San Francisco",
               "contributorState": "CA",
               "contributorZip": "94111"
+            }
+          ]
+        },
+        {
+          "contributor": "Sacramento Central Labor Council C.O.P.E",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 30000,
+          "contributions": [
+            {
+              "date": "2022-10-12",
+              "amount": 30000,
+              "contributorCommitteeId": "743338",
+              "contributorFirstName": "",
+              "contributorLastName": "Sacramento Central Labor Council C.O.P.E",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95841"
             }
           ]
         },
