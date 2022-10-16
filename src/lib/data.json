@@ -1,5 +1,5 @@
 {
-  "generated": "2022-10-15T00:20:34.199Z",
+  "generated": "2022-10-16T00:23:20.586Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -7,8 +7,26 @@
       "city/county": "City",
       "office": "City Council",
       "district": "1",
-      "total": 40975,
+      "total": 55975,
       "contributors": [
+        {
+          "contributor": "Alyssa Lozano",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 15000,
+          "contributions": [
+            {
+              "date": "2022-10-13",
+              "amount": 15000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Alyssa",
+              "contributorLastName": "Lozano",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95835"
+            }
+          ]
+        },
         {
           "contributor": "Philip Lozano",
           "contributorCity": "Sacramento",
@@ -1358,7 +1376,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "1",
-      "total": 284579.69,
+      "total": 286379.69,
       "contributors": [
         {
           "contributor": "California Real Estate PAC (CREPAC)",
@@ -1595,6 +1613,34 @@
           ]
         },
         {
+          "contributor": "Northern California Carpenters Regional Council",
+          "contributorCity": "Oakland",
+          "contributorState": "CA",
+          "total": 4600,
+          "contributions": [
+            {
+              "date": "2022-04-05",
+              "amount": 2800,
+              "contributorCommitteeId": "972104",
+              "contributorFirstName": "",
+              "contributorLastName": "Northern California Carpenters Regional Council",
+              "contributorCity": "Oakland",
+              "contributorState": "CA",
+              "contributorZip": "94621"
+            },
+            {
+              "date": "2022-10-13",
+              "amount": 1800,
+              "contributorCommitteeId": "972104",
+              "contributorFirstName": "",
+              "contributorLastName": "Northern California Carpenters Regional Council",
+              "contributorCity": "Oakland",
+              "contributorState": "CA",
+              "contributorZip": "94621"
+            }
+          ]
+        },
+        {
           "contributor": "United Food and Commercial Workers 8 Golden State PAC",
           "contributorCity": "Roseville",
           "contributorState": "CA",
@@ -1787,24 +1833,6 @@
               "contributorCity": "El Dorado Hills",
               "contributorState": "CA",
               "contributorZip": "95762"
-            }
-          ]
-        },
-        {
-          "contributor": "Northern California Carpenters Regional Council",
-          "contributorCity": "Oakland",
-          "contributorState": "CA",
-          "total": 2800,
-          "contributions": [
-            {
-              "date": "2022-04-05",
-              "amount": 2800,
-              "contributorCommitteeId": "972104",
-              "contributorFirstName": "",
-              "contributorLastName": "Northern California Carpenters Regional Council",
-              "contributorCity": "Oakland",
-              "contributorState": "CA",
-              "contributorZip": "94621"
             }
           ]
         },
@@ -38233,7 +38261,7 @@
           "spenderId": "1447157",
           "spenderName": "Working Families for Jaclyn Moreno for Sacramento County Supervisor 2022, sponsored by labor unions",
           "position": "S",
-          "total": 211347.39999999997
+          "total": 231169.50999999998
         }
       ]
     },
@@ -38243,7 +38271,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 593152.47,
+      "total": 595752.47,
       "contributors": [
         {
           "contributor": "Fulcrum Property Group",
@@ -40448,6 +40476,44 @@
           ]
         },
         {
+          "contributor": "Bruce Walters",
+          "contributorCity": "Elk Grove",
+          "contributorState": "CA",
+          "total": 2600,
+          "contributions": [
+            {
+              "date": "2022-01-17",
+              "amount": 250,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Bruce",
+              "contributorLastName": "Walters",
+              "contributorCity": "Elk Grove",
+              "contributorState": "CA",
+              "contributorZip": "95758"
+            },
+            {
+              "date": "2022-05-07",
+              "amount": 1050,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Bruce",
+              "contributorLastName": "Walters",
+              "contributorCity": "Elk Grove",
+              "contributorState": "CA",
+              "contributorZip": "95758"
+            },
+            {
+              "date": "2022-10-13",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Bruce",
+              "contributorLastName": "Walters",
+              "contributorCity": "Elk Grove",
+              "contributorState": "CA",
+              "contributorZip": "95758"
+            }
+          ]
+        },
+        {
           "contributor": "Gary McEnerney",
           "contributorCity": "Wilton",
           "contributorState": "CA",
@@ -41888,34 +41954,6 @@
           ]
         },
         {
-          "contributor": "Bruce Walters",
-          "contributorCity": "Elk Grove",
-          "contributorState": "CA",
-          "total": 1300,
-          "contributions": [
-            {
-              "date": "2022-01-17",
-              "amount": 250,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Bruce",
-              "contributorLastName": "Walters",
-              "contributorCity": "Elk Grove",
-              "contributorState": "CA",
-              "contributorZip": "95758"
-            },
-            {
-              "date": "2022-05-07",
-              "amount": 1050,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Bruce",
-              "contributorLastName": "Walters",
-              "contributorCity": "Elk Grove",
-              "contributorState": "CA",
-              "contributorZip": "95758"
-            }
-          ]
-        },
-        {
           "contributor": "Michelle Smira",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -42606,6 +42644,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95864"
+            }
+          ]
+        },
+        {
+          "contributor": "Lynn M. Walters",
+          "contributorCity": "Elk Grove",
+          "contributorState": "CA",
+          "total": 1300,
+          "contributions": [
+            {
+              "date": "2022-10-13",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Lynn M.",
+              "contributorLastName": "Walters",
+              "contributorCity": "Elk Grove",
+              "contributorState": "CA",
+              "contributorZip": "95758"
             }
           ]
         },
@@ -49449,7 +49505,7 @@
           "spenderId": "1447157",
           "spenderName": "Working Families for Jaclyn Moreno for Sacramento County Supervisor 2022, sponsored by labor unions",
           "position": "O",
-          "total": 54439.86
+          "total": 74261.97
         },
         {
           "spenderId": "782240",
@@ -49477,7 +49533,7 @@
       "city/county": "County",
       "measure": "A",
       "position": "Support",
-      "total": 2189809.52,
+      "total": 2239809.52,
       "contributors": [
         {
           "contributor": "California Alliance for Jobs - Rebuild California Committee",
@@ -49522,6 +49578,34 @@
               "contributorCity": "Mcclellan",
               "contributorState": "CA",
               "contributorZip": "95652"
+            }
+          ]
+        },
+        {
+          "contributor": "Operating Engineers Local Union No. 3 Issues Advocacy / Ballot Initiative PAC",
+          "contributorCity": "Alameda",
+          "contributorState": "CA",
+          "total": 125000,
+          "contributions": [
+            {
+              "date": "2022-08-01",
+              "amount": 75000,
+              "contributorCommitteeId": "1345344",
+              "contributorFirstName": "",
+              "contributorLastName": "Operating Engineers Local Union No. 3 Issues Advocacy / Ballot Initiative PAC",
+              "contributorCity": "Alameda",
+              "contributorState": "CA",
+              "contributorZip": "94502"
+            },
+            {
+              "date": "2022-10-13",
+              "amount": 50000,
+              "contributorCommitteeId": "1345344",
+              "contributorFirstName": "",
+              "contributorLastName": "Operating Engineers Local Union No. 3 Issues Advocacy / Ballot Initiative PAC",
+              "contributorCity": "Alameda",
+              "contributorState": "CA",
+              "contributorZip": "94502"
             }
           ]
         },
@@ -49690,24 +49774,6 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95826"
-            }
-          ]
-        },
-        {
-          "contributor": "Operating Engineers Local Union No. 3 Issues Advocacy / Ballot Initiative PAC",
-          "contributorCity": "Alameda",
-          "contributorState": "CA",
-          "total": 75000,
-          "contributions": [
-            {
-              "date": "2022-08-01",
-              "amount": 75000,
-              "contributorCommitteeId": "1345344",
-              "contributorFirstName": "",
-              "contributorLastName": "Operating Engineers Local Union No. 3 Issues Advocacy / Ballot Initiative PAC",
-              "contributorCity": "Alameda",
-              "contributorState": "CA",
-              "contributorZip": "94502"
             }
           ]
         },
