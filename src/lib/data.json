@@ -1,5 +1,5 @@
 {
-  "generated": "2022-10-16T00:23:20.586Z",
+  "generated": "2022-10-17T00:22:39.761Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -50729,7 +50729,7 @@
       "city/county": "City",
       "measure": "O",
       "position": "Oppose",
-      "total": 62500,
+      "total": 77500,
       "contributors": [
         {
           "contributor": "ACLU of Northern California Issues Committee",
@@ -50764,6 +50764,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95841"
+            }
+          ]
+        },
+        {
+          "contributor": "California Workers Justice Coalition",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 15000,
+          "contributions": [
+            {
+              "date": "2022-10-14",
+              "amount": 15000,
+              "contributorCommitteeId": "1433122",
+              "contributorFirstName": "",
+              "contributorLastName": "California Workers Justice Coalition",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
             }
           ]
         },
