@@ -1,5 +1,5 @@
 {
-  "generated": "2022-10-18T00:23:45.694Z",
+  "generated": "2022-10-19T00:23:14.808Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -31695,7 +31695,7 @@
           "spenderId": "1400377",
           "spenderName": "Alliance to Support the Middle Class",
           "position": "S",
-          "total": 89116.6
+          "total": 93347.04000000001
         },
         {
           "spenderId": "840819",
@@ -31711,7 +31711,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 233257,
+      "total": 238257,
       "contributors": [
         {
           "contributor": "Los Rios College Federation of Teachers Political Action Fund Committee",
@@ -32904,6 +32904,24 @@
           ]
         },
         {
+          "contributor": "Davis Democratic Club",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2000,
+          "contributions": [
+            {
+              "date": "2022-10-14",
+              "amount": 2000,
+              "contributorCommitteeId": "745838",
+              "contributorFirstName": "",
+              "contributorLastName": "Davis Democratic Club",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95841"
+            }
+          ]
+        },
+        {
           "contributor": "Rosanna J. Herber",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -33042,6 +33060,34 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95815"
+            }
+          ]
+        },
+        {
+          "contributor": "United Domestic Workers of America Action Fund Small Contributor Committee",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1500,
+          "contributions": [
+            {
+              "date": "2022-04-21",
+              "amount": 500,
+              "contributorCommitteeId": "1302384",
+              "contributorFirstName": "",
+              "contributorLastName": "United Domestic Workers of America Action Fund Small Contributor Committee",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            },
+            {
+              "date": "2022-10-14",
+              "amount": 1000,
+              "contributorCommitteeId": "1302384",
+              "contributorFirstName": "",
+              "contributorLastName": "United Domestic Workers of America Action Fund Small Contributor Committee",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
             }
           ]
         },
@@ -33726,6 +33772,42 @@
               "contributorCity": "Folsom",
               "contributorState": "CA",
               "contributorZip": "95630"
+            }
+          ]
+        },
+        {
+          "contributor": "Sukhwinder Singh",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-10-16",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Sukhwinder",
+              "contributorLastName": "Singh",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95823"
+            }
+          ]
+        },
+        {
+          "contributor": "Pal S. Dhaliwal",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-10-14",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Pal S.",
+              "contributorLastName": "Dhaliwal",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95835"
             }
           ]
         },
@@ -34572,24 +34654,6 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95815"
-            }
-          ]
-        },
-        {
-          "contributor": "United Domestic Workers of America Action Fund Small Contributor Committee",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 500,
-          "contributions": [
-            {
-              "date": "2022-04-21",
-              "amount": 500,
-              "contributorCommitteeId": "1302384",
-              "contributorFirstName": "",
-              "contributorLastName": "United Domestic Workers of America Action Fund Small Contributor Committee",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95814"
             }
           ]
         },
@@ -38271,7 +38335,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 595752.47,
+      "total": 606452.47,
       "contributors": [
         {
           "contributor": "Fulcrum Property Group",
@@ -38788,6 +38852,44 @@
           ]
         },
         {
+          "contributor": "Darrell S Chun, DDS",
+          "contributorCity": "Elk Grove",
+          "contributorState": "CA",
+          "total": 4700,
+          "contributions": [
+            {
+              "date": "2022-09-23",
+              "amount": 1500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Darrell S Chun, DDS",
+              "contributorCity": "Elk Grove",
+              "contributorState": "CA",
+              "contributorZip": "95624"
+            },
+            {
+              "date": "2022-05-14",
+              "amount": 2000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Darrell S Chun, DDS",
+              "contributorCity": "Elk Grove",
+              "contributorState": "CA",
+              "contributorZip": "95624"
+            },
+            {
+              "date": "2022-10-15",
+              "amount": 1200,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Darrell S Chun, DDS",
+              "contributorCity": "Elk Grove",
+              "contributorState": "CA",
+              "contributorZip": "95624"
+            }
+          ]
+        },
+        {
           "contributor": "Rancho Cordova Chamber of Commerce PAC",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -38934,34 +39036,6 @@
               "contributorCity": "Roseville",
               "contributorState": "CA",
               "contributorZip": "95678"
-            }
-          ]
-        },
-        {
-          "contributor": "Darrell S Chun, DDS",
-          "contributorCity": "Elk Grove",
-          "contributorState": "CA",
-          "total": 3500,
-          "contributions": [
-            {
-              "date": "2022-09-23",
-              "amount": 1500,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "Darrell S Chun, DDS",
-              "contributorCity": "Elk Grove",
-              "contributorState": "CA",
-              "contributorZip": "95624"
-            },
-            {
-              "date": "2022-05-14",
-              "amount": 2000,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "Darrell S Chun, DDS",
-              "contributorCity": "Elk Grove",
-              "contributorState": "CA",
-              "contributorZip": "95624"
             }
           ]
         },
@@ -40598,6 +40672,34 @@
           ]
         },
         {
+          "contributor": "Sotiris Kolokotronis",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2600,
+          "contributions": [
+            {
+              "date": "2022-05-17",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Sotiris",
+              "contributorLastName": "Kolokotronis",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95816"
+            },
+            {
+              "date": "2022-10-14",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Sotiris",
+              "contributorLastName": "Kolokotronis",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95816"
+            }
+          ]
+        },
+        {
           "contributor": "Susan Peters",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -40850,6 +40952,34 @@
               "contributorCity": "Elk Grove",
               "contributorState": "CA",
               "contributorZip": "95624"
+            }
+          ]
+        },
+        {
+          "contributor": "Teichert, Inc. and affiliated entities",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2000,
+          "contributions": [
+            {
+              "date": "2022-05-27",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Teichert, Inc. and affiliated entities",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95864"
+            },
+            {
+              "date": "2022-10-14",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Teichert, Inc. and affiliated entities",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95864"
             }
           ]
         },
@@ -42396,24 +42526,6 @@
           ]
         },
         {
-          "contributor": "Sotiris Kolokotronis",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 1300,
-          "contributions": [
-            {
-              "date": "2022-05-17",
-              "amount": 1300,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Sotiris",
-              "contributorLastName": "Kolokotronis",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95816"
-            }
-          ]
-        },
-        {
           "contributor": "Robert Habian",
           "contributorCity": "Rocklin",
           "contributorState": "CA",
@@ -42666,6 +42778,78 @@
           ]
         },
         {
+          "contributor": "Steve Pleau",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1300,
+          "contributions": [
+            {
+              "date": "2022-10-16",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Steve",
+              "contributorLastName": "Pleau",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95864"
+            }
+          ]
+        },
+        {
+          "contributor": "Navtej Riar",
+          "contributorCity": "Roseville",
+          "contributorState": "CA",
+          "total": 1300,
+          "contributions": [
+            {
+              "date": "2022-10-14",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Navtej",
+              "contributorLastName": "Riar",
+              "contributorCity": "Roseville",
+              "contributorState": "CA",
+              "contributorZip": "95747"
+            }
+          ]
+        },
+        {
+          "contributor": "Shergil Corporation dba W. Sac Truck Stop",
+          "contributorCity": "West Sacramento",
+          "contributorState": "CA",
+          "total": 1300,
+          "contributions": [
+            {
+              "date": "2022-10-14",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Shergil Corporation dba W. Sac Truck Stop",
+              "contributorCity": "West Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95691"
+            }
+          ]
+        },
+        {
+          "contributor": "Camellia Stations Inc - Camellia City Chevron",
+          "contributorCity": "Carmichael",
+          "contributorState": "CA",
+          "total": 1300,
+          "contributions": [
+            {
+              "date": "2022-10-14",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Camellia Stations Inc - Camellia City Chevron",
+              "contributorCity": "Carmichael",
+              "contributorState": "CA",
+              "contributorZip": "95608"
+            }
+          ]
+        },
+        {
           "contributor": "Larry Gualco",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -42856,24 +43040,6 @@
               "contributorCity": "Rancho Murieta",
               "contributorState": "CA",
               "contributorZip": "95683"
-            }
-          ]
-        },
-        {
-          "contributor": "Teichert, Inc. and affiliated entities",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 1000,
-          "contributions": [
-            {
-              "date": "2022-05-27",
-              "amount": 1000,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "Teichert, Inc. and affiliated entities",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95864"
             }
           ]
         },
@@ -43828,6 +43994,42 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95818"
+            }
+          ]
+        },
+        {
+          "contributor": "Terra Investments, Inc. dba Chevron on Promenade",
+          "contributorCity": "Elk Grove",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-10-14",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Terra Investments, Inc. dba Chevron on Promenade",
+              "contributorCity": "Elk Grove",
+              "contributorState": "CA",
+              "contributorZip": "95757"
+            }
+          ]
+        },
+        {
+          "contributor": "Carl C. Hsu, M.D., Inc.",
+          "contributorCity": "Rancho Cordova",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-10-14",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Carl C. Hsu, M.D., Inc.",
+              "contributorCity": "Rancho Cordova",
+              "contributorState": "CA",
+              "contributorZip": "95670"
             }
           ]
         },
