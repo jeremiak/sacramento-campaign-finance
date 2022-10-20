@@ -1,5 +1,5 @@
 {
-  "generated": "2022-10-19T00:23:14.808Z",
+  "generated": "2022-10-20T00:24:07.537Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -7201,7 +7201,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "3",
-      "total": 264659.99,
+      "total": 265659.99,
       "contributors": [
         {
           "contributor": "Sacramento Central Labor Council, AFL-CIO",
@@ -7848,6 +7848,34 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95816"
+            }
+          ]
+        },
+        {
+          "contributor": "Kevin McCarty for Assembly 2022",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2500,
+          "contributions": [
+            {
+              "date": "2022-05-10",
+              "amount": 1500,
+              "contributorCommitteeId": "1435556",
+              "contributorFirstName": "",
+              "contributorLastName": "Kevin McCarty for Assembly 2022",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95864"
+            },
+            {
+              "date": "2022-10-17",
+              "amount": 1000,
+              "contributorCommitteeId": "1435556",
+              "contributorFirstName": "",
+              "contributorLastName": "Kevin McCarty for Assembly 2022",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95864"
             }
           ]
         },
@@ -8624,24 +8652,6 @@
               "contributorCity": "San Francisco",
               "contributorState": "CA",
               "contributorZip": "94103"
-            }
-          ]
-        },
-        {
-          "contributor": "Kevin McCarty for Assembly 2022",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 1500,
-          "contributions": [
-            {
-              "date": "2022-05-10",
-              "amount": 1500,
-              "contributorCommitteeId": "1435556",
-              "contributorFirstName": "",
-              "contributorLastName": "Kevin McCarty for Assembly 2022",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95864"
             }
           ]
         },
@@ -25750,7 +25760,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "5",
-      "total": 101450,
+      "total": 106050,
       "contributors": [
         {
           "contributor": "Sacramento Central Labor Council COPE",
@@ -26233,6 +26243,42 @@
           ]
         },
         {
+          "contributor": "Roseville Gold, Inc.",
+          "contributorCity": "Roseville",
+          "contributorState": "CA",
+          "total": 1800,
+          "contributions": [
+            {
+              "date": "2022-10-17",
+              "amount": 1800,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Roseville Gold, Inc.",
+              "contributorCity": "Roseville",
+              "contributorState": "CA",
+              "contributorZip": "95661"
+            }
+          ]
+        },
+        {
+          "contributor": "Re-Elect Fiona Ma for State Treasurer 2022",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1800,
+          "contributions": [
+            {
+              "date": "2022-10-18",
+              "amount": 1800,
+              "contributorCommitteeId": "1414254",
+              "contributorFirstName": "",
+              "contributorLastName": "Re-Elect Fiona Ma for State Treasurer 2022",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95864"
+            }
+          ]
+        },
+        {
           "contributor": "Women Democrats of Sacramento County",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -26285,6 +26331,34 @@
               "contributorCity": "Marysville",
               "contributorState": "OH",
               "contributorZip": "43041"
+            }
+          ]
+        },
+        {
+          "contributor": "Stonewall Democratic Club of Greater Sacramento",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1500,
+          "contributions": [
+            {
+              "date": "2022-04-12",
+              "amount": 500,
+              "contributorCommitteeId": "1247892",
+              "contributorFirstName": "",
+              "contributorLastName": "Stonewall Democratic Club of Greater Sacramento",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95815"
+            },
+            {
+              "date": "2022-10-18",
+              "amount": 1000,
+              "contributorCommitteeId": "1247892",
+              "contributorFirstName": "",
+              "contributorLastName": "Stonewall Democratic Club of Greater Sacramento",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95815"
             }
           ]
         },
@@ -26923,24 +26997,6 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95814"
-            }
-          ]
-        },
-        {
-          "contributor": "Stonewall Democratic Club of Greater Sacramento",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 500,
-          "contributions": [
-            {
-              "date": "2022-04-12",
-              "amount": 500,
-              "contributorCommitteeId": "1247892",
-              "contributorFirstName": "",
-              "contributorLastName": "Stonewall Democratic Club of Greater Sacramento",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95815"
             }
           ]
         },
@@ -38325,7 +38381,7 @@
           "spenderId": "1447157",
           "spenderName": "Working Families for Jaclyn Moreno for Sacramento County Supervisor 2022, sponsored by labor unions",
           "position": "S",
-          "total": 231169.50999999998
+          "total": 271003.50999999995
         }
       ]
     },
@@ -38335,7 +38391,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 606452.47,
+      "total": 609152.47,
       "contributors": [
         {
           "contributor": "Fulcrum Property Group",
@@ -38642,6 +38698,34 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95811"
+            }
+          ]
+        },
+        {
+          "contributor": "Sacramento Police Officers Association Political Activity Fund",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 5400,
+          "contributions": [
+            {
+              "date": "2022-01-29",
+              "amount": 2700,
+              "contributorCommitteeId": "746239",
+              "contributorFirstName": "",
+              "contributorLastName": "Sacramento Police Officers Association Political Activity Fund",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            },
+            {
+              "date": "2022-10-17",
+              "amount": 2700,
+              "contributorCommitteeId": "746239",
+              "contributorFirstName": "",
+              "contributorLastName": "Sacramento Police Officers Association Political Activity Fund",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
             }
           ]
         },
@@ -39540,24 +39624,6 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95826"
-            }
-          ]
-        },
-        {
-          "contributor": "Sacramento Police Officers Association Political Activity Fund",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 2700,
-          "contributions": [
-            {
-              "date": "2022-01-29",
-              "amount": 2700,
-              "contributorCommitteeId": "746239",
-              "contributorFirstName": "",
-              "contributorLastName": "Sacramento Police Officers Association Political Activity Fund",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95814"
             }
           ]
         },
@@ -49707,7 +49773,7 @@
           "spenderId": "1447157",
           "spenderName": "Working Families for Jaclyn Moreno for Sacramento County Supervisor 2022, sponsored by labor unions",
           "position": "O",
-          "total": 74261.97
+          "total": 108664.45999999999
         },
         {
           "spenderId": "782240",
@@ -49735,7 +49801,7 @@
       "city/county": "County",
       "measure": "A",
       "position": "Support",
-      "total": 2239809.52,
+      "total": 2389809.52,
       "contributors": [
         {
           "contributor": "California Alliance for Jobs - Rebuild California Committee",
@@ -49780,6 +49846,34 @@
               "contributorCity": "Mcclellan",
               "contributorState": "CA",
               "contributorZip": "95652"
+            }
+          ]
+        },
+        {
+          "contributor": "Laborers Pacific Southwest Regional Organizing Coalition Issues PAC",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 200000,
+          "contributions": [
+            {
+              "date": "2022-07-21",
+              "amount": 100000,
+              "contributorCommitteeId": "1358725",
+              "contributorFirstName": "",
+              "contributorLastName": "Laborers Pacific Southwest Regional Organizing Coalition Issues PAC",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            },
+            {
+              "date": "2022-10-17",
+              "amount": 100000,
+              "contributorCommitteeId": "1358725",
+              "contributorFirstName": "",
+              "contributorLastName": "Laborers Pacific Southwest Regional Organizing Coalition Issues PAC",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
             }
           ]
         },
@@ -49862,24 +49956,6 @@
               "contributorCity": "Watsonville",
               "contributorState": "CA",
               "contributorZip": "95076"
-            }
-          ]
-        },
-        {
-          "contributor": "Laborers Pacific Southwest Regional Organizing Coalition Issues PAC",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 100000,
-          "contributions": [
-            {
-              "date": "2022-07-21",
-              "amount": 100000,
-              "contributorCommitteeId": "1358725",
-              "contributorFirstName": "",
-              "contributorLastName": "Laborers Pacific Southwest Regional Organizing Coalition Issues PAC",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95814"
             }
           ]
         },
@@ -49998,42 +50074,6 @@
           ]
         },
         {
-          "contributor": "De Silva Holding Company,Inc. and Affiliated Entities",
-          "contributorCity": "Dublin",
-          "contributorState": "CA",
-          "total": 50000,
-          "contributions": [
-            {
-              "date": "2022-08-09",
-              "amount": 50000,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "De Silva Holding Company,Inc. and Affiliated Entities",
-              "contributorCity": "Dublin",
-              "contributorState": "CA",
-              "contributorZip": "94568"
-            }
-          ]
-        },
-        {
-          "contributor": "California American Council of Engineering Companies Issues Fund (CA ACEC Issues Fund)",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 50000,
-          "contributions": [
-            {
-              "date": "2022-07-21",
-              "amount": 50000,
-              "contributorCommitteeId": "1270458",
-              "contributorFirstName": "",
-              "contributorLastName": "California American Council of Engineering Companies Issues Fund (CA ACEC Issues Fund)",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95814"
-            }
-          ]
-        },
-        {
           "contributor": "Lennar Corporation and its Affiliates",
           "contributorCity": "San Rafael",
           "contributorState": "CA",
@@ -50080,20 +50120,56 @@
           ]
         },
         {
-          "contributor": "Associated General Contractors Issues PAC",
-          "contributorCity": "West Sacramento",
+          "contributor": "De Silva Holding Company,Inc. and Affiliated Entities",
+          "contributorCity": "Dublin",
           "contributorState": "CA",
-          "total": 25000,
+          "total": 50000,
           "contributions": [
             {
-              "date": "2022-07-20",
-              "amount": 25000,
-              "contributorCommitteeId": "970230",
+              "date": "2022-08-09",
+              "amount": 50000,
+              "contributorCommitteeId": "",
               "contributorFirstName": "",
-              "contributorLastName": "Associated General Contractors Issues PAC",
-              "contributorCity": "West Sacramento",
+              "contributorLastName": "De Silva Holding Company,Inc. and Affiliated Entities",
+              "contributorCity": "Dublin",
               "contributorState": "CA",
-              "contributorZip": "95691"
+              "contributorZip": "94568"
+            }
+          ]
+        },
+        {
+          "contributor": "California American Council of Engineering Companies Issues Fund (CA ACEC Issues Fund)",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 50000,
+          "contributions": [
+            {
+              "date": "2022-07-21",
+              "amount": 50000,
+              "contributorCommitteeId": "1270458",
+              "contributorFirstName": "",
+              "contributorLastName": "California American Council of Engineering Companies Issues Fund (CA ACEC Issues Fund)",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            }
+          ]
+        },
+        {
+          "contributor": "Amalgamated Transit Union",
+          "contributorCity": "Silver Spring",
+          "contributorState": "MD",
+          "total": 50000,
+          "contributions": [
+            {
+              "date": "2022-10-17",
+              "amount": 50000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Amalgamated Transit Union",
+              "contributorCity": "Silver Spring",
+              "contributorState": "MD",
+              "contributorZip": "20903"
             }
           ]
         },
@@ -50130,6 +50206,24 @@
               "contributorCity": "Folsom",
               "contributorState": "CA",
               "contributorZip": "95630"
+            }
+          ]
+        },
+        {
+          "contributor": "Associated General Contractors Issues PAC",
+          "contributorCity": "West Sacramento",
+          "contributorState": "CA",
+          "total": 25000,
+          "contributions": [
+            {
+              "date": "2022-07-20",
+              "amount": 25000,
+              "contributorCommitteeId": "970230",
+              "contributorFirstName": "",
+              "contributorLastName": "Associated General Contractors Issues PAC",
+              "contributorCity": "West Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95691"
             }
           ]
         },
@@ -50224,24 +50318,6 @@
           ]
         },
         {
-          "contributor": "Greater Sacramento Area Economic Council",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 10000,
-          "contributions": [
-            {
-              "date": "2022-08-15",
-              "amount": 10000,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "Greater Sacramento Area Economic Council",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95814"
-            }
-          ]
-        },
-        {
           "contributor": "Blue Knight Security & Patrol, Inc.",
           "contributorCity": "Rancho Cordova",
           "contributorState": "CA",
@@ -50278,6 +50354,24 @@
           ]
         },
         {
+          "contributor": "Greater Sacramento Area Economic Council",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 10000,
+          "contributions": [
+            {
+              "date": "2022-08-15",
+              "amount": 10000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Greater Sacramento Area Economic Council",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            }
+          ]
+        },
+        {
           "contributor": "Wood Rodgers",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -50296,24 +50390,6 @@
           ]
         },
         {
-          "contributor": "Kimley-Horn & Associates, Inc.",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 5000,
-          "contributions": [
-            {
-              "date": "2022-08-01",
-              "amount": 5000,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "Kimley-Horn & Associates, Inc.",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95814"
-            }
-          ]
-        },
-        {
           "contributor": "Dewberry",
           "contributorCity": "Rancho Cordova",
           "contributorState": "CA",
@@ -50328,6 +50404,24 @@
               "contributorCity": "Rancho Cordova",
               "contributorState": "CA",
               "contributorZip": "95670"
+            }
+          ]
+        },
+        {
+          "contributor": "Kimley-Horn & Associates, Inc.",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 5000,
+          "contributions": [
+            {
+              "date": "2022-08-01",
+              "amount": 5000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Kimley-Horn & Associates, Inc.",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
             }
           ]
         },
@@ -50931,17 +51025,75 @@
       "city/county": "City",
       "measure": "O",
       "position": "Oppose",
-      "total": 77500,
+      "total": 114429.98,
       "contributors": [
+        {
+          "contributor": "Black Zebra Productions",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 35000,
+          "contributions": [
+            {
+              "date": "2022-10-17",
+              "amount": 35000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Black Zebra Productions",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95825"
+            }
+          ]
+        },
         {
           "contributor": "ACLU of Northern California Issues Committee",
           "contributorCity": "San Francisco",
           "contributorState": "CA",
-          "total": 30000,
+          "total": 31929.98,
           "contributions": [
             {
               "date": "2022-10-05",
               "amount": 30000,
+              "contributorCommitteeId": "1423278",
+              "contributorFirstName": "",
+              "contributorLastName": "ACLU of Northern California Issues Committee",
+              "contributorCity": "San Francisco",
+              "contributorState": "CA",
+              "contributorZip": "94111"
+            },
+            {
+              "date": "2022-10-12",
+              "amount": 634.56,
+              "contributorCommitteeId": "1423278",
+              "contributorFirstName": "",
+              "contributorLastName": "ACLU of Northern California Issues Committee",
+              "contributorCity": "San Francisco",
+              "contributorState": "CA",
+              "contributorZip": "94111"
+            },
+            {
+              "date": "2022-10-14",
+              "amount": 557.16,
+              "contributorCommitteeId": "1423278",
+              "contributorFirstName": "",
+              "contributorLastName": "ACLU of Northern California Issues Committee",
+              "contributorCity": "San Francisco",
+              "contributorState": "CA",
+              "contributorZip": "94111"
+            },
+            {
+              "date": "2022-10-16",
+              "amount": 377.3,
+              "contributorCommitteeId": "1423278",
+              "contributorFirstName": "",
+              "contributorLastName": "ACLU of Northern California Issues Committee",
+              "contributorCity": "San Francisco",
+              "contributorState": "CA",
+              "contributorZip": "94111"
+            },
+            {
+              "date": "2022-10-17",
+              "amount": 360.96,
               "contributorCommitteeId": "1423278",
               "contributorFirstName": "",
               "contributorLastName": "ACLU of Northern California Issues Committee",
