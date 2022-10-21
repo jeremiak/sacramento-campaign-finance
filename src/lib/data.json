@@ -1,5 +1,5 @@
 {
-  "generated": "2022-10-20T00:24:07.537Z",
+  "generated": "2022-10-21T00:21:07.505Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -25750,7 +25750,7 @@
           "spenderId": "1400377",
           "spenderName": "Alliance to Support the Middle Class",
           "position": "S",
-          "total": 57663.81
+          "total": 70196.95
         }
       ]
     },
@@ -29135,7 +29135,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "5",
-      "total": 161525,
+      "total": 163325,
       "contributors": [
         {
           "contributor": "California Apartment Association PAC",
@@ -29798,6 +29798,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95815"
+            }
+          ]
+        },
+        {
+          "contributor": "Jay King",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1800,
+          "contributions": [
+            {
+              "date": "2022-10-18",
+              "amount": 1800,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Jay",
+              "contributorLastName": "King",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95831"
             }
           ]
         },
@@ -31751,7 +31769,7 @@
           "spenderId": "1400377",
           "spenderName": "Alliance to Support the Middle Class",
           "position": "S",
-          "total": 93347.04000000001
+          "total": 105824.94
         },
         {
           "spenderId": "840819",
@@ -31767,7 +31785,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 238257,
+      "total": 242357,
       "contributors": [
         {
           "contributor": "Los Rios College Federation of Teachers Political Action Fund Committee",
@@ -32071,6 +32089,34 @@
               "contributorCommitteeId": "1247892",
               "contributorFirstName": "",
               "contributorLastName": "Stonewall Democratic Club of Greater Sacramento",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95815"
+            }
+          ]
+        },
+        {
+          "contributor": "National Union of Healthcare Workers Candidate Committee for Quality Patient Care and Union Democracy",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 5200,
+          "contributions": [
+            {
+              "date": "2022-03-29",
+              "amount": 2500,
+              "contributorCommitteeId": "1318200",
+              "contributorFirstName": "",
+              "contributorLastName": "National Union of Healthcare Workers Candidate Committee for Quality Patient Care and Union Democracy",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95815"
+            },
+            {
+              "date": "2022-10-18",
+              "amount": 2700,
+              "contributorCommitteeId": "1318200",
+              "contributorFirstName": "",
+              "contributorLastName": "National Union of Healthcare Workers Candidate Committee for Quality Patient Care and Union Democracy",
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95815"
@@ -32530,24 +32576,6 @@
               "contributorCity": "Roseville",
               "contributorState": "CA",
               "contributorZip": "95610"
-            }
-          ]
-        },
-        {
-          "contributor": "National Union of Healthcare Workers Candidate Committee for Quality Patient Care and Union Democracy",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 2500,
-          "contributions": [
-            {
-              "date": "2022-03-29",
-              "amount": 2500,
-              "contributorCommitteeId": "1318200",
-              "contributorFirstName": "",
-              "contributorLastName": "National Union of Healthcare Workers Candidate Committee for Quality Patient Care and Union Democracy",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95815"
             }
           ]
         },
@@ -33144,6 +33172,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95814"
+            }
+          ]
+        },
+        {
+          "contributor": "SMART-Transportation Division PAC",
+          "contributorCity": "Independence",
+          "contributorState": "OH",
+          "total": 1400,
+          "contributions": [
+            {
+              "date": "2022-10-18",
+              "amount": 1400,
+              "contributorCommitteeId": "745910",
+              "contributorFirstName": "",
+              "contributorLastName": "SMART-Transportation Division PAC",
+              "contributorCity": "Independence",
+              "contributorState": "OH",
+              "contributorZip": "44131"
             }
           ]
         },
@@ -38391,7 +38437,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 609152.47,
+      "total": 613152.47,
       "contributors": [
         {
           "contributor": "Fulcrum Property Group",
@@ -41050,6 +41096,34 @@
           ]
         },
         {
+          "contributor": "Michael Koewler",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2000,
+          "contributions": [
+            {
+              "date": "2022-06-03",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Michael",
+              "contributorLastName": "Koewler",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95830"
+            },
+            {
+              "date": "2022-10-18",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Michael",
+              "contributorLastName": "Koewler",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95830"
+            }
+          ]
+        },
+        {
           "contributor": "Hal Bartholomew",
           "contributorCity": "Elk Grove",
           "contributorState": "CA",
@@ -41166,6 +41240,24 @@
               "contributorCity": "Rancho Cordova",
               "contributorState": "CA",
               "contributorZip": "95741"
+            }
+          ]
+        },
+        {
+          "contributor": "DND Land, Inc.",
+          "contributorCity": "El Dorado Hills",
+          "contributorState": "CA",
+          "total": 2000,
+          "contributions": [
+            {
+              "date": "2022-10-18",
+              "amount": 2000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "DND Land, Inc.",
+              "contributorCity": "El Dorado Hills",
+              "contributorState": "CA",
+              "contributorZip": "95762"
             }
           ]
         },
@@ -43194,24 +43286,6 @@
           ]
         },
         {
-          "contributor": "Michael Koewler",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 1000,
-          "contributions": [
-            {
-              "date": "2022-06-03",
-              "amount": 1000,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Michael",
-              "contributorLastName": "Koewler",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95830"
-            }
-          ]
-        },
-        {
           "contributor": "Citizens for Accountable Local Government",
           "contributorCity": "Wilton",
           "contributorState": "CA",
@@ -44096,6 +44170,24 @@
               "contributorCity": "Rancho Cordova",
               "contributorState": "CA",
               "contributorZip": "95670"
+            }
+          ]
+        },
+        {
+          "contributor": "Cal-Waste",
+          "contributorCity": "Galt",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-10-18",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Cal-Waste",
+              "contributorCity": "Galt",
+              "contributorState": "CA",
+              "contributorZip": "95632"
             }
           ]
         },
