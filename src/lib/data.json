@@ -1,5 +1,5 @@
 {
-  "generated": "2022-10-21T00:21:07.505Z",
+  "generated": "2022-10-22T00:23:06.060Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -1376,7 +1376,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "1",
-      "total": 286379.69,
+      "total": 287379.69,
       "contributors": [
         {
           "contributor": "California Real Estate PAC (CREPAC)",
@@ -3649,6 +3649,24 @@
               "contributorCity": "Scottsdale",
               "contributorState": "AZ",
               "contributorZip": "85251"
+            }
+          ]
+        },
+        {
+          "contributor": "James B. Wiley",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-10-20",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "James B.",
+              "contributorLastName": "Wiley",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
             }
           ]
         },
@@ -7201,7 +7219,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "3",
-      "total": 265659.99,
+      "total": 268659.99,
       "contributors": [
         {
           "contributor": "Sacramento Central Labor Council, AFL-CIO",
@@ -7388,6 +7406,44 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95843"
+            }
+          ]
+        },
+        {
+          "contributor": "American Federation of State, County & Municipal Employees- Council 57 PAC",
+          "contributorCity": "Long Beach",
+          "contributorState": "CA",
+          "total": 4200,
+          "contributions": [
+            {
+              "date": "2022-06-30",
+              "amount": 1800,
+              "contributorCommitteeId": "1313474",
+              "contributorFirstName": "",
+              "contributorLastName": "American Federation of State, County & Municipal Employees- Council 57 PAC",
+              "contributorCity": "Long Beach",
+              "contributorState": "CA",
+              "contributorZip": "90802"
+            },
+            {
+              "date": "2022-07-11",
+              "amount": 1200,
+              "contributorCommitteeId": "1313474",
+              "contributorFirstName": "",
+              "contributorLastName": "American Federation of State, County & Municipal Employees- Council 57 PAC",
+              "contributorCity": "Long Beach",
+              "contributorState": "CA",
+              "contributorZip": "90802"
+            },
+            {
+              "date": "2022-10-19",
+              "amount": 1200,
+              "contributorCommitteeId": "1313474",
+              "contributorFirstName": "",
+              "contributorLastName": "American Federation of State, County & Municipal Employees- Council 57 PAC",
+              "contributorCity": "Long Beach",
+              "contributorState": "CA",
+              "contributorZip": "90802"
             }
           ]
         },
@@ -7730,34 +7786,6 @@
           ]
         },
         {
-          "contributor": "American Federation of State, County & Municipal Employees- Council 57 PAC",
-          "contributorCity": "Long Beach",
-          "contributorState": "CA",
-          "total": 3000,
-          "contributions": [
-            {
-              "date": "2022-06-30",
-              "amount": 1800,
-              "contributorCommitteeId": "1313474",
-              "contributorFirstName": "",
-              "contributorLastName": "American Federation of State, County & Municipal Employees- Council 57 PAC",
-              "contributorCity": "Long Beach",
-              "contributorState": "CA",
-              "contributorZip": "90802"
-            },
-            {
-              "date": "2022-07-11",
-              "amount": 1200,
-              "contributorCommitteeId": "1313474",
-              "contributorFirstName": "",
-              "contributorLastName": "American Federation of State, County & Municipal Employees- Council 57 PAC",
-              "contributorCity": "Long Beach",
-              "contributorState": "CA",
-              "contributorZip": "90802"
-            }
-          ]
-        },
-        {
           "contributor": "LA Superior Central Office, Inc.",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -7924,6 +7952,34 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95864"
+            }
+          ]
+        },
+        {
+          "contributor": "Kamyla Esparza",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2300,
+          "contributions": [
+            {
+              "date": "2022-02-07",
+              "amount": 500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Kamyla",
+              "contributorLastName": "Esparza",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95838"
+            },
+            {
+              "date": "2022-10-19",
+              "amount": 1800,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Kamyla",
+              "contributorLastName": "Esparza",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95838"
             }
           ]
         },
@@ -9852,24 +9908,6 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95815"
-            }
-          ]
-        },
-        {
-          "contributor": "Kamyla Esparza",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 500,
-          "contributions": [
-            {
-              "date": "2022-02-07",
-              "amount": 500,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Kamyla",
-              "contributorLastName": "Esparza",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95838"
             }
           ]
         },
@@ -38437,7 +38475,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 613152.47,
+      "total": 614152.47,
       "contributors": [
         {
           "contributor": "Fulcrum Property Group",
@@ -44192,6 +44230,24 @@
           ]
         },
         {
+          "contributor": "Villara Corporation",
+          "contributorCity": "Mcclellan",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-10-19",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Villara Corporation",
+              "contributorCity": "Mcclellan",
+              "contributorState": "CA",
+              "contributorZip": "95652"
+            }
+          ]
+        },
+        {
           "contributor": "Roger W. Niello",
           "contributorCity": "Fair Oaks",
           "contributorState": "CA",
@@ -49865,7 +49921,7 @@
           "spenderId": "1447157",
           "spenderName": "Working Families for Jaclyn Moreno for Sacramento County Supervisor 2022, sponsored by labor unions",
           "position": "O",
-          "total": 108664.45999999999
+          "total": 120930.09
         },
         {
           "spenderId": "782240",
@@ -49893,7 +49949,7 @@
       "city/county": "County",
       "measure": "A",
       "position": "Support",
-      "total": 2389809.52,
+      "total": 2414809.52,
       "contributors": [
         {
           "contributor": "California Alliance for Jobs - Rebuild California Committee",
@@ -50334,6 +50390,24 @@
               "contributorCity": "San Ramon",
               "contributorState": "CA",
               "contributorZip": "94583"
+            }
+          ]
+        },
+        {
+          "contributor": "Goodfellow Brothers LLC(Brian Gates)",
+          "contributorCity": "Livermore",
+          "contributorState": "CA",
+          "total": 25000,
+          "contributions": [
+            {
+              "date": "2022-10-19",
+              "amount": 25000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Goodfellow Brothers LLC(Brian Gates)",
+              "contributorCity": "Livermore",
+              "contributorState": "CA",
+              "contributorZip": "94551"
             }
           ]
         },
