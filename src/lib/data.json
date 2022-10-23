@@ -1,5 +1,5 @@
 {
-  "generated": "2022-10-22T00:23:06.060Z",
+  "generated": "2022-10-23T00:23:42.928Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -25788,7 +25788,7 @@
           "spenderId": "1400377",
           "spenderName": "Alliance to Support the Middle Class",
           "position": "S",
-          "total": 70196.95
+          "total": 95799.70000000003
         }
       ]
     },
@@ -31807,7 +31807,7 @@
           "spenderId": "1400377",
           "spenderName": "Alliance to Support the Middle Class",
           "position": "S",
-          "total": 105824.94
+          "total": 137577.91999999998
         },
         {
           "spenderId": "840819",
@@ -31823,7 +31823,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 242357,
+      "total": 245857,
       "contributors": [
         {
           "contributor": "Los Rios College Federation of Teachers Political Action Fund Committee",
@@ -32280,6 +32280,34 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95841"
+            }
+          ]
+        },
+        {
+          "contributor": "District Council of Iron Workers Political Action League",
+          "contributorCity": "Pinole",
+          "contributorState": "CA",
+          "total": 4700,
+          "contributions": [
+            {
+              "date": "2022-04-29",
+              "amount": 2200,
+              "contributorCommitteeId": "831693",
+              "contributorFirstName": "",
+              "contributorLastName": "District Council of Iron Workers Political Action League",
+              "contributorCity": "Pinole",
+              "contributorState": "CA",
+              "contributorZip": "94564"
+            },
+            {
+              "date": "2022-10-20",
+              "amount": 2500,
+              "contributorCommitteeId": "831693",
+              "contributorFirstName": "",
+              "contributorLastName": "District Council of Iron Workers Political Action League",
+              "contributorCity": "Pinole",
+              "contributorState": "CA",
+              "contributorZip": "94564"
             }
           ]
         },
@@ -32920,24 +32948,6 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95815"
-            }
-          ]
-        },
-        {
-          "contributor": "District Council of Iron Workers Political Action League",
-          "contributorCity": "Pinole",
-          "contributorState": "CA",
-          "total": 2200,
-          "contributions": [
-            {
-              "date": "2022-04-29",
-              "amount": 2200,
-              "contributorCommitteeId": "831693",
-              "contributorFirstName": "",
-              "contributorLastName": "District Council of Iron Workers Political Action League",
-              "contributorCity": "Pinole",
-              "contributorState": "CA",
-              "contributorZip": "94564"
             }
           ]
         },
@@ -33948,6 +33958,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95835"
+            }
+          ]
+        },
+        {
+          "contributor": "California State Council of UNITE HERE",
+          "contributorCity": "San Francisco",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-10-20",
+              "amount": 1000,
+              "contributorCommitteeId": "744194",
+              "contributorFirstName": "",
+              "contributorLastName": "California State Council of UNITE HERE",
+              "contributorCity": "San Francisco",
+              "contributorState": "CA",
+              "contributorZip": "94102"
             }
           ]
         },
@@ -38475,7 +38503,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 614152.47,
+      "total": 615152.47,
       "contributors": [
         {
           "contributor": "Fulcrum Property Group",
@@ -44248,6 +44276,24 @@
           ]
         },
         {
+          "contributor": "Ron Mellon",
+          "contributorCity": "Lincoln",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-10-20",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Ron",
+              "contributorLastName": "Mellon",
+              "contributorCity": "Lincoln",
+              "contributorState": "CA",
+              "contributorZip": "95648"
+            }
+          ]
+        },
+        {
           "contributor": "Roger W. Niello",
           "contributorCity": "Fair Oaks",
           "contributorState": "CA",
@@ -49918,16 +49964,16 @@
           "total": 160483
         },
         {
+          "spenderId": "782240",
+          "spenderName": "COMMITTEE FOR HOME OWNERSHIP, SPONSORED BY NORTH STATE BUILDING INDUSTRY ASSOC.",
+          "position": "S",
+          "total": 158282.1
+        },
+        {
           "spenderId": "1447157",
           "spenderName": "Working Families for Jaclyn Moreno for Sacramento County Supervisor 2022, sponsored by labor unions",
           "position": "O",
           "total": 120930.09
-        },
-        {
-          "spenderId": "782240",
-          "spenderName": "COMMITTEE FOR HOME OWNERSHIP, SPONSORED BY NORTH STATE BUILDING INDUSTRY ASSOC.",
-          "position": "S",
-          "total": 118319.21000000002
         },
         {
           "spenderId": "1405176",
@@ -49949,7 +49995,7 @@
       "city/county": "County",
       "measure": "A",
       "position": "Support",
-      "total": 2414809.52,
+      "total": 2439809.52,
       "contributors": [
         {
           "contributor": "California Alliance for Jobs - Rebuild California Committee",
@@ -50448,6 +50494,24 @@
           ]
         },
         {
+          "contributor": "Vulcan Materials Company",
+          "contributorCity": "San Diego",
+          "contributorState": "CA",
+          "total": 20000,
+          "contributions": [
+            {
+              "date": "2022-10-20",
+              "amount": 20000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Vulcan Materials Company",
+              "contributorCity": "San Diego",
+              "contributorState": "CA",
+              "contributorZip": "92126"
+            }
+          ]
+        },
+        {
           "contributor": "Murraysmith, Inc.",
           "contributorCity": "Portland",
           "contributorState": "CA",
@@ -50606,6 +50670,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95670"
+            }
+          ]
+        },
+        {
+          "contributor": "Danny Wimmer Presents",
+          "contributorCity": "Los Angeles",
+          "contributorState": "CA",
+          "total": 5000,
+          "contributions": [
+            {
+              "date": "2022-10-20",
+              "amount": 5000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Danny Wimmer Presents",
+              "contributorCity": "Los Angeles",
+              "contributorState": "CA",
+              "contributorZip": "90025"
             }
           ]
         },
@@ -51332,7 +51414,7 @@
       "city/county": "City",
       "measure": "O",
       "position": "Support",
-      "total": 313550,
+      "total": 318550,
       "contributors": [
         {
           "contributor": "Sacramento Moving Forward",
@@ -51693,6 +51775,24 @@
               "contributorCity": "Rancho Cordova",
               "contributorState": "CA",
               "contributorZip": "95670"
+            }
+          ]
+        },
+        {
+          "contributor": "Sacramento Police Officers Association Political Activity Fund",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 5000,
+          "contributions": [
+            {
+              "date": "2022-10-20",
+              "amount": 5000,
+              "contributorCommitteeId": "746239",
+              "contributorFirstName": "",
+              "contributorLastName": "Sacramento Police Officers Association Political Activity Fund",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
             }
           ]
         },
