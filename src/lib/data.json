@@ -1,5 +1,5 @@
 {
-  "generated": "2022-10-24T00:24:10.555Z",
+  "generated": "2022-10-25T00:24:46.885Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -38503,7 +38503,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 615152.47,
+      "total": 617852.47,
       "contributors": [
         {
           "contributor": "Fulcrum Property Group",
@@ -39138,6 +39138,34 @@
               "contributorCity": "Mcclellan",
               "contributorState": "CA",
               "contributorZip": "95652"
+            }
+          ]
+        },
+        {
+          "contributor": "Taylor & Wiley",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 4000,
+          "contributions": [
+            {
+              "date": "2022-03-13",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Taylor & Wiley",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            },
+            {
+              "date": "2022-10-21",
+              "amount": 2700,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Taylor & Wiley",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
             }
           ]
         },
@@ -42484,24 +42512,6 @@
               "contributorCity": "Fair Oaks",
               "contributorState": "CA",
               "contributorZip": "95628"
-            }
-          ]
-        },
-        {
-          "contributor": "Taylor & Wiley",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 1300,
-          "contributions": [
-            {
-              "date": "2022-03-13",
-              "amount": 1300,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "Taylor & Wiley",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95814"
             }
           ]
         },
