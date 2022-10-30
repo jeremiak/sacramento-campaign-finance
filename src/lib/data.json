@@ -1,5 +1,5 @@
 {
-  "generated": "2022-10-29T00:17:05.587Z",
+  "generated": "2022-10-30T00:19:51.677Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -7623,7 +7623,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "3",
-      "total": 286561.99,
+      "total": 288361.99,
       "contributors": [
         {
           "contributor": "Sacramento Central Labor Council, AFL-CIO",
@@ -8944,6 +8944,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95814"
+            }
+          ]
+        },
+        {
+          "contributor": "Western Dental Services, Inc",
+          "contributorCity": "Orange",
+          "contributorState": "CA",
+          "total": 1800,
+          "contributions": [
+            {
+              "date": "2022-10-25",
+              "amount": 1800,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Western Dental Services, Inc",
+              "contributorCity": "Orange",
+              "contributorState": "CA",
+              "contributorZip": "92868"
             }
           ]
         },
@@ -28102,7 +28120,7 @@
           "spenderId": "1400377",
           "spenderName": "Alliance to Support the Middle Class",
           "position": "S",
-          "total": 110332.84000000001
+          "total": 148332.84
         }
       ]
     },
@@ -32259,7 +32277,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "5",
-      "total": 174325,
+      "total": 180325,
       "contributors": [
         {
           "contributor": "California Apartment Association PAC",
@@ -32342,6 +32360,44 @@
               "contributorCity": "Los Angeles",
               "contributorState": "CA",
               "contributorZip": "90071"
+            }
+          ]
+        },
+        {
+          "contributor": "Plumbers & Pipefitters, Local 447 Federal PAC",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 12000,
+          "contributions": [
+            {
+              "date": "2022-03-21",
+              "amount": 1800,
+              "contributorCommitteeId": "1262838",
+              "contributorFirstName": "",
+              "contributorLastName": "Plumbers & Pipefitters, Local 447 Federal PAC",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95819"
+            },
+            {
+              "date": "2022-05-24",
+              "amount": 4200,
+              "contributorCommitteeId": "1262838",
+              "contributorFirstName": "",
+              "contributorLastName": "Plumbers & Pipefitters, Local 447 Federal PAC",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95819"
+            },
+            {
+              "date": "2022-10-27",
+              "amount": 6000,
+              "contributorCommitteeId": "1262838",
+              "contributorFirstName": "",
+              "contributorLastName": "Plumbers & Pipefitters, Local 447 Federal PAC",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95819"
             }
           ]
         },
@@ -32454,34 +32510,6 @@
               "contributorCity": "Granite Bay",
               "contributorState": "CA",
               "contributorZip": "95746"
-            }
-          ]
-        },
-        {
-          "contributor": "Plumbers & Pipefitters, Local 447 Federal PAC",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 6000,
-          "contributions": [
-            {
-              "date": "2022-03-21",
-              "amount": 1800,
-              "contributorCommitteeId": "1262838",
-              "contributorFirstName": "",
-              "contributorLastName": "Plumbers & Pipefitters, Local 447 Federal PAC",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95819"
-            },
-            {
-              "date": "2022-05-24",
-              "amount": 4200,
-              "contributorCommitteeId": "1262838",
-              "contributorFirstName": "",
-              "contributorLastName": "Plumbers & Pipefitters, Local 447 Federal PAC",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95819"
             }
           ]
         },
@@ -35237,7 +35265,7 @@
           "spenderId": "1400377",
           "spenderName": "Alliance to Support the Middle Class",
           "position": "S",
-          "total": 143808.36
+          "total": 181808.36
         },
         {
           "spenderId": "840819",
@@ -35253,7 +35281,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 271516,
+      "total": 272816,
       "contributors": [
         {
           "contributor": "Steinberg for Sacramento Mayor 2020",
@@ -37136,6 +37164,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95818"
+            }
+          ]
+        },
+        {
+          "contributor": "Kat Taylor",
+          "contributorCity": "Redwood City",
+          "contributorState": "CA",
+          "total": 1300,
+          "contributions": [
+            {
+              "date": "2022-10-27",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Kat",
+              "contributorLastName": "Taylor",
+              "contributorCity": "Redwood City",
+              "contributorState": "CA",
+              "contributorZip": "94065"
             }
           ]
         },
@@ -43289,7 +43335,7 @@
           "spenderId": "1405176",
           "spenderName": "Californians for a Growing Economy and Safe Streets",
           "position": "O",
-          "total": 21000
+          "total": 41000
         }
       ]
     },
@@ -43299,7 +43345,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 637627.47,
+      "total": 642727.47,
       "contributors": [
         {
           "contributor": "Sacramento County Deputy Sheriffs Assoc PAC",
@@ -44680,6 +44726,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95825"
+            }
+          ]
+        },
+        {
+          "contributor": "Asian American Business Club",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2700,
+          "contributions": [
+            {
+              "date": "2022-10-27",
+              "amount": 2700,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Asian American Business Club",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
             }
           ]
         },
@@ -46742,6 +46806,34 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95828"
+            }
+          ]
+        },
+        {
+          "contributor": "Allan Lee Veto Jr.",
+          "contributorCity": "Ione",
+          "contributorState": "CA",
+          "total": 1400,
+          "contributions": [
+            {
+              "date": "2022-10-27",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Allan Lee",
+              "contributorLastName": "Veto Jr.",
+              "contributorCity": "Ione",
+              "contributorState": "CA",
+              "contributorZip": "95640"
+            },
+            {
+              "date": "2022-10-27",
+              "amount": 100,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Allan Lee",
+              "contributorLastName": "Veto Jr.",
+              "contributorCity": "Ione",
+              "contributorState": "CA",
+              "contributorZip": "95640"
             }
           ]
         },
@@ -49232,6 +49324,24 @@
               "contributorCity": "Elk Grove",
               "contributorState": "CA",
               "contributorZip": "95624"
+            }
+          ]
+        },
+        {
+          "contributor": "Dainamic Builders Inc.",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-10-27",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Dainamic Builders Inc.",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95834"
             }
           ]
         },
@@ -55647,7 +55757,7 @@
       "city/county": "County",
       "measure": "A",
       "position": "Support",
-      "total": 2935059.52,
+      "total": 3005059.52,
       "contributors": [
         {
           "contributor": "California Alliance for Jobs - Rebuild California Committee",
@@ -56212,6 +56322,42 @@
           ]
         },
         {
+          "contributor": "Members' Voice of the State Building and Construction Trades Council of California",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 25000,
+          "contributions": [
+            {
+              "date": "2022-10-28",
+              "amount": 25000,
+              "contributorCommitteeId": "980162",
+              "contributorFirstName": "",
+              "contributorLastName": "Members' Voice of the State Building and Construction Trades Council of California",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            }
+          ]
+        },
+        {
+          "contributor": "FBD Vanguard Construction Inc.",
+          "contributorCity": "Livermore",
+          "contributorState": "CA",
+          "total": 25000,
+          "contributions": [
+            {
+              "date": "2022-10-27",
+              "amount": 25000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "FBD Vanguard Construction Inc.",
+              "contributorCity": "Livermore",
+              "contributorState": "CA",
+              "contributorZip": "94550"
+            }
+          ]
+        },
+        {
           "contributor": "Region Business, Inc.",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -56280,6 +56426,24 @@
               "contributorCity": "Pleasant Grove",
               "contributorState": "CA",
               "contributorZip": "95668"
+            }
+          ]
+        },
+        {
+          "contributor": "McGuire & Hester",
+          "contributorCity": "Alameda",
+          "contributorState": "CA",
+          "total": 20000,
+          "contributions": [
+            {
+              "date": "2022-10-28",
+              "amount": 20000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "McGuire & Hester",
+              "contributorCity": "Alameda",
+              "contributorState": "CA",
+              "contributorZip": "94502"
             }
           ]
         },
@@ -57946,7 +58110,7 @@
       "city/county": "City",
       "measure": "O",
       "position": "Support",
-      "total": 318550,
+      "total": 343550,
       "contributors": [
         {
           "contributor": "Sacramento Moving Forward",
@@ -58081,6 +58245,24 @@
               "contributorCity": "Redwood City",
               "contributorState": "CA",
               "contributorZip": "94063"
+            }
+          ]
+        },
+        {
+          "contributor": "California Association of Realtors Issues Mobilization PAC",
+          "contributorCity": "Los Angeles",
+          "contributorState": "CA",
+          "total": 25000,
+          "contributions": [
+            {
+              "date": "2022-10-27",
+              "amount": 25000,
+              "contributorCommitteeId": "782560",
+              "contributorFirstName": "",
+              "contributorLastName": "California Association of Realtors Issues Mobilization PAC",
+              "contributorCity": "Los Angeles",
+              "contributorState": "CA",
+              "contributorZip": "90071"
             }
           ]
         },
