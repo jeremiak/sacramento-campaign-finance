@@ -1,5 +1,5 @@
 {
-  "generated": "2022-10-30T00:19:51.677Z",
+  "generated": "2022-11-02T00:17:42.092Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -1476,7 +1476,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "1",
-      "total": 293904.69,
+      "total": 295904.69,
       "contributors": [
         {
           "contributor": "California Real Estate PAC (CREPAC)",
@@ -3823,6 +3823,42 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95814"
+            }
+          ]
+        },
+        {
+          "contributor": "Professional Engineers in California Government (PECG-PAC)",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-10-28",
+              "amount": 1000,
+              "contributorCommitteeId": "822501",
+              "contributorFirstName": "",
+              "contributorLastName": "Professional Engineers in California Government (PECG-PAC)",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            }
+          ]
+        },
+        {
+          "contributor": "Paul & Sons Northgate Inc",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-10-28",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Paul & Sons Northgate Inc",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95834"
             }
           ]
         },
@@ -7623,7 +7659,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "3",
-      "total": 288361.99,
+      "total": 292161.99,
       "contributors": [
         {
           "contributor": "Sacramento Central Labor Council, AFL-CIO",
@@ -8624,6 +8660,34 @@
           ]
         },
         {
+          "contributor": "Clear Channel Outdoor LLC(Bryan Parker)",
+          "contributorCity": "San Antonio",
+          "contributorState": "TX",
+          "total": 2000,
+          "contributions": [
+            {
+              "date": "2022-06-06",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Clear Channel Outdoor LLC(Bryan Parker)",
+              "contributorCity": "San Antonio",
+              "contributorState": "TX",
+              "contributorZip": "78249"
+            },
+            {
+              "date": "2022-10-28",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Clear Channel Outdoor LLC(Bryan Parker)",
+              "contributorCity": "San Antonio",
+              "contributorState": "TX",
+              "contributorZip": "78249"
+            }
+          ]
+        },
+        {
           "contributor": "Service Employees International Union Local 1000 Candidate PAC",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -8962,6 +9026,24 @@
               "contributorCity": "Orange",
               "contributorState": "CA",
               "contributorZip": "92868"
+            }
+          ]
+        },
+        {
+          "contributor": "Dana Williamson",
+          "contributorCity": "Elk Grove",
+          "contributorState": "CA",
+          "total": 1800,
+          "contributions": [
+            {
+              "date": "2022-10-31",
+              "amount": 1800,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Dana",
+              "contributorLastName": "Williamson",
+              "contributorCity": "Elk Grove",
+              "contributorState": "CA",
+              "contributorZip": "95757"
             }
           ]
         },
@@ -9384,6 +9466,34 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95814"
+            }
+          ]
+        },
+        {
+          "contributor": "Rosanna Herber",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1250,
+          "contributions": [
+            {
+              "date": "2022-05-12",
+              "amount": 250,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Rosanna",
+              "contributorLastName": "Herber",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95818"
+            },
+            {
+              "date": "2022-10-31",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Rosanna",
+              "contributorLastName": "Herber",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95818"
             }
           ]
         },
@@ -9854,24 +9964,6 @@
               "contributorCity": "Antelope",
               "contributorState": "CA",
               "contributorZip": "95843"
-            }
-          ]
-        },
-        {
-          "contributor": "Clear Channel Outdoor LLC(Bryan Parker)",
-          "contributorCity": "San Antonio",
-          "contributorState": "TX",
-          "total": 1000,
-          "contributions": [
-            {
-              "date": "2022-06-06",
-              "amount": 1000,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "Clear Channel Outdoor LLC(Bryan Parker)",
-              "contributorCity": "San Antonio",
-              "contributorState": "TX",
-              "contributorZip": "78249"
             }
           ]
         },
@@ -12908,24 +13000,6 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95816"
-            }
-          ]
-        },
-        {
-          "contributor": "Rosanna Herber",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 250,
-          "contributions": [
-            {
-              "date": "2022-05-12",
-              "amount": 250,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Rosanna",
-              "contributorLastName": "Herber",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95818"
             }
           ]
         },
@@ -28130,7 +28204,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "5",
-      "total": 119749,
+      "total": 121549,
       "contributors": [
         {
           "contributor": "Sacramento Central Labor Council COPE",
@@ -28693,6 +28767,24 @@
               "contributorCity": "Pleasanton",
               "contributorState": "CA",
               "contributorZip": "94588"
+            }
+          ]
+        },
+        {
+          "contributor": "Sacramento County Young Democrats",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1800,
+          "contributions": [
+            {
+              "date": "2022-10-29",
+              "amount": 1800,
+              "contributorCommitteeId": "931680",
+              "contributorFirstName": "",
+              "contributorLastName": "Sacramento County Young Democrats",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
             }
           ]
         },
@@ -35281,7 +35373,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 272816,
+      "total": 276416,
       "contributors": [
         {
           "contributor": "Steinberg for Sacramento Mayor 2020",
@@ -36720,6 +36812,24 @@
           ]
         },
         {
+          "contributor": "Sacramento County Young Democrats",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1800,
+          "contributions": [
+            {
+              "date": "2022-10-29",
+              "amount": 1800,
+              "contributorCommitteeId": "931680",
+              "contributorFirstName": "",
+              "contributorLastName": "Sacramento County Young Democrats",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            }
+          ]
+        },
+        {
           "contributor": "Angelique Ashby for City Council 2022",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -36984,6 +37094,34 @@
           ]
         },
         {
+          "contributor": "Maithu Bui",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1300,
+          "contributions": [
+            {
+              "date": "2022-10-03",
+              "amount": 500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Maithu",
+              "contributorLastName": "Bui",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95822"
+            },
+            {
+              "date": "2022-10-29",
+              "amount": 800,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Maithu",
+              "contributorLastName": "Bui",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95822"
+            }
+          ]
+        },
+        {
           "contributor": "Luke Wilson",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -37210,6 +37348,34 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95818"
+            }
+          ]
+        },
+        {
+          "contributor": "May O. Lee",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1100,
+          "contributions": [
+            {
+              "date": "2022-05-13",
+              "amount": 100,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "May O.",
+              "contributorLastName": "Lee",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95831"
+            },
+            {
+              "date": "2022-10-28",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "May O.",
+              "contributorLastName": "Lee",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95831"
             }
           ]
         },
@@ -38284,24 +38450,6 @@
               "contributorCity": "Elk Grove",
               "contributorState": "CA",
               "contributorZip": "95758"
-            }
-          ]
-        },
-        {
-          "contributor": "Maithu Bui",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 500,
-          "contributions": [
-            {
-              "date": "2022-10-03",
-              "amount": 500,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Maithu",
-              "contributorLastName": "Bui",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95822"
             }
           ]
         },
@@ -43030,24 +43178,6 @@
           ]
         },
         {
-          "contributor": "May O. Lee",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 100,
-          "contributions": [
-            {
-              "date": "2022-05-13",
-              "amount": 100,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "May O.",
-              "contributorLastName": "Lee",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95831"
-            }
-          ]
-        },
-        {
           "contributor": "Derek L. Ledda",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -43345,7 +43475,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 642727.47,
+      "total": 645327.47,
       "contributors": [
         {
           "contributor": "Sacramento County Deputy Sheriffs Assoc PAC",
@@ -48152,6 +48282,42 @@
               "contributorCity": "El Dorado Hills",
               "contributorState": "CA",
               "contributorZip": "95762"
+            }
+          ]
+        },
+        {
+          "contributor": "Nor Cal Gasoline Inc. dba Norcal Gasoline",
+          "contributorCity": "Fort Bragg",
+          "contributorState": "CA",
+          "total": 1300,
+          "contributions": [
+            {
+              "date": "2022-10-30",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Nor Cal Gasoline Inc. dba Norcal Gasoline",
+              "contributorCity": "Fort Bragg",
+              "contributorState": "CA",
+              "contributorZip": "95437"
+            }
+          ]
+        },
+        {
+          "contributor": "Boulevard Construction",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1300,
+          "contributions": [
+            {
+              "date": "2022-10-30",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Boulevard Construction",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95834"
             }
           ]
         },
@@ -55757,7 +55923,7 @@
       "city/county": "County",
       "measure": "A",
       "position": "Support",
-      "total": 3005059.52,
+      "total": 3015059.52,
       "contributors": [
         {
           "contributor": "California Alliance for Jobs - Rebuild California Committee",
@@ -56570,6 +56736,24 @@
               "contributorCity": "Rancho Cordova",
               "contributorState": "CA",
               "contributorZip": "95670"
+            }
+          ]
+        },
+        {
+          "contributor": "Professional Engineers in California Government",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 10000,
+          "contributions": [
+            {
+              "date": "2022-10-28",
+              "amount": 10000,
+              "contributorCommitteeId": "822501",
+              "contributorFirstName": "",
+              "contributorLastName": "Professional Engineers in California Government",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
             }
           ]
         },
