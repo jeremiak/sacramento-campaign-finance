@@ -1,5 +1,5 @@
 {
-  "generated": "2022-11-02T00:17:42.092Z",
+  "generated": "2022-11-03T00:18:22.036Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -1476,7 +1476,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "1",
-      "total": 295904.69,
+      "total": 300004.69,
       "contributors": [
         {
           "contributor": "California Real Estate PAC (CREPAC)",
@@ -1825,6 +1825,34 @@
           ]
         },
         {
+          "contributor": "Sofia L. Tsakopoulos Investments",
+          "contributorCity": "Sacramento",
+          "contributorState": "Ca",
+          "total": 3600,
+          "contributions": [
+            {
+              "date": "2022-05-20",
+              "amount": 1800,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Sofia L. Tsakopoulos Investments",
+              "contributorCity": "Sacramento",
+              "contributorState": "Ca",
+              "contributorZip": "95864"
+            },
+            {
+              "date": "2022-11-01",
+              "amount": 1800,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Sofia L. Tsakopoulos Investments",
+              "contributorCity": "Sacramento",
+              "contributorState": "Ca",
+              "contributorZip": "95864"
+            }
+          ]
+        },
+        {
           "contributor": "Cheryl Petrovich",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -2103,6 +2131,54 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95815"
+            }
+          ]
+        },
+        {
+          "contributor": "Teichert, Inc. and Affiliated Entities",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2000,
+          "contributions": [
+            {
+              "date": "2022-03-10",
+              "amount": 500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Teichert, Inc. and Affiliated Entities",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95851"
+            },
+            {
+              "date": "2022-05-27",
+              "amount": 500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Teichert, Inc. and Affiliated Entities",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95851"
+            },
+            {
+              "date": "2022-09-06",
+              "amount": 500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Teichert, Inc. and Affiliated Entities",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95851"
+            },
+            {
+              "date": "2022-11-01",
+              "amount": 500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Teichert, Inc. and Affiliated Entities",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95851"
             }
           ]
         },
@@ -2471,24 +2547,6 @@
           ]
         },
         {
-          "contributor": "Sofia L. Tsakopoulos Investments",
-          "contributorCity": "Sacramento",
-          "contributorState": "Ca",
-          "total": 1800,
-          "contributions": [
-            {
-              "date": "2022-05-20",
-              "amount": 1800,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "Sofia L. Tsakopoulos Investments",
-              "contributorCity": "Sacramento",
-              "contributorState": "Ca",
-              "contributorZip": "95864"
-            }
-          ]
-        },
-        {
           "contributor": "Lance Waite",
           "contributorCity": "Calsbad",
           "contributorState": "CA",
@@ -2779,6 +2837,24 @@
           ]
         },
         {
+          "contributor": "Angelo K. Tsakopoulos and Affiliated Entities",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1800,
+          "contributions": [
+            {
+              "date": "2022-11-01",
+              "amount": 1800,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Angelo K. Tsakopoulos and Affiliated Entities",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95826"
+            }
+          ]
+        },
+        {
           "contributor": "Women Democrats of Sacramento County",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -2933,44 +3009,6 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95814"
-            }
-          ]
-        },
-        {
-          "contributor": "Teichert, Inc. and Affiliated Entities",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 1500,
-          "contributions": [
-            {
-              "date": "2022-03-10",
-              "amount": 500,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "Teichert, Inc. and Affiliated Entities",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95851"
-            },
-            {
-              "date": "2022-05-27",
-              "amount": 500,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "Teichert, Inc. and Affiliated Entities",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95851"
-            },
-            {
-              "date": "2022-09-06",
-              "amount": 500,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "Teichert, Inc. and Affiliated Entities",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95851"
             }
           ]
         },
@@ -28204,7 +28242,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "5",
-      "total": 121549,
+      "total": 122549,
       "contributors": [
         {
           "contributor": "Sacramento Central Labor Council COPE",
@@ -28789,6 +28827,44 @@
           ]
         },
         {
+          "contributor": "Rosanna Herber",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1750,
+          "contributions": [
+            {
+              "date": "2022-04-26",
+              "amount": 250,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Rosanna",
+              "contributorLastName": "Herber",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95818"
+            },
+            {
+              "date": "2022-05-26",
+              "amount": 500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Rosanna",
+              "contributorLastName": "Herber",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95818"
+            },
+            {
+              "date": "2022-10-31",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Rosanna",
+              "contributorLastName": "Herber",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95818"
+            }
+          ]
+        },
+        {
           "contributor": "Women Democrats of Sacramento County",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -29365,34 +29441,6 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95811"
-            }
-          ]
-        },
-        {
-          "contributor": "Rosanna Herber",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 750,
-          "contributions": [
-            {
-              "date": "2022-04-26",
-              "amount": 250,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Rosanna",
-              "contributorLastName": "Herber",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95818"
-            },
-            {
-              "date": "2022-05-26",
-              "amount": 500,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Rosanna",
-              "contributorLastName": "Herber",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95818"
             }
           ]
         },
@@ -43464,8 +43512,8 @@
         {
           "spenderId": "1405176",
           "spenderName": "Californians for a Growing Economy and Safe Streets",
-          "position": "O",
-          "total": 41000
+          "position": "S",
+          "total": 66000
         }
       ]
     },
@@ -43475,7 +43523,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 645327.47,
+      "total": 649127.47,
       "contributors": [
         {
           "contributor": "Sacramento County Deputy Sheriffs Assoc PAC",
@@ -44148,6 +44196,34 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95814"
+            }
+          ]
+        },
+        {
+          "contributor": "Seco Cattle Feeding, Inc.",
+          "contributorCity": "Herald",
+          "contributorState": "CA",
+          "total": 4000,
+          "contributions": [
+            {
+              "date": "2022-05-14",
+              "amount": 2500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Seco Cattle Feeding, Inc.",
+              "contributorCity": "Herald",
+              "contributorState": "CA",
+              "contributorZip": "95638"
+            },
+            {
+              "date": "2022-10-31",
+              "amount": 1500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Seco Cattle Feeding, Inc.",
+              "contributorCity": "Herald",
+              "contributorState": "CA",
+              "contributorZip": "95638"
             }
           ]
         },
@@ -46044,24 +46120,6 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95864"
-            }
-          ]
-        },
-        {
-          "contributor": "Seco Cattle Feeding, Inc.",
-          "contributorCity": "Herald",
-          "contributorState": "CA",
-          "total": 2500,
-          "contributions": [
-            {
-              "date": "2022-05-14",
-              "amount": 2500,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "Seco Cattle Feeding, Inc.",
-              "contributorCity": "Herald",
-              "contributorState": "CA",
-              "contributorZip": "95638"
             }
           ]
         },
@@ -48322,6 +48380,24 @@
           ]
         },
         {
+          "contributor": "South Slope Wines",
+          "contributorCity": "Elk Grove",
+          "contributorState": "CA",
+          "total": 1300,
+          "contributions": [
+            {
+              "date": "2022-10-27",
+              "amount": 1300,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "South Slope Wines",
+              "contributorCity": "Elk Grove",
+              "contributorState": "CA",
+              "contributorZip": "95624"
+            }
+          ]
+        },
+        {
           "contributor": "Larry Gualco",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -49508,6 +49584,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95834"
+            }
+          ]
+        },
+        {
+          "contributor": "Sywest Development, LLC(Andrew McCullough)",
+          "contributorCity": "San Rafael",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-10-31",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Sywest Development, LLC(Andrew McCullough)",
+              "contributorCity": "San Rafael",
+              "contributorState": "CA",
+              "contributorZip": "94901"
             }
           ]
         },
@@ -55892,16 +55986,16 @@
           "total": 231057
         },
         {
+          "spenderId": "782240",
+          "spenderName": "COMMITTEE FOR HOME OWNERSHIP, SPONSORED BY NORTH STATE BUILDING INDUSTRY ASSOC.",
+          "position": "S",
+          "total": 188167.62000000002
+        },
+        {
           "spenderId": "1447157",
           "spenderName": "Working Families for Jaclyn Moreno for Sacramento County Supervisor 2022, sponsored by labor unions",
           "position": "O",
           "total": 128129.59999999999
-        },
-        {
-          "spenderId": "782240",
-          "spenderName": "COMMITTEE FOR HOME OWNERSHIP, SPONSORED BY NORTH STATE BUILDING INDUSTRY ASSOC.",
-          "position": "S",
-          "total": 158282.1
         },
         {
           "spenderId": "1405176",
@@ -57146,8 +57240,36 @@
       "city/county": "City",
       "measure": "L",
       "position": "Support",
-      "total": 178500,
+      "total": 193500,
       "contributors": [
+        {
+          "contributor": "Children's Funding Accelerator, Inc. 501(C)(4)",
+          "contributorCity": "Washington",
+          "contributorState": "DC",
+          "total": 40000,
+          "contributions": [
+            {
+              "date": "2022-10-04",
+              "amount": 25000,
+              "contributorCommitteeId": "1454078",
+              "contributorFirstName": "",
+              "contributorLastName": "Children's Funding Accelerator, Inc. 501(C)(4)",
+              "contributorCity": "Washington",
+              "contributorState": "DC",
+              "contributorZip": "20037"
+            },
+            {
+              "date": "2022-10-31",
+              "amount": 15000,
+              "contributorCommitteeId": "1454078",
+              "contributorFirstName": "",
+              "contributorLastName": "Children's Funding Accelerator, Inc. 501(C)(4)",
+              "contributorCity": "Washington",
+              "contributorState": "DC",
+              "contributorZip": "20037"
+            }
+          ]
+        },
         {
           "contributor": "Youth Forward",
           "contributorCity": "Sacramento",
@@ -57163,24 +57285,6 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95818"
-            }
-          ]
-        },
-        {
-          "contributor": "Children's Funding Accelerator, Inc. 501(C)(4)",
-          "contributorCity": "Washington",
-          "contributorState": "DC",
-          "total": 25000,
-          "contributions": [
-            {
-              "date": "2022-10-04",
-              "amount": 25000,
-              "contributorCommitteeId": "1454078",
-              "contributorFirstName": "",
-              "contributorLastName": "Children's Funding Accelerator, Inc. 501(C)(4)",
-              "contributorCity": "Washington",
-              "contributorState": "DC",
-              "contributorZip": "20037"
             }
           ]
         },
@@ -57791,31 +57895,13 @@
       "city/county": "City",
       "measure": "O",
       "position": "Oppose",
-      "total": 118020.61000000002,
+      "total": 131606.62000000002,
       "contributors": [
-        {
-          "contributor": "Black Zebra Productions",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 35000,
-          "contributions": [
-            {
-              "date": "2022-10-17",
-              "amount": 35000,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "Black Zebra Productions",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95825"
-            }
-          ]
-        },
         {
           "contributor": "ACLU of Northern California Issues Committee",
           "contributorCity": "San Francisco",
           "contributorState": "CA",
-          "total": 31929.98,
+          "total": 45515.990000000005,
           "contributions": [
             {
               "date": "2022-10-05",
@@ -57866,6 +57952,84 @@
               "contributorCity": "San Francisco",
               "contributorState": "CA",
               "contributorZip": "94111"
+            },
+            {
+              "date": "2022-10-21",
+              "amount": 220.41,
+              "contributorCommitteeId": "1423278",
+              "contributorFirstName": "",
+              "contributorLastName": "ACLU of Northern California Issues Committee",
+              "contributorCity": "San Francisco",
+              "contributorState": "CA",
+              "contributorZip": "94111"
+            },
+            {
+              "date": "2022-10-18",
+              "amount": 142.74,
+              "contributorCommitteeId": "1423278",
+              "contributorFirstName": "",
+              "contributorLastName": "ACLU of Northern California Issues Committee",
+              "contributorCity": "San Francisco",
+              "contributorState": "CA",
+              "contributorZip": "94111"
+            },
+            {
+              "date": "2022-10-26",
+              "amount": 451.96,
+              "contributorCommitteeId": "1423278",
+              "contributorFirstName": "",
+              "contributorLastName": "ACLU of Northern California Issues Committee",
+              "contributorCity": "San Francisco",
+              "contributorState": "CA",
+              "contributorZip": "94111"
+            },
+            {
+              "date": "2022-10-28",
+              "amount": 417.07,
+              "contributorCommitteeId": "1423278",
+              "contributorFirstName": "",
+              "contributorLastName": "ACLU of Northern California Issues Committee",
+              "contributorCity": "San Francisco",
+              "contributorState": "CA",
+              "contributorZip": "94111"
+            },
+            {
+              "date": "2022-10-28",
+              "amount": 12000,
+              "contributorCommitteeId": "1423278",
+              "contributorFirstName": "",
+              "contributorLastName": "ACLU of Northern California Issues Committee",
+              "contributorCity": "San Francisco",
+              "contributorState": "CA",
+              "contributorZip": "94111"
+            },
+            {
+              "date": "2022-10-27",
+              "amount": 353.83,
+              "contributorCommitteeId": "1423278",
+              "contributorFirstName": "",
+              "contributorLastName": "ACLU of Northern California Issues Committee",
+              "contributorCity": "San Francisco",
+              "contributorState": "CA",
+              "contributorZip": "94111"
+            }
+          ]
+        },
+        {
+          "contributor": "Black Zebra Productions",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 35000,
+          "contributions": [
+            {
+              "date": "2022-10-17",
+              "amount": 35000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Black Zebra Productions",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95825"
             }
           ]
         },
