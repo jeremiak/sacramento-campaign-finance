@@ -1,5 +1,5 @@
 {
-  "generated": "2022-11-03T00:18:22.036Z",
+  "generated": "2022-11-04T00:18:21.975Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -7697,7 +7697,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "3",
-      "total": 292161.99,
+      "total": 298061.99,
       "contributors": [
         {
           "contributor": "Sacramento Central Labor Council, AFL-CIO",
@@ -7860,6 +7860,34 @@
           ]
         },
         {
+          "contributor": "Sacramento County Young Democrats",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 5400,
+          "contributions": [
+            {
+              "date": "2022-03-30",
+              "amount": 3600,
+              "contributorCommitteeId": "931680",
+              "contributorFirstName": "",
+              "contributorLastName": "Sacramento County Young Democrats",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95818"
+            },
+            {
+              "date": "2022-11-01",
+              "amount": 1800,
+              "contributorCommitteeId": "931680",
+              "contributorFirstName": "",
+              "contributorLastName": "Sacramento County Young Democrats",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95818"
+            }
+          ]
+        },
+        {
           "contributor": "Sacramento County Democratic Central Committee",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -7998,6 +8026,44 @@
               "contributorCity": "Greenwood",
               "contributorState": "CA",
               "contributorZip": "95635"
+            }
+          ]
+        },
+        {
+          "contributor": "Eric Meissner",
+          "contributorCity": "Rocklin",
+          "contributorState": "CA",
+          "total": 3600,
+          "contributions": [
+            {
+              "date": "2022-03-24",
+              "amount": -700,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Eric",
+              "contributorLastName": "Meissner",
+              "contributorCity": "Rocklin",
+              "contributorState": "CA",
+              "contributorZip": "95765"
+            },
+            {
+              "date": "2022-03-23",
+              "amount": 2500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Eric",
+              "contributorLastName": "Meissner",
+              "contributorCity": "Rocklin",
+              "contributorState": "CA",
+              "contributorZip": "95765"
+            },
+            {
+              "date": "2022-11-01",
+              "amount": 1800,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Eric",
+              "contributorLastName": "Meissner",
+              "contributorCity": "Rocklin",
+              "contributorState": "CA",
+              "contributorZip": "95765"
             }
           ]
         },
@@ -8158,24 +8224,6 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95811"
-            }
-          ]
-        },
-        {
-          "contributor": "Sacramento County Young Democrats",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 3600,
-          "contributions": [
-            {
-              "date": "2022-03-30",
-              "amount": 3600,
-              "contributorCommitteeId": "931680",
-              "contributorFirstName": "",
-              "contributorLastName": "Sacramento County Young Democrats",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95818"
             }
           ]
         },
@@ -8614,6 +8662,54 @@
           ]
         },
         {
+          "contributor": "Teichert, Inc and Affiliated entities",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2000,
+          "contributions": [
+            {
+              "date": "2022-02-23",
+              "amount": 500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Teichert, Inc and Affiliated entities",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95851"
+            },
+            {
+              "date": "2022-05-26",
+              "amount": 500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Teichert, Inc and Affiliated entities",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95851"
+            },
+            {
+              "date": "2022-09-20",
+              "amount": 500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Teichert, Inc and Affiliated entities",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95851"
+            },
+            {
+              "date": "2022-11-01",
+              "amount": 500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Teichert, Inc and Affiliated entities",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95851"
+            }
+          ]
+        },
+        {
           "contributor": "Wyndham Garden Hotel",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -8806,34 +8902,6 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95835"
-            }
-          ]
-        },
-        {
-          "contributor": "Eric Meissner",
-          "contributorCity": "Rocklin",
-          "contributorState": "CA",
-          "total": 1800,
-          "contributions": [
-            {
-              "date": "2022-03-24",
-              "amount": -700,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Eric",
-              "contributorLastName": "Meissner",
-              "contributorCity": "Rocklin",
-              "contributorState": "CA",
-              "contributorZip": "95765"
-            },
-            {
-              "date": "2022-03-23",
-              "amount": 2500,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Eric",
-              "contributorLastName": "Meissner",
-              "contributorCity": "Rocklin",
-              "contributorState": "CA",
-              "contributorZip": "95765"
             }
           ]
         },
@@ -9086,6 +9154,24 @@
           ]
         },
         {
+          "contributor": "Alvin H. Cheung",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1800,
+          "contributions": [
+            {
+              "date": "2022-11-01",
+              "amount": 1800,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Alvin H.",
+              "contributorLastName": "Cheung",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95831"
+            }
+          ]
+        },
+        {
           "contributor": "Balance Managed Services LLC(Tyson Scott)",
           "contributorCity": "Stockton",
           "contributorState": "CA",
@@ -9242,44 +9328,6 @@
               "contributorCity": "Livermore",
               "contributorState": "CA",
               "contributorZip": "94551"
-            }
-          ]
-        },
-        {
-          "contributor": "Teichert, Inc and Affiliated entities",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 1500,
-          "contributions": [
-            {
-              "date": "2022-02-23",
-              "amount": 500,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "Teichert, Inc and Affiliated entities",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95851"
-            },
-            {
-              "date": "2022-05-26",
-              "amount": 500,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "Teichert, Inc and Affiliated entities",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95851"
-            },
-            {
-              "date": "2022-09-20",
-              "amount": 500,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "Teichert, Inc and Affiliated entities",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95851"
             }
           ]
         },
@@ -17772,7 +17820,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "3",
-      "total": 373951.76,
+      "total": 379951.76,
       "contributors": [
         {
           "contributor": "California Real Estate PAC (CREPAC) Small Contributor Committee",
@@ -17898,6 +17946,24 @@
               "contributorCommitteeId": "1262838",
               "contributorFirstName": "",
               "contributorLastName": "Plumbers & Pipefitters Local 447 Federal Political Fund",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95819"
+            }
+          ]
+        },
+        {
+          "contributor": "Plumbers & Pipefitters Local 447 Federal Political Fund (FED PAC ID# C00320218)",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 6000,
+          "contributions": [
+            {
+              "date": "2022-11-01",
+              "amount": 6000,
+              "contributorCommitteeId": "1262838",
+              "contributorFirstName": "",
+              "contributorLastName": "Plumbers & Pipefitters Local 447 Federal Political Fund (FED PAC ID# C00320218)",
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95819"
@@ -35421,7 +35487,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 276416,
+      "total": 279616,
       "contributors": [
         {
           "contributor": "Steinberg for Sacramento Mayor 2020",
@@ -36178,6 +36244,34 @@
               "contributorCity": "Carmichael",
               "contributorState": "CA",
               "contributorZip": "95608"
+            }
+          ]
+        },
+        {
+          "contributor": "Re-Elect Fiona Ma for State Treasurer 2022",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 2700,
+          "contributions": [
+            {
+              "date": "2022-09-02",
+              "amount": 500,
+              "contributorCommitteeId": "1414254",
+              "contributorFirstName": "",
+              "contributorLastName": "Re-Elect Fiona Ma for State Treasurer 2022",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95864"
+            },
+            {
+              "date": "2022-11-01",
+              "amount": 2200,
+              "contributorCommitteeId": "1414254",
+              "contributorFirstName": "",
+              "contributorLastName": "Re-Elect Fiona Ma for State Treasurer 2022",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95864"
             }
           ]
         },
@@ -36978,6 +37072,34 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95815"
+            }
+          ]
+        },
+        {
+          "contributor": "Teichert, Inc.",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1500,
+          "contributions": [
+            {
+              "date": "2022-05-27",
+              "amount": 500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Teichert, Inc.",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95864"
+            },
+            {
+              "date": "2022-11-01",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Teichert, Inc.",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95864"
             }
           ]
         },
@@ -38738,42 +38860,6 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95833"
-            }
-          ]
-        },
-        {
-          "contributor": "Teichert, Inc.",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 500,
-          "contributions": [
-            {
-              "date": "2022-05-27",
-              "amount": 500,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "Teichert, Inc.",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95864"
-            }
-          ]
-        },
-        {
-          "contributor": "Re-Elect Fiona Ma for State Treasurer 2022",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 500,
-          "contributions": [
-            {
-              "date": "2022-09-02",
-              "amount": 500,
-              "contributorCommitteeId": "1414254",
-              "contributorFirstName": "",
-              "contributorLastName": "Re-Elect Fiona Ma for State Treasurer 2022",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95864"
             }
           ]
         },
@@ -43523,7 +43609,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 649127.47,
+      "total": 655627.47,
       "contributors": [
         {
           "contributor": "Sacramento County Deputy Sheriffs Assoc PAC",
@@ -46998,6 +47084,24 @@
           ]
         },
         {
+          "contributor": "Law Office of Jaspreet Singh",
+          "contributorCity": "West Sacramento",
+          "contributorState": "CA",
+          "total": 1500,
+          "contributions": [
+            {
+              "date": "2022-11-01",
+              "amount": 1500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Law Office of Jaspreet Singh",
+              "contributorCity": "West Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95691"
+            }
+          ]
+        },
+        {
           "contributor": "Allan Lee Veto Jr.",
           "contributorCity": "Ione",
           "contributorState": "CA",
@@ -49602,6 +49706,96 @@
               "contributorCity": "San Rafael",
               "contributorState": "CA",
               "contributorZip": "94901"
+            }
+          ]
+        },
+        {
+          "contributor": "Onkar Singh",
+          "contributorCity": "Yuba City",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-11-01",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Onkar",
+              "contributorLastName": "Singh",
+              "contributorCity": "Yuba City",
+              "contributorState": "CA",
+              "contributorZip": "95993"
+            }
+          ]
+        },
+        {
+          "contributor": "Harjinder Singh",
+          "contributorCity": "Yuba City",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-11-01",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Harjinder",
+              "contributorLastName": "Singh",
+              "contributorCity": "Yuba City",
+              "contributorState": "CA",
+              "contributorZip": "95993"
+            }
+          ]
+        },
+        {
+          "contributor": "Gurnam Singh Bhandal",
+          "contributorCity": "Yuba City",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-11-01",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Gurnam Singh",
+              "contributorLastName": "Bhandal",
+              "contributorCity": "Yuba City",
+              "contributorState": "CA",
+              "contributorZip": "95993"
+            }
+          ]
+        },
+        {
+          "contributor": "Gurdial Singh",
+          "contributorCity": "Yuba City",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-11-01",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Gurdial",
+              "contributorLastName": "Singh",
+              "contributorCity": "Yuba City",
+              "contributorState": "CA",
+              "contributorZip": "95993"
+            }
+          ]
+        },
+        {
+          "contributor": "Vijaya K. Ravi",
+          "contributorCity": "San Jose",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-11-01",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Vijaya K.",
+              "contributorLastName": "Ravi",
+              "contributorCity": "San Jose",
+              "contributorState": "CA",
+              "contributorZip": "95125"
             }
           ]
         },
@@ -56017,7 +56211,7 @@
       "city/county": "County",
       "measure": "A",
       "position": "Support",
-      "total": 3015059.52,
+      "total": 3035059.52,
       "contributors": [
         {
           "contributor": "California Alliance for Jobs - Rebuild California Committee",
@@ -56708,6 +56902,24 @@
           ]
         },
         {
+          "contributor": "Sutter Health",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 20000,
+          "contributions": [
+            {
+              "date": "2022-11-01",
+              "amount": 20000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Sutter Health",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95833"
+            }
+          ]
+        },
+        {
           "contributor": "Murraysmith, Inc.",
           "contributorCity": "Portland",
           "contributorState": "CA",
@@ -57240,7 +57452,7 @@
       "city/county": "City",
       "measure": "L",
       "position": "Support",
-      "total": 193500,
+      "total": 208500,
       "contributors": [
         {
           "contributor": "Children's Funding Accelerator, Inc. 501(C)(4)",
@@ -57377,6 +57589,24 @@
               "contributorCity": "Los Angeles",
               "contributorState": "CA",
               "contributorZip": "90015"
+            }
+          ]
+        },
+        {
+          "contributor": "Plumbers & Pipefitters Local 447",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 15000,
+          "contributions": [
+            {
+              "date": "2022-11-01",
+              "amount": 15000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Plumbers & Pipefitters Local 447",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95819"
             }
           ]
         },
