@@ -1,5 +1,5 @@
 {
-  "generated": "2022-11-04T00:18:21.975Z",
+  "generated": "2022-11-06T00:19:29.044Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -1476,7 +1476,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "1",
-      "total": 300004.69,
+      "total": 301804.69,
       "contributors": [
         {
           "contributor": "California Real Estate PAC (CREPAC)",
@@ -2851,6 +2851,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95826"
+            }
+          ]
+        },
+        {
+          "contributor": "Teranomic Software",
+          "contributorCity": "Orangevale",
+          "contributorState": "CA",
+          "total": 1800,
+          "contributions": [
+            {
+              "date": "2022-11-03",
+              "amount": 1800,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Teranomic Software",
+              "contributorCity": "Orangevale",
+              "contributorState": "CA",
+              "contributorZip": "95662"
             }
           ]
         },
@@ -7697,7 +7715,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "3",
-      "total": 298061.99,
+      "total": 300861.99,
       "contributors": [
         {
           "contributor": "Sacramento Central Labor Council, AFL-CIO",
@@ -9172,6 +9190,24 @@
           ]
         },
         {
+          "contributor": "Teranomic Software",
+          "contributorCity": "Orangevale",
+          "contributorState": "CA",
+          "total": 1800,
+          "contributions": [
+            {
+              "date": "2022-11-03",
+              "amount": 1800,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Teranomic Software",
+              "contributorCity": "Orangevale",
+              "contributorState": "CA",
+              "contributorZip": "95662"
+            }
+          ]
+        },
+        {
           "contributor": "Balance Managed Services LLC(Tyson Scott)",
           "contributorCity": "Stockton",
           "contributorState": "CA",
@@ -10176,6 +10212,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95814"
+            }
+          ]
+        },
+        {
+          "contributor": "Maryam Sierafi",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-11-02",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Maryam",
+              "contributorLastName": "Sierafi",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95834"
             }
           ]
         },
@@ -17820,7 +17874,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "3",
-      "total": 379951.76,
+      "total": 382451.76,
       "contributors": [
         {
           "contributor": "California Real Estate PAC (CREPAC) Small Contributor Committee",
@@ -18631,6 +18685,44 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95815"
+            }
+          ]
+        },
+        {
+          "contributor": "George A. Rodriguez",
+          "contributorCity": "Stockton",
+          "contributorState": "CA",
+          "total": 2100,
+          "contributions": [
+            {
+              "date": "2022-09-07",
+              "amount": 500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "George A.",
+              "contributorLastName": "Rodriguez",
+              "contributorCity": "Stockton",
+              "contributorState": "CA",
+              "contributorZip": "95204"
+            },
+            {
+              "date": "2022-01-12",
+              "amount": 600,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "George A.",
+              "contributorLastName": "Rodriguez",
+              "contributorCity": "Stockton",
+              "contributorState": "CA",
+              "contributorZip": "95204"
+            },
+            {
+              "date": "2022-10-31",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "George A.",
+              "contributorLastName": "Rodriguez",
+              "contributorCity": "Stockton",
+              "contributorState": "CA",
+              "contributorZip": "95204"
             }
           ]
         },
@@ -19517,6 +19609,44 @@
           ]
         },
         {
+          "contributor": "Erika Bjork",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1650,
+          "contributions": [
+            {
+              "date": "2022-10-15",
+              "amount": 500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Erika",
+              "contributorLastName": "Bjork",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95817"
+            },
+            {
+              "date": "2022-09-12",
+              "amount": 150,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Erika",
+              "contributorLastName": "Bjork",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95817"
+            },
+            {
+              "date": "2022-10-25",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Erika",
+              "contributorLastName": "Bjork",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95817"
+            }
+          ]
+        },
+        {
           "contributor": "Jonathan Kaufman",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -19817,6 +19947,34 @@
           ]
         },
         {
+          "contributor": "Carol Burger",
+          "contributorCity": "El Dorado Hills",
+          "contributorState": "CA",
+          "total": 1500,
+          "contributions": [
+            {
+              "date": "2022-08-29",
+              "amount": 500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Carol",
+              "contributorLastName": "Burger",
+              "contributorCity": "El Dorado Hills",
+              "contributorState": "CA",
+              "contributorZip": "95762"
+            },
+            {
+              "date": "2022-10-25",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Carol",
+              "contributorLastName": "Burger",
+              "contributorCity": "El Dorado Hills",
+              "contributorState": "CA",
+              "contributorZip": "95762"
+            }
+          ]
+        },
+        {
           "contributor": "ImPAC California",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -20075,34 +20233,6 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95822"
-            }
-          ]
-        },
-        {
-          "contributor": "George A. Rodriguez",
-          "contributorCity": "Stockton",
-          "contributorState": "CA",
-          "total": 1100,
-          "contributions": [
-            {
-              "date": "2022-09-07",
-              "amount": 500,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "George A.",
-              "contributorLastName": "Rodriguez",
-              "contributorCity": "Stockton",
-              "contributorState": "CA",
-              "contributorZip": "95204"
-            },
-            {
-              "date": "2022-01-12",
-              "amount": 600,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "George A.",
-              "contributorLastName": "Rodriguez",
-              "contributorCity": "Stockton",
-              "contributorState": "CA",
-              "contributorZip": "95204"
             }
           ]
         },
@@ -20799,34 +20929,6 @@
           ]
         },
         {
-          "contributor": "Carol Burger",
-          "contributorCity": "El Dorado Hills",
-          "contributorState": "CA",
-          "total": 1000,
-          "contributions": [
-            {
-              "date": "2022-08-29",
-              "amount": 500,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Carol",
-              "contributorLastName": "Burger",
-              "contributorCity": "El Dorado Hills",
-              "contributorState": "CA",
-              "contributorZip": "95762"
-            },
-            {
-              "date": "2022-10-25",
-              "amount": 500,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Carol",
-              "contributorLastName": "Burger",
-              "contributorCity": "El Dorado Hills",
-              "contributorState": "CA",
-              "contributorZip": "95762"
-            }
-          ]
-        },
-        {
           "contributor": "Manroop Purewal",
           "contributorCity": "Davis",
           "contributorState": "CA",
@@ -21485,34 +21587,6 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95831"
-            }
-          ]
-        },
-        {
-          "contributor": "Erika Bjork",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 650,
-          "contributions": [
-            {
-              "date": "2022-10-15",
-              "amount": 500,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Erika",
-              "contributorLastName": "Bjork",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95817"
-            },
-            {
-              "date": "2022-09-12",
-              "amount": 150,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Erika",
-              "contributorLastName": "Bjork",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95817"
             }
           ]
         },
@@ -35487,7 +35561,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 279616,
+      "total": 280116,
       "contributors": [
         {
           "contributor": "Steinberg for Sacramento Mayor 2020",
@@ -37710,6 +37784,34 @@
           ]
         },
         {
+          "contributor": "Janet Burger",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 1000,
+          "contributions": [
+            {
+              "date": "2022-10-05",
+              "amount": 500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Janet",
+              "contributorLastName": "Burger",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95822"
+            },
+            {
+              "date": "2022-11-03",
+              "amount": 500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Janet",
+              "contributorLastName": "Burger",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95822"
+            }
+          ]
+        },
+        {
           "contributor": "Pal S. Dhaliwal",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -38714,24 +38816,6 @@
               "contributorCity": "Los Angeles",
               "contributorState": "CA",
               "contributorZip": "90017"
-            }
-          ]
-        },
-        {
-          "contributor": "Janet Burger",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 500,
-          "contributions": [
-            {
-              "date": "2022-10-05",
-              "amount": 500,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Janet",
-              "contributorLastName": "Burger",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95822"
             }
           ]
         },
@@ -43609,7 +43693,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 655627.47,
+      "total": 661827.47,
       "contributors": [
         {
           "contributor": "Sacramento County Deputy Sheriffs Assoc PAC",
@@ -45040,6 +45124,24 @@
           ]
         },
         {
+          "contributor": "William C. Cummings Development, Inc.",
+          "contributorCity": "Folsom",
+          "contributorState": "CA",
+          "total": 2700,
+          "contributions": [
+            {
+              "date": "2022-11-03",
+              "amount": 2700,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "William C. Cummings Development, Inc.",
+              "contributorCity": "Folsom",
+              "contributorState": "CA",
+              "contributorZip": "95630"
+            }
+          ]
+        },
+        {
           "contributor": "David Sander",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -46162,6 +46264,34 @@
           ]
         },
         {
+          "contributor": "LE03 - Awin Management, Inc.",
+          "contributorCity": "Phoenix",
+          "contributorState": "AZ",
+          "total": 2500,
+          "contributions": [
+            {
+              "date": "2022-06-04",
+              "amount": 1500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "LE03 - Awin Management, Inc.",
+              "contributorCity": "Phoenix",
+              "contributorState": "AZ",
+              "contributorZip": "85054"
+            },
+            {
+              "date": "2022-11-02",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "LE03 - Awin Management, Inc.",
+              "contributorCity": "Phoenix",
+              "contributorState": "AZ",
+              "contributorZip": "85054"
+            }
+          ]
+        },
+        {
           "contributor": "Susan Peters",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -46842,24 +46972,6 @@
           ]
         },
         {
-          "contributor": "LE03 - Awin Management, Inc.",
-          "contributorCity": "Phoenix",
-          "contributorState": "AZ",
-          "total": 1500,
-          "contributions": [
-            {
-              "date": "2022-06-04",
-              "amount": 1500,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "LE03 - Awin Management, Inc.",
-              "contributorCity": "Phoenix",
-              "contributorState": "AZ",
-              "contributorZip": "85054"
-            }
-          ]
-        },
-        {
           "contributor": "The Frank Ford Company, Inc.",
           "contributorCity": "Auburn",
           "contributorState": "CA",
@@ -47098,6 +47210,24 @@
               "contributorCity": "West Sacramento",
               "contributorState": "CA",
               "contributorZip": "95691"
+            }
+          ]
+        },
+        {
+          "contributor": "Northern California District Council of Laborers PAC SCC",
+          "contributorCity": "Pleasanton",
+          "contributorState": "CA",
+          "total": 1500,
+          "contributions": [
+            {
+              "date": "2022-11-03",
+              "amount": 1500,
+              "contributorCommitteeId": "1243030",
+              "contributorFirstName": "",
+              "contributorLastName": "Northern California District Council of Laborers PAC SCC",
+              "contributorCity": "Pleasanton",
+              "contributorState": "CA",
+              "contributorZip": "94588"
             }
           ]
         },
@@ -48526,6 +48656,34 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95816"
+            }
+          ]
+        },
+        {
+          "contributor": "Rick Fowler",
+          "contributorCity": "Carmichael",
+          "contributorState": "CA",
+          "total": 1250,
+          "contributions": [
+            {
+              "date": "2022-09-20",
+              "amount": 250,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Rick",
+              "contributorLastName": "Fowler",
+              "contributorCity": "Carmichael",
+              "contributorState": "CA",
+              "contributorZip": "95608"
+            },
+            {
+              "date": "2022-11-03",
+              "amount": 1000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Rick",
+              "contributorLastName": "Fowler",
+              "contributorCity": "Carmichael",
+              "contributorState": "CA",
+              "contributorZip": "95608"
             }
           ]
         },
@@ -54152,24 +54310,6 @@
           ]
         },
         {
-          "contributor": "Rick Fowler",
-          "contributorCity": "Carmichael",
-          "contributorState": "CA",
-          "total": 250,
-          "contributions": [
-            {
-              "date": "2022-09-20",
-              "amount": 250,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Rick",
-              "contributorLastName": "Fowler",
-              "contributorCity": "Carmichael",
-              "contributorState": "CA",
-              "contributorZip": "95608"
-            }
-          ]
-        },
-        {
           "contributor": "Scott Best",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -56211,7 +56351,7 @@
       "city/county": "County",
       "measure": "A",
       "position": "Support",
-      "total": 3035059.52,
+      "total": 3135059.52,
       "contributors": [
         {
           "contributor": "California Alliance for Jobs - Rebuild California Committee",
@@ -56354,6 +56494,34 @@
           ]
         },
         {
+          "contributor": "Northern California Carpenters Regional Council Issues PAC",
+          "contributorCity": "Oakland",
+          "contributorState": "CA",
+          "total": 100000,
+          "contributions": [
+            {
+              "date": "2022-08-23",
+              "amount": 75000,
+              "contributorCommitteeId": "1219354",
+              "contributorFirstName": "",
+              "contributorLastName": "Northern California Carpenters Regional Council Issues PAC",
+              "contributorCity": "Oakland",
+              "contributorState": "CA",
+              "contributorZip": "94621"
+            },
+            {
+              "date": "2022-11-04",
+              "amount": 25000,
+              "contributorCommitteeId": "1219354",
+              "contributorFirstName": "",
+              "contributorLastName": "Northern California Carpenters Regional Council Issues PAC",
+              "contributorCity": "Oakland",
+              "contributorState": "CA",
+              "contributorZip": "94621"
+            }
+          ]
+        },
+        {
           "contributor": "Labor Management Cooperation Committee",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -56404,6 +56572,34 @@
               "contributorCity": "Watsonville",
               "contributorState": "CA",
               "contributorZip": "95076"
+            }
+          ]
+        },
+        {
+          "contributor": "Members' Voice of the State Building and Construction Trades Council of California",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 100000,
+          "contributions": [
+            {
+              "date": "2022-10-28",
+              "amount": 25000,
+              "contributorCommitteeId": "980162",
+              "contributorFirstName": "",
+              "contributorLastName": "Members' Voice of the State Building and Construction Trades Council of California",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            },
+            {
+              "date": "2022-11-03",
+              "amount": 75000,
+              "contributorCommitteeId": "980162",
+              "contributorFirstName": "",
+              "contributorLastName": "Members' Voice of the State Building and Construction Trades Council of California",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
             }
           ]
         },
@@ -56472,24 +56668,6 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95826"
-            }
-          ]
-        },
-        {
-          "contributor": "Northern California Carpenters Regional Council Issues PAC",
-          "contributorCity": "Oakland",
-          "contributorState": "CA",
-          "total": 75000,
-          "contributions": [
-            {
-              "date": "2022-08-23",
-              "amount": 75000,
-              "contributorCommitteeId": "1219354",
-              "contributorFirstName": "",
-              "contributorLastName": "Northern California Carpenters Regional Council Issues PAC",
-              "contributorCity": "Oakland",
-              "contributorState": "CA",
-              "contributorZip": "94621"
             }
           ]
         },
@@ -56772,24 +56950,6 @@
               "contributorCity": "Concord",
               "contributorState": "CA",
               "contributorZip": "94520"
-            }
-          ]
-        },
-        {
-          "contributor": "Members' Voice of the State Building and Construction Trades Council of California",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 25000,
-          "contributions": [
-            {
-              "date": "2022-10-28",
-              "amount": 25000,
-              "contributorCommitteeId": "980162",
-              "contributorFirstName": "",
-              "contributorLastName": "Members' Voice of the State Building and Construction Trades Council of California",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95814"
             }
           ]
         },
