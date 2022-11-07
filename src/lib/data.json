@@ -1,5 +1,5 @@
 {
-  "generated": "2022-11-06T00:19:29.044Z",
+  "generated": "2022-11-07T00:19:00.329Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -1476,7 +1476,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "1",
-      "total": 301804.69,
+      "total": 303304.69,
       "contributors": [
         {
           "contributor": "California Real Estate PAC (CREPAC)",
@@ -3091,6 +3091,24 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95834"
+            }
+          ]
+        },
+        {
+          "contributor": "LE03-Awin Management Inc",
+          "contributorCity": "Phoenix",
+          "contributorState": "AZ",
+          "total": 1500,
+          "contributions": [
+            {
+              "date": "2022-11-04",
+              "amount": 1500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "LE03-Awin Management Inc",
+              "contributorCity": "Phoenix",
+              "contributorState": "AZ",
+              "contributorZip": "85054"
             }
           ]
         },
@@ -17874,7 +17892,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "3",
-      "total": 382451.76,
+      "total": 383451.76,
       "contributors": [
         {
           "contributor": "California Real Estate PAC (CREPAC) Small Contributor Committee",
@@ -19877,6 +19895,34 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95838"
+            }
+          ]
+        },
+        {
+          "contributor": "Steven Bradford for Senate 2020",
+          "contributorCity": "Los Angeles",
+          "contributorState": "CA",
+          "total": 1500,
+          "contributions": [
+            {
+              "date": "2022-08-12",
+              "amount": 500,
+              "contributorCommitteeId": "1394302",
+              "contributorFirstName": "",
+              "contributorLastName": "Steven Bradford for Senate 2020",
+              "contributorCity": "Los Angeles",
+              "contributorState": "CA",
+              "contributorZip": "90017"
+            },
+            {
+              "date": "2022-11-04",
+              "amount": 1000,
+              "contributorCommitteeId": "1394302",
+              "contributorFirstName": "",
+              "contributorLastName": "Steven Bradford for Senate 2020",
+              "contributorCity": "Los Angeles",
+              "contributorState": "CA",
+              "contributorZip": "90017"
             }
           ]
         },
@@ -22745,24 +22791,6 @@
               "contributorCity": "West Sacramento",
               "contributorState": "CA",
               "contributorZip": "95691"
-            }
-          ]
-        },
-        {
-          "contributor": "Steven Bradford for Senate 2020",
-          "contributorCity": "Los Angeles",
-          "contributorState": "CA",
-          "total": 500,
-          "contributions": [
-            {
-              "date": "2022-08-12",
-              "amount": 500,
-              "contributorCommitteeId": "1394302",
-              "contributorFirstName": "",
-              "contributorLastName": "Steven Bradford for Senate 2020",
-              "contributorCity": "Los Angeles",
-              "contributorState": "CA",
-              "contributorZip": "90017"
             }
           ]
         },
@@ -57612,7 +57640,7 @@
       "city/county": "City",
       "measure": "L",
       "position": "Support",
-      "total": 208500,
+      "total": 253500,
       "contributors": [
         {
           "contributor": "Children's Funding Accelerator, Inc. 501(C)(4)",
@@ -57679,6 +57707,24 @@
           ]
         },
         {
+          "contributor": "Sutter Health",
+          "contributorCity": "Roseville",
+          "contributorState": "CA",
+          "total": 25000,
+          "contributions": [
+            {
+              "date": "2022-11-04",
+              "amount": 25000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Sutter Health",
+              "contributorCity": "Roseville",
+              "contributorState": "CA",
+              "contributorZip": "95661"
+            }
+          ]
+        },
+        {
           "contributor": "East Bay Asian Youth Center",
           "contributorCity": "Oakland",
           "contributorState": "CA",
@@ -57731,6 +57777,24 @@
               "contributorCity": "Atherton",
               "contributorState": "CA",
               "contributorZip": "94027"
+            }
+          ]
+        },
+        {
+          "contributor": "Sierra Health Foundation",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 20000,
+          "contributions": [
+            {
+              "date": "2022-11-04",
+              "amount": 20000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Sierra Health Foundation",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95833"
             }
           ]
         },
