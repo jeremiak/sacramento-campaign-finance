@@ -1,5 +1,5 @@
 {
-  "generated": "2022-11-09T00:19:43.251Z",
+  "generated": "2022-11-10T00:20:28.173Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -7797,7 +7797,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "3",
-      "total": 303161.99,
+      "total": 304661.99,
       "contributors": [
         {
           "contributor": "Sacramento Central Labor Council, AFL-CIO",
@@ -9606,6 +9606,44 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95833"
+            }
+          ]
+        },
+        {
+          "contributor": "C Evan Knapp",
+          "contributorCity": "Newport Beach",
+          "contributorState": "CA",
+          "total": 1500,
+          "contributions": [
+            {
+              "date": "2022-11-07",
+              "amount": 500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "C Evan",
+              "contributorLastName": "Knapp",
+              "contributorCity": "Newport Beach",
+              "contributorState": "CA",
+              "contributorZip": "92660"
+            },
+            {
+              "date": "2022-11-07",
+              "amount": 500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "C Evan",
+              "contributorLastName": "Knapp",
+              "contributorCity": "Newport Beach",
+              "contributorState": "CA",
+              "contributorZip": "92660"
+            },
+            {
+              "date": "2022-11-07",
+              "amount": 500,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "C Evan",
+              "contributorLastName": "Knapp",
+              "contributorCity": "Newport Beach",
+              "contributorState": "CA",
+              "contributorZip": "92660"
             }
           ]
         },
@@ -18817,7 +18855,7 @@
               "contributorZip": "95204"
             },
             {
-              "date": "2022-10-31",
+              "date": "2022-10-30",
               "amount": 1000,
               "contributorCommitteeId": "",
               "contributorFirstName": "George A.",
@@ -35699,7 +35737,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
-      "total": 280116,
+      "total": 285516,
       "contributors": [
         {
           "contributor": "American Federation of State, County & Municipal Employees - Council 57 PAC",
@@ -36132,6 +36170,54 @@
           ]
         },
         {
+          "contributor": "Communications Workers of America (CWA-COPE PCC)",
+          "contributorCity": "Washington",
+          "contributorState": "DC",
+          "total": 5150,
+          "contributions": [
+            {
+              "date": "2022-04-28",
+              "amount": 250,
+              "contributorCommitteeId": "1242993",
+              "contributorFirstName": "",
+              "contributorLastName": "Communications Workers of America (CWA-COPE PCC)",
+              "contributorCity": "Washington",
+              "contributorState": "DC",
+              "contributorZip": "20001"
+            },
+            {
+              "date": "2022-04-28",
+              "amount": 2450,
+              "contributorCommitteeId": "1242993",
+              "contributorFirstName": "",
+              "contributorLastName": "Communications Workers of America (CWA-COPE PCC)",
+              "contributorCity": "Washington",
+              "contributorState": "DC",
+              "contributorZip": "20001"
+            },
+            {
+              "date": "2022-05-05",
+              "amount": -250,
+              "contributorCommitteeId": "1242993",
+              "contributorFirstName": "",
+              "contributorLastName": "Communications Workers of America (CWA-COPE PCC)",
+              "contributorCity": "Washington",
+              "contributorState": "DC",
+              "contributorZip": "20001"
+            },
+            {
+              "date": "2022-11-07",
+              "amount": 2700,
+              "contributorCommitteeId": "1242993",
+              "contributorFirstName": "",
+              "contributorLastName": "Communications Workers of America (CWA-COPE PCC)",
+              "contributorCity": "Washington",
+              "contributorState": "DC",
+              "contributorZip": "20001"
+            }
+          ]
+        },
+        {
           "contributor": "District Council of Iron Workers Political Action League",
           "contributorCity": "Pinole",
           "contributorState": "CA",
@@ -36232,6 +36318,34 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95814"
+            }
+          ]
+        },
+        {
+          "contributor": "DRIVE Committee",
+          "contributorCity": "Washington",
+          "contributorState": "DC",
+          "total": 3750,
+          "contributions": [
+            {
+              "date": "2022-02-24",
+              "amount": 1050,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "DRIVE Committee",
+              "contributorCity": "Washington",
+              "contributorState": "DC",
+              "contributorZip": "20001"
+            },
+            {
+              "date": "2022-11-07",
+              "amount": 2700,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "DRIVE Committee",
+              "contributorCity": "Washington",
+              "contributorState": "DC",
+              "contributorZip": "20001"
             }
           ]
         },
@@ -36640,44 +36754,6 @@
               "contributorCity": "Roseville",
               "contributorState": "CA",
               "contributorZip": "95610"
-            }
-          ]
-        },
-        {
-          "contributor": "Communications Workers of America (CWA-COPE PCC)",
-          "contributorCity": "Washington",
-          "contributorState": "DC",
-          "total": 2450,
-          "contributions": [
-            {
-              "date": "2022-04-28",
-              "amount": 250,
-              "contributorCommitteeId": "1242993",
-              "contributorFirstName": "",
-              "contributorLastName": "Communications Workers of America (CWA-COPE PCC)",
-              "contributorCity": "Washington",
-              "contributorState": "DC",
-              "contributorZip": "20001"
-            },
-            {
-              "date": "2022-04-28",
-              "amount": 2450,
-              "contributorCommitteeId": "1242993",
-              "contributorFirstName": "",
-              "contributorLastName": "Communications Workers of America (CWA-COPE PCC)",
-              "contributorCity": "Washington",
-              "contributorState": "DC",
-              "contributorZip": "20001"
-            },
-            {
-              "date": "2022-05-05",
-              "amount": -250,
-              "contributorCommitteeId": "1242993",
-              "contributorFirstName": "",
-              "contributorLastName": "Communications Workers of America (CWA-COPE PCC)",
-              "contributorCity": "Washington",
-              "contributorState": "DC",
-              "contributorZip": "20001"
             }
           ]
         },
@@ -37796,24 +37872,6 @@
               "contributorCity": "Carmichael",
               "contributorState": "CA",
               "contributorZip": "95608"
-            }
-          ]
-        },
-        {
-          "contributor": "DRIVE Committee",
-          "contributorCity": "Washington",
-          "contributorState": "DC",
-          "total": 1050,
-          "contributions": [
-            {
-              "date": "2022-02-24",
-              "amount": 1050,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "DRIVE Committee",
-              "contributorCity": "Washington",
-              "contributorState": "DC",
-              "contributorZip": "20001"
             }
           ]
         },
