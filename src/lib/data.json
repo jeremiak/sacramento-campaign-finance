@@ -1,5 +1,5 @@
 {
-  "generated": "2022-11-10T00:20:28.173Z",
+  "generated": "2022-11-11T00:20:33.089Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -43878,7 +43878,7 @@
         {
           "spenderId": "1405176",
           "spenderName": "Californians for a Growing Economy and Safe Streets",
-          "position": "S",
+          "position": "O",
           "total": 66000
         }
       ]
