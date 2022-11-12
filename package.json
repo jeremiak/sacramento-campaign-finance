@@ -4,9 +4,9 @@
     "description": "Data and graphics about the money in Sacramento elections",
     "main": "index.js",
     "scripts": {
-        "dev": "svelte-kit dev",
-        "build": "NODE_OPTIONS=--max_old_space_size=4096 svelte-kit build",
-        "preview": "svelte-kit preview",
+        "dev": "vite dev --port 3000",
+        "build": "NODE_OPTIONS=--max_old_space_size=4096 vite build",
+        "preview": "vite preview",
         "lint": "prettier --ignore-path .gitignore  --check --plugin-search-dir=. . && eslint --ignore-path .gitignore .",
         "format": "prettier --ignore-path .gitignore --write --plugin-search-dir=. .",
         "test": "echo \"Error: no test specified\" && exit 1"
@@ -24,9 +24,8 @@
         "puppeteer": "^14.1.1"
     },
     "devDependencies": {
-        "@rollup/plugin-dsv": "^2.0.3",
         "@sveltejs/adapter-netlify": "^1.0.0-next.62",
-        "@sveltejs/kit": "^1.0.0-next.345",
+        "@sveltejs/kit": "next",
         "d3-dsv": "^3.0.1",
         "eslint": "^8.16.0",
         "eslint-config-prettier": "^8.5.0",
@@ -37,7 +36,8 @@
         "prisma": "^3.14.0",
         "sass": "^1.52.1",
         "svelte": "^3.48.0",
-        "svelte-preprocess": "^4.10.6"
+        "svelte-preprocess": "^4.10.6",
+        "vite": "^3.1.0"
     },
     "type": "module"
 }
