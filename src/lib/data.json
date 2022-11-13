@@ -1,5 +1,5 @@
 {
-  "generated": "2022-11-12T00:18:09.395Z",
+  "generated": "2022-11-13T00:18:23.093Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -7,6 +7,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "1",
+      "": "",
       "total": 59575,
       "contributors": [
         {
@@ -1504,6 +1505,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "1",
+      "": "",
       "total": 306904.69,
       "contributors": [
         {
@@ -7797,6 +7799,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "3",
+      "": "",
       "total": 304661.99,
       "contributors": [
         {
@@ -18014,6 +18017,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "3",
+      "": "",
       "total": 383451.76,
       "contributors": [
         {
@@ -28540,6 +28544,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "5",
+      "": "",
       "total": 122549,
       "contributors": [
         {
@@ -32715,6 +32720,7 @@
       "city/county": "City",
       "office": "City Council",
       "district": "5",
+      "": "",
       "total": 182125,
       "contributors": [
         {
@@ -35737,6 +35743,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
+      "": "",
       "total": 285516,
       "contributors": [
         {
@@ -43889,6 +43896,7 @@
       "city/county": "County",
       "office": "Board of Supervisors",
       "district": "5",
+      "": " ",
       "total": 661827.47,
       "contributors": [
         {
