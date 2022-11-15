@@ -1,12 +1,8 @@
 <script>
   import _ from "lodash";
-  import { onMount } from "svelte";
-  import { writable } from "svelte/store";
 
   export let data = []
   $: contributors = data
-
-  const contributorsShown = writable(false);
 
   function sortContributors(contributors) {
     return _.orderBy(contributors, ["total", "contributor"], ["desc", "asc"]);
@@ -22,17 +18,12 @@
     return sorted;
   }
 
-  onMount(() => {
-    $contributorsShown = 5
-  })
-
   $: processedContributors = processContributors(contributors)
 </script>
 
 <div class="contributors">
   <ul class="contributors">
     {#each processedContributors as contributor, i}
-      {#if !$contributorsShown || i < $contributorsShown}
         <li class="contributor">
           <div class="contributor-info">
             <div class="contributor-name">
@@ -46,29 +37,16 @@
             ${contributor.total.toLocaleString("en-US")}
           </div>
         </li>
-      {/if}
     {/each}
   </ul>
 
-  {#if $contributorsShown}
-    <div class="contributor-pagination">
-      <button
-        style:opacity={contributors.length > $contributorsShown
-          ? 1
-          : 0}
-        on:click={() => {
-          $contributorsShown += 15;
-        }}
-      >
-        Show more
-      </button>
-      <p>
-        Showing {Math.min($contributorsShown, contributors.length)} out of {contributors.length.toLocaleString(
-          "en-US"
-        )} contributors
-      </p>
-    </div>
-  {/if}
+  <div class="contributor-pagination">
+    <p>
+      {contributors.length.toLocaleString(
+        "en-US"
+      )} contributors
+    </p>
+  </div>
 </div>
 
 <style lang="scss">
@@ -99,13 +77,7 @@
   }
 
   .contributor-pagination {
-    align-items: center;
-    display: flex;
-    justify-content: space-between;
-
-    button {
-      display: block;
-    }
+    text-align: right;
 
     p {
       font-size: 0.9rem;

@@ -10,27 +10,22 @@ const downloadPath = path.join(__dirname, "../../tmp")
 
 export default async function downloadNetfile({ agencyId, year }) {
     const downloadPageUrl = `https://public.netfile.com/pub2/Default.aspx?aid=${agencyId}`
-    const browser = await puppeteer.launch({ headless: true, timeout: 60000 })
+    const browser = await puppeteer.launch({ headless: false, timeout: 60000 })
     const page = await browser.newPage()
 
     async function goto() {
         await page.goto(downloadPageUrl, { timeout: 60000 })
     }
 
-    try {
-        console.log('b', agencyId)
-        await goto()
-    } catch (e) {
-        console.error('up here', e)
-        await goto()
-    }
+    await goto()
 
     if (page.url() !== downloadPageUrl) {
-        console.log('bb')
         await page.goto(downloadPageUrl, { timeout: 60000 })
     }
 
-    await page._client.send("Page.setDownloadBehavior", {
+    const client = await page.target().createCDPSession()
+
+    await client.send("Page.setDownloadBehavior", {
         behavior: "allow",
         downloadPath,
     })

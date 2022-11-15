@@ -1,11 +1,11 @@
 import Queue from 'p-queue'
-
+import { PrismaClient } from "@prisma/client"
 import exec from '../exec.js'
-
 import download from "./download.js"
 import extract from "./extract.js"
 import load from "./load.js"
 
+const prisma = new PrismaClient()
 async function main({ agencyName, agencyId, year }) {
     const opts = { agencyName, agencyId, year }
 
@@ -39,7 +39,6 @@ async function main({ agencyName, agencyId, year }) {
     return
 }
 
-
 const queue = new Queue({ concurrency: 1 })
 const sitesToScrape = [{
         entity: "Sacramento City",
@@ -55,6 +54,32 @@ const startTime = new Date()
 console.log(`Starting at ${startTime}`)
 
 const year = "2022"
+console.log(`First step is to remove any records from ${year}`)
+const models = [
+    'scheduleAContribution',
+    'scheduleCContribution',
+    'scheduleEPayment',
+    'lateContribution',
+    'independentExpenditure',
+]
+let totalDeleted = 0
+const thisYearToDeleteQueue = new Queue({ concurrency: 1 })
+models.forEach(model => {
+    thisYearToDeleteQueue.add(async() => {
+        const match = await prisma[model].deleteMany({
+            where: {
+                reportFromDate: {
+                    contains: year
+                }
+            }
+        })
+        if (!match) return
+        totalDeleted += match.count
+    })
+})
+await thisYearToDeleteQueue.onIdle()
+console.log(`Deleted ${totalDeleted} records from ${year}`)
+
 sitesToScrape.forEach((site) => {
     const { entity: agencyName, vendorId: agencyId } = site
     queue.add(async() => {
