@@ -106,30 +106,45 @@ export async function load({ params }) {
                 committees: ['1396270', '1380886', '1388020', '1426136', '1237420']
             },
             {
-                name: 'Angelique Ashby',
+                name: 'Lisa Kaplin',
                 title: 'City Council, District 1',
-                committees: ['1317954', '1328332', '1368431', '1413885', '1380792']
+                committees: ['1442529']
             },
+            // {
+            //     name: 'Angelique Ashby',
+            //     title: 'City Council, District 1',
+            //     committees: ['1317954', '1328332', '1368431', '1413885', '1380792']
+            // },
             {
                 name: 'Sean Loloee',
                 title: 'City Council, District 2',
                 committees: ['1419806', '1441736']
             },
             {
-                name: 'Jeff Harris',
+                name: 'Karina Talamantes',
                 title: 'City Council, District 3',
-                committees: ['1360063', '1381344', '1422765']
+                committees: ['1443537']
             },
+            // {
+            //     name: 'Jeff Harris',
+            //     title: 'City Council, District 3',
+            //     committees: ['1360063', '1381344', '1422765']
+            // },
             {
                 name: 'Katie Valenzuela',
                 title: 'City Council, District 4',
                 committees: ['1416339', '1426389']
             },
             {
-                name: 'Jay Schenirer',
+                name: 'Caity Maple',
                 title: 'City Council, District 5',
-                committees: ['1377848', '1317587', '1336600', '1367864']
+                committees: ['1435034']
             },
+            // {
+            //     name: 'Jay Schenirer',
+            //     title: 'City Council, District 5',
+            //     committees: ['1377848', '1317587', '1336600', '1367864']
+            // },
             {
                 name: 'Eric Guerra',
                 title: 'City Council, District 6',

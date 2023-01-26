@@ -40,13 +40,13 @@
     {/each}
   </ul>
 
-  <div class="contributor-pagination">
+  <!-- <div class="contributor-pagination">
     <p>
       {contributors.length.toLocaleString(
         "en-US"
       )} contributors
     </p>
-  </div>
+  </div> -->
 </div>
 
 <style lang="scss">
