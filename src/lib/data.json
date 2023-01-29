@@ -1,5 +1,5 @@
 {
-  "generated": "2023-01-28T00:16:42.064Z",
+  "generated": "2023-01-29T00:17:22.800Z",
   "committees": [
     {
       "fppc id": "1443111",
@@ -56555,17 +56555,27 @@
       "city/county": "County",
       "measure": "A",
       "position": "Support",
-      "total": 3135059.52,
+      "total": 3228090.11,
       "contributors": [
         {
           "contributor": "California Alliance for Jobs - Rebuild California Committee",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
-          "total": 1000000,
+          "total": 1083030.5899999999,
           "contributions": [
             {
               "date": "2022-10-07",
               "amount": 500000,
+              "contributorCommitteeId": "1241892",
+              "contributorFirstName": "",
+              "contributorLastName": "California Alliance for Jobs - Rebuild California Committee",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            },
+            {
+              "date": "2022-12-21",
+              "amount": 83030.59,
               "contributorCommitteeId": "1241892",
               "contributorFirstName": "",
               "contributorLastName": "California Alliance for Jobs - Rebuild California Committee",
@@ -56698,14 +56708,42 @@
           ]
         },
         {
+          "contributor": "Members' Voice of the State Building and Construction Trades Council of California",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 100000,
+          "contributions": [
+            {
+              "date": "2022-10-28",
+              "amount": 25000,
+              "contributorCommitteeId": "980162",
+              "contributorFirstName": "",
+              "contributorLastName": "Members' Voice of the State Building and Construction Trades Council of California",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            },
+            {
+              "date": "2022-11-03",
+              "amount": 75000,
+              "contributorCommitteeId": "980162",
+              "contributorFirstName": "",
+              "contributorLastName": "Members' Voice of the State Building and Construction Trades Council of California",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
+            }
+          ]
+        },
+        {
           "contributor": "Northern California Carpenters Regional Council Issues PAC",
           "contributorCity": "Oakland",
           "contributorState": "CA",
           "total": 100000,
           "contributions": [
             {
-              "date": "2022-08-23",
-              "amount": 75000,
+              "date": "2022-11-04",
+              "amount": 25000,
               "contributorCommitteeId": "1219354",
               "contributorFirstName": "",
               "contributorLastName": "Northern California Carpenters Regional Council Issues PAC",
@@ -56714,8 +56752,8 @@
               "contributorZip": "94621"
             },
             {
-              "date": "2022-11-04",
-              "amount": 25000,
+              "date": "2022-08-23",
+              "amount": 75000,
               "contributorCommitteeId": "1219354",
               "contributorFirstName": "",
               "contributorLastName": "Northern California Carpenters Regional Council Issues PAC",
@@ -56776,34 +56814,6 @@
               "contributorCity": "Watsonville",
               "contributorState": "CA",
               "contributorZip": "95076"
-            }
-          ]
-        },
-        {
-          "contributor": "Members' Voice of the State Building and Construction Trades Council of California",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 100000,
-          "contributions": [
-            {
-              "date": "2022-10-28",
-              "amount": 25000,
-              "contributorCommitteeId": "980162",
-              "contributorFirstName": "",
-              "contributorLastName": "Members' Voice of the State Building and Construction Trades Council of California",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95814"
-            },
-            {
-              "date": "2022-11-03",
-              "amount": 75000,
-              "contributorCommitteeId": "980162",
-              "contributorFirstName": "",
-              "contributorLastName": "Members' Voice of the State Building and Construction Trades Council of California",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95814"
             }
           ]
         },
@@ -56922,34 +56932,6 @@
           ]
         },
         {
-          "contributor": "Goodfellow Brothers LLC(Brian Gates)",
-          "contributorCity": "Livermore",
-          "contributorState": "CA",
-          "total": 50000,
-          "contributions": [
-            {
-              "date": "2022-10-19",
-              "amount": 25000,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "Goodfellow Brothers LLC(Brian Gates)",
-              "contributorCity": "Livermore",
-              "contributorState": "CA",
-              "contributorZip": "94551"
-            },
-            {
-              "date": "2022-10-25",
-              "amount": 25000,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "Goodfellow Brothers LLC(Brian Gates)",
-              "contributorCity": "Livermore",
-              "contributorState": "CA",
-              "contributorZip": "94551"
-            }
-          ]
-        },
-        {
           "contributor": "Buzz Oates LLC, Including Larry Allbaugh and Affiliated Entities",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -56974,6 +56956,42 @@
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95814"
+            }
+          ]
+        },
+        {
+          "contributor": "California Conference Board, Amalgamated Transit Union Issues Committee",
+          "contributorCity": "Campbell",
+          "contributorState": "CA",
+          "total": 50000,
+          "contributions": [
+            {
+              "date": "2022-10-25",
+              "amount": 50000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "California Conference Board, Amalgamated Transit Union Issues Committee",
+              "contributorCity": "Campbell",
+              "contributorState": "CA",
+              "contributorZip": "95008"
+            }
+          ]
+        },
+        {
+          "contributor": "Siemens, Inc.",
+          "contributorCity": "Washington",
+          "contributorState": "DC",
+          "total": 50000,
+          "contributions": [
+            {
+              "date": "2022-10-26",
+              "amount": 50000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Siemens, Inc.",
+              "contributorCity": "Washington",
+              "contributorState": "DC",
+              "contributorZip": "20001"
             }
           ]
         },
@@ -57032,38 +57050,30 @@
           ]
         },
         {
-          "contributor": "California Conference Board, Amalgamated Transit Union Issues Committee",
-          "contributorCity": "Campbell",
+          "contributor": "Sutter Health",
+          "contributorCity": "Sacramento",
           "contributorState": "CA",
-          "total": 50000,
+          "total": 40000,
           "contributions": [
             {
-              "date": "2022-10-25",
-              "amount": 50000,
+              "date": "2022-11-01",
+              "amount": 20000,
               "contributorCommitteeId": "",
               "contributorFirstName": "",
-              "contributorLastName": "California Conference Board, Amalgamated Transit Union Issues Committee",
-              "contributorCity": "Campbell",
+              "contributorLastName": "Sutter Health",
+              "contributorCity": "Sacramento",
               "contributorState": "CA",
-              "contributorZip": "95008"
-            }
-          ]
-        },
-        {
-          "contributor": "Siemens, Inc.",
-          "contributorCity": "Washington",
-          "contributorState": "DC",
-          "total": 50000,
-          "contributions": [
+              "contributorZip": "95833"
+            },
             {
-              "date": "2022-10-26",
-              "amount": 50000,
+              "date": "2022-11-10",
+              "amount": 20000,
               "contributorCommitteeId": "",
               "contributorFirstName": "",
-              "contributorLastName": "Siemens, Inc.",
-              "contributorCity": "Washington",
-              "contributorState": "DC",
-              "contributorZip": "20001"
+              "contributorLastName": "Sutter Health",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95833"
             }
           ]
         },
@@ -57082,6 +57092,80 @@
               "contributorCity": "San Ramon",
               "contributorState": "CA",
               "contributorZip": "94583"
+            }
+          ]
+        },
+        {
+          "contributor": "Goodfellow Brothers LLC(Brian Gates)",
+          "contributorCity": "Livermore",
+          "contributorState": "CA",
+          "total": 25000,
+          "contributions": [
+            {
+              "date": "2022-10-19",
+              "amount": 25000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Goodfellow Brothers LLC(Brian Gates)",
+              "contributorCity": "Livermore",
+              "contributorState": "CA",
+              "contributorZip": "94551"
+            },
+            {
+              "date": "2022-10-25",
+              "amount": 25000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Goodfellow Brothers LLC(Brian Gates)",
+              "contributorCity": "Livermore",
+              "contributorState": "CA",
+              "contributorZip": "94551"
+            },
+            {
+              "date": "2022-11-14",
+              "amount": -25000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Goodfellow Brothers LLC(Brian Gates)",
+              "contributorCity": "Livermore",
+              "contributorState": "CA",
+              "contributorZip": "94551"
+            }
+          ]
+        },
+        {
+          "contributor": "Bay Cities Paving & Grading, Inc.",
+          "contributorCity": "Concord",
+          "contributorState": "CA",
+          "total": 25000,
+          "contributions": [
+            {
+              "date": "2022-10-26",
+              "amount": 25000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Bay Cities Paving & Grading, Inc.",
+              "contributorCity": "Concord",
+              "contributorState": "CA",
+              "contributorZip": "94520"
+            }
+          ]
+        },
+        {
+          "contributor": "FBD Vanguard Construction Inc.",
+          "contributorCity": "Livermore",
+          "contributorState": "CA",
+          "total": 25000,
+          "contributions": [
+            {
+              "date": "2022-10-27",
+              "amount": 25000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "FBD Vanguard Construction Inc.",
+              "contributorCity": "Livermore",
+              "contributorState": "CA",
+              "contributorZip": "94550"
             }
           ]
         },
@@ -57136,42 +57220,6 @@
               "contributorCity": "West Sacramento",
               "contributorState": "CA",
               "contributorZip": "95691"
-            }
-          ]
-        },
-        {
-          "contributor": "Bay Cities Paving & Grading, Inc.",
-          "contributorCity": "Concord",
-          "contributorState": "CA",
-          "total": 25000,
-          "contributions": [
-            {
-              "date": "2022-10-26",
-              "amount": 25000,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "Bay Cities Paving & Grading, Inc.",
-              "contributorCity": "Concord",
-              "contributorState": "CA",
-              "contributorZip": "94520"
-            }
-          ]
-        },
-        {
-          "contributor": "FBD Vanguard Construction Inc.",
-          "contributorCity": "Livermore",
-          "contributorState": "CA",
-          "total": 25000,
-          "contributions": [
-            {
-              "date": "2022-10-27",
-              "amount": 25000,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "FBD Vanguard Construction Inc.",
-              "contributorCity": "Livermore",
-              "contributorState": "CA",
-              "contributorZip": "94550"
             }
           ]
         },
@@ -57266,24 +57314,6 @@
           ]
         },
         {
-          "contributor": "Sutter Health",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 20000,
-          "contributions": [
-            {
-              "date": "2022-11-01",
-              "amount": 20000,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "Sutter Health",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95833"
-            }
-          ]
-        },
-        {
           "contributor": "Murraysmith, Inc.",
           "contributorCity": "Portland",
           "contributorState": "CA",
@@ -57320,6 +57350,24 @@
           ]
         },
         {
+          "contributor": "Chevron",
+          "contributorCity": "San Ramon",
+          "contributorState": "CA",
+          "total": 15000,
+          "contributions": [
+            {
+              "date": "2022-12-14",
+              "amount": 15000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Chevron",
+              "contributorCity": "San Ramon",
+              "contributorState": "CA",
+              "contributorZip": "94583"
+            }
+          ]
+        },
+        {
           "contributor": "PSOMAS",
           "contributorCity": "Roseville",
           "contributorState": "CA",
@@ -57334,6 +57382,42 @@
               "contributorCity": "Roseville",
               "contributorState": "CA",
               "contributorZip": "95678"
+            }
+          ]
+        },
+        {
+          "contributor": "Pacific Coast Companies, Inc.",
+          "contributorCity": "Rancho Cordova",
+          "contributorState": "CA",
+          "total": 10000,
+          "contributions": [
+            {
+              "date": "2022-10-24",
+              "amount": 10000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Pacific Coast Companies, Inc.",
+              "contributorCity": "Rancho Cordova",
+              "contributorState": "CA",
+              "contributorZip": "95670"
+            }
+          ]
+        },
+        {
+          "contributor": "Professional Engineers in California Government PECG PAC",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 10000,
+          "contributions": [
+            {
+              "date": "2022-10-28",
+              "amount": 10000,
+              "contributorCommitteeId": "822501",
+              "contributorFirstName": "",
+              "contributorLastName": "Professional Engineers in California Government PECG PAC",
+              "contributorCity": "Sacramento",
+              "contributorState": "CA",
+              "contributorZip": "95814"
             }
           ]
         },
@@ -57385,42 +57469,6 @@
               "contributorCommitteeId": "",
               "contributorFirstName": "",
               "contributorLastName": "Greater Sacramento Area Economic Council",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95814"
-            }
-          ]
-        },
-        {
-          "contributor": "Pacific Coast Companies, Inc.",
-          "contributorCity": "Rancho Cordova",
-          "contributorState": "CA",
-          "total": 10000,
-          "contributions": [
-            {
-              "date": "2022-10-24",
-              "amount": 10000,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "Pacific Coast Companies, Inc.",
-              "contributorCity": "Rancho Cordova",
-              "contributorState": "CA",
-              "contributorZip": "95670"
-            }
-          ]
-        },
-        {
-          "contributor": "Professional Engineers in California Government",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 10000,
-          "contributions": [
-            {
-              "date": "2022-10-28",
-              "amount": 10000,
-              "contributorCommitteeId": "822501",
-              "contributorFirstName": "",
-              "contributorLastName": "Professional Engineers in California Government",
               "contributorCity": "Sacramento",
               "contributorState": "CA",
               "contributorZip": "95814"
@@ -57816,7 +57864,7 @@
       "city/county": "City",
       "measure": "L",
       "position": "Support",
-      "total": 253500,
+      "total": 278500,
       "contributors": [
         {
           "contributor": "Children's Funding Accelerator, Inc. 501(C)(4)",
@@ -57825,8 +57873,8 @@
           "total": 40000,
           "contributions": [
             {
-              "date": "2022-10-04",
-              "amount": 25000,
+              "date": "2022-10-31",
+              "amount": 15000,
               "contributorCommitteeId": "1454078",
               "contributorFirstName": "",
               "contributorLastName": "Children's Funding Accelerator, Inc. 501(C)(4)",
@@ -57835,8 +57883,8 @@
               "contributorZip": "20037"
             },
             {
-              "date": "2022-10-31",
-              "amount": 15000,
+              "date": "2022-10-04",
+              "amount": 25000,
               "contributorCommitteeId": "1454078",
               "contributorFirstName": "",
               "contributorLastName": "Children's Funding Accelerator, Inc. 501(C)(4)",
@@ -57865,6 +57913,42 @@
           ]
         },
         {
+          "contributor": "Sutter Health",
+          "contributorCity": "Roseville",
+          "contributorState": "CA",
+          "total": 25000,
+          "contributions": [
+            {
+              "date": "2022-11-04",
+              "amount": 25000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Sutter Health",
+              "contributorCity": "Roseville",
+              "contributorState": "CA",
+              "contributorZip": "95661"
+            }
+          ]
+        },
+        {
+          "contributor": "Kaiser Foundation Health Plan, Inc. and Hospitals",
+          "contributorCity": "Oakland",
+          "contributorState": "CA",
+          "total": 25000,
+          "contributions": [
+            {
+              "date": "2022-11-30",
+              "amount": 25000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "",
+              "contributorLastName": "Kaiser Foundation Health Plan, Inc. and Hospitals",
+              "contributorCity": "Oakland",
+              "contributorState": "CA",
+              "contributorZip": "94612"
+            }
+          ]
+        },
+        {
           "contributor": "Sacramento Area Fire Fighters Local 522 Issues PAC",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -57883,20 +57967,38 @@
           ]
         },
         {
-          "contributor": "Sutter Health",
-          "contributorCity": "Roseville",
+          "contributor": "Elizabeth Simons",
+          "contributorCity": "Atherton",
           "contributorState": "CA",
-          "total": 25000,
+          "total": 20000,
+          "contributions": [
+            {
+              "date": "2022-10-25",
+              "amount": 20000,
+              "contributorCommitteeId": "",
+              "contributorFirstName": "Elizabeth",
+              "contributorLastName": "Simons",
+              "contributorCity": "Atherton",
+              "contributorState": "CA",
+              "contributorZip": "94027"
+            }
+          ]
+        },
+        {
+          "contributor": "Sierra Health Foundation",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "total": 20000,
           "contributions": [
             {
               "date": "2022-11-04",
-              "amount": 25000,
+              "amount": 20000,
               "contributorCommitteeId": "",
               "contributorFirstName": "",
-              "contributorLastName": "Sutter Health",
-              "contributorCity": "Roseville",
+              "contributorLastName": "Sierra Health Foundation",
+              "contributorCity": "Sacramento",
               "contributorState": "CA",
-              "contributorZip": "95661"
+              "contributorZip": "95833"
             }
           ]
         },
@@ -57939,38 +58041,20 @@
           ]
         },
         {
-          "contributor": "Elizabeth Simons",
-          "contributorCity": "Atherton",
-          "contributorState": "CA",
-          "total": 20000,
-          "contributions": [
-            {
-              "date": "2022-10-25",
-              "amount": 20000,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "Elizabeth",
-              "contributorLastName": "Simons",
-              "contributorCity": "Atherton",
-              "contributorState": "CA",
-              "contributorZip": "94027"
-            }
-          ]
-        },
-        {
-          "contributor": "Sierra Health Foundation",
+          "contributor": "Plumbers & Pipefitters Local 447",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
-          "total": 20000,
+          "total": 15000,
           "contributions": [
             {
-              "date": "2022-11-04",
-              "amount": 20000,
+              "date": "2022-11-01",
+              "amount": 15000,
               "contributorCommitteeId": "",
               "contributorFirstName": "",
-              "contributorLastName": "Sierra Health Foundation",
+              "contributorLastName": "Plumbers & Pipefitters Local 447",
               "contributorCity": "Sacramento",
               "contributorState": "CA",
-              "contributorZip": "95833"
+              "contributorZip": "95819"
             }
           ]
         },
@@ -57989,24 +58073,6 @@
               "contributorCity": "Los Angeles",
               "contributorState": "CA",
               "contributorZip": "90015"
-            }
-          ]
-        },
-        {
-          "contributor": "Plumbers & Pipefitters Local 447",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "total": 15000,
-          "contributions": [
-            {
-              "date": "2022-11-01",
-              "amount": 15000,
-              "contributorCommitteeId": "",
-              "contributorFirstName": "",
-              "contributorLastName": "Plumbers & Pipefitters Local 447",
-              "contributorCity": "Sacramento",
-              "contributorState": "CA",
-              "contributorZip": "95819"
             }
           ]
         },
