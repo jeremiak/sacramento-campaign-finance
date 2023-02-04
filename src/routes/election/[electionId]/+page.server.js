@@ -1,4 +1,4 @@
-import d3 from 'd3-dsv'
+import * as d3 from 'd3-dsv'
 import { PrismaClient } from '@prisma/client'
 
 const prisma = new PrismaClient()
@@ -165,7 +165,12 @@ export async function load({ params }) {
         committee.total = committee.contributors.reduce((accum, next) => {
             return accum + next.total
         }, 0)
-        committee.ie = ies.filter(d => d.candidateLastName === committee['name']).map(d => {
+
+        function filterMatchCandidateName(d) {
+            return d.candidateLastName === committee['name']
+        }
+
+        function transformCandidateCommittee(d) {
             const { amount, date, description, position, candidateLastName: candidate } = d
             const { name: spenderName, id: spenderId } = d.filer
 
@@ -178,7 +183,9 @@ export async function load({ params }) {
                 position,
                 description,
             }
-        }).reduce((accum, next) => {
+        }
+
+        function aggregateContributors(accum, next) {
             const {
                 spenderName,
                 spenderId,
@@ -199,67 +206,76 @@ export async function load({ params }) {
             }
 
             return accum
-        }, [])
+        }
+
+        committee.ie = ies.filter(filterMatchCandidateName)
+            .map(transformCandidateCommittee)
+            .reduce(aggregateContributors, [])
 
         races[raceKey].push(committee);
     });
 
     await Promise.all(queryPromises)
 
-    const array = [];
-    Object.keys(races).forEach((raceKey) => {
-        const committees = races[raceKey];
-        const race = {
-            race: raceKey,
-            committees,
-        };
+    function groupByRace(r) {
+        const array = [];
+        Object.keys(r).forEach((raceKey) => {
+            const committees = races[raceKey];
+            const race = {
+                race: raceKey,
+                committees,
+            };
 
-        if (raceKey.includes("Measure")) {
-            const supporters = committees.filter((d) => {
-                return d.Position === "Support" && createRaceKey(d) === raceKey
-            });
-            const opponents = committees.filter((d) => {
-                return d.Position === "Oppose" && createRaceKey(d) === raceKey
-            });
+            if (raceKey.includes("Measure")) {
+                const supporters = committees.filter((d) => {
+                    return d.Position === "Support" && createRaceKey(d) === raceKey
+                });
+                const opponents = committees.filter((d) => {
+                    return d.Position === "Oppose" && createRaceKey(d) === raceKey
+                });
 
-            race.committees = [{
-                    "FPPC ID": "",
-                    Name: "Support",
-                    total: supporters.reduce((accum, next) => accum + next.total, 0),
-                    contributors: supporters
-                        .map((d) => d.contributors)
-                        .flat()
-                        .sort((a, b) => b.amount - a.amount),
-                    ie: supporters.map((d) => d.ie).flat(),
-                },
-                {
-                    "FPPC ID": "",
-                    Name: "Oppose",
-                    total: opponents.reduce((accum, next) => accum + next.total, 0),
-                    contributors: opponents
-                        .map((d) => d.contributors)
-                        .flat()
-                        .sort((a, b) => b.amount - a.amount),
-                    ie: opponents.map((d) => d.ie).flat(),
-                },
-            ];
-        }
+                race.committees = [{
+                        "FPPC ID": "",
+                        Name: "Support",
+                        total: supporters.reduce((accum, next) => accum + next.total, 0),
+                        contributors: supporters
+                            .map((d) => d.contributors)
+                            .flat()
+                            .sort((a, b) => b.amount - a.amount),
+                        ie: supporters.map((d) => d.ie).flat(),
+                    },
+                    {
+                        "FPPC ID": "",
+                        Name: "Oppose",
+                        total: opponents.reduce((accum, next) => accum + next.total, 0),
+                        contributors: opponents
+                            .map((d) => d.contributors)
+                            .flat()
+                            .sort((a, b) => b.amount - a.amount),
+                        ie: opponents.map((d) => d.ie).flat(),
+                    },
+                ];
+            }
 
-        array.push(race);
-    });
+            array.push(race);
+        });
 
-    const sortedRaces = array.sort((a, b) => {
-        if (a.race > b.race) return 1
-        if (a.race < b.race) return -1
-        return 0
-    })
+        const sortedRaces = array.sort((a, b) => {
+            if (a.race > b.race) return 1
+            if (a.race < b.race) return -1
+            return 0
+        })
+
+        return sortedRaces
+    }
+
+    const groupedRaces = groupByRace(races)
 
     const { createdAt: firstFilerCreatedAt } = await prisma.filer.findFirst()
 
-
     return {
         dateGeneratedAt: formatGeneratedAt(firstFilerCreatedAt),
-        races: sortedRaces,
+        races: groupedRaces,
     };
 }
 
