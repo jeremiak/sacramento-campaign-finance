@@ -20,6 +20,13 @@ const config = {
     // enable SCSS
     preprocess: preprocess(),
 
+    prerender: {
+        entries: [
+            '/body/sac-city',
+            '/election/2022-11-08'
+        ]
+    }
+
 };
 
 export default config;
