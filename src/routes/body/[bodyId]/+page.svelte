@@ -19,9 +19,9 @@
 
 <div>
   <h1>{name}</h1>
-  <p>The {legislators.length} members of the {name} have raised a total of {formatDollar(total)}.</p>
-  <p>Below is each elected representative and all of the people and organizations who have given them campaign contributions during their time at City Hall.</p>
-  <p>The data was retrieved on {formatGenerated(generated)}.</p>
+  <p>The {legislators.length} members of the {name} have raised {formatDollar(total)}.</p>
+  <p>Below is each elected representative and all of the people and organizations who have given them campaign contributions during their time in local elected office.</p>
+  <p>The data was retrieved on {formatGenerated(generated)}. Download it <a href="/body/{bodyId}/download" download="{bodyId}-{generated}.csv">here</a>.</p>
   {#if bodyId === 'sac-city'}
     <div class="sac-mayor-container">
       <Legislator {...legislators.find(d => d.title === 'Mayor')} />
