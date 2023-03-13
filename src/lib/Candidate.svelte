@@ -8,7 +8,7 @@
 </script>
 
 <div class="candidate">
-  <div class="candidate-name">{candidate.name}</div>
+  <div class="candidate-name">{candidate.Name}</div>
   {#if candidate.total > 0}
   <div class="candidate-stats">
     <p>
