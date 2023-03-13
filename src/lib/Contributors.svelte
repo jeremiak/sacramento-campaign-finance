@@ -1,21 +1,23 @@
 <script>
-  import _ from "lodash";
+  import { orderBy } from "lodash";
 
   export let data = []
   $: contributors = data
 
-  function sortContributors(contributors) {
-    return _.orderBy(contributors, ["total", "contributor"], ["desc", "asc"]);
-  }
-
   function filterOutZeros(contributors) {
-    return contributors.filter((d) => d.total !== 0);
+    return contributors.filter((d) => d.amount !== 0);
   }
 
   function processContributors(contributors) {
     const filtered = filterOutZeros(contributors)
-    const sorted = sortContributors(filtered)
+    const sorted = orderBy(filtered, ['amount', 'contributorLastName'], ['desc', 'asc'])
     return sorted;
+  }
+
+  function getContributorName(contributor) {
+    const { contributorFirstName, contributorLastName } = contributor
+    const contributorName = contributorFirstName === '' ? contributorLastName : `${contributorFirstName} ${contributorLastName}`
+    return contributorName
   }
 
   $: processedContributors = processContributors(contributors)
@@ -27,14 +29,14 @@
         <li class="contributor">
           <div class="contributor-info">
             <div class="contributor-name">
-              {contributor.contributor}
+              {getContributorName(contributor)}
             </div>
             <div class="contributor-location">
               {contributor.contributorCity}, {contributor.contributorState}
             </div>
           </div>
           <div class="contributor-amount monospace">
-            ${contributor.total.toLocaleString("en-US")}
+            ${contributor.amount.toLocaleString("en-US")}
           </div>
         </li>
     {/each}

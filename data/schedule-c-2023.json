@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1454594-SCO-0-2023-02-02-PAY137",
+    "year": "2023",
+    "agencyName": "Sacramento County",
+    "agencyId": "SCO",
+    "fppcId": "1454594",
+    "transactionId": "PAY137",
+    "filerName": "Committee to Elect Martin Ross Trustee 2022",
+    "committeeType": "CTL",
+    "date": "2023-01-30",
+    "amount": 1500,
+    "description": "Bill Forgiven",
+    "contributorType": "individual",
+    "contributorLastName": "Ross",
+    "contributorFirstName": "Martin",
+    "contributorAddress1": "",
+    "contributorAddress2": "",
+    "contributorCity": "Carmichael",
+    "contributorState": "CA",
+    "contributorZip": "95608",
+    "contributorOccupation": "Candidate",
+    "contributorEmployer": "Candidate",
+    "contributorSelfEmployed": false,
+    "contributorCommitteeId": "",
+    "reportNumber": 0,
+    "reportDate": "2023-02-02",
+    "reportFromDate": "2022-12-31",
+    "reportThruDate": "2023-01-30"
+  }
+]

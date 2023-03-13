@@ -7,7 +7,7 @@
   export let contributors = [];
   export let committees = [];
 
-  $: total = sum(contributors, (d) => d.total);
+  $: total = sum(contributors, (d) => d.amount);
 </script>
 
 <div class="legislator">

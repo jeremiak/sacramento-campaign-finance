@@ -1,55 +1,29 @@
-// This is your Prisma schema file,
-// learn more about it in the docs: https://pris.ly/d/prisma-schema
+generator client {
+  provider = "prisma-client-js"
+}
 
 datasource db {
   provider = "sqlite"
   url      = "file:data.db"
 }
 
-generator client {
-  provider = "prisma-client-js"
-}
-
-model MunicipalAgency {
-  id                     String                  @id @default(uuid())
-  createdAt DateTime @default(now())
-  name                   String?
-  stringId               String
-  url                    String?
-  filers                 Filer[]
-  scheduleAContributions ScheduleAContribution[]
-  scheduleCContribution  ScheduleCContribution[]
-  scheduleEPayment       ScheduleEPayment[]
-  lateContributions       LateContribution[]
-  independentExpenditures IndependentExpenditure[]
-}
-
-model Filer {
-  id                     String                  @id @default(uuid())
-  createdAt DateTime @default(now())
-  name                   String
-  committeeType          String?
-  agencies               MunicipalAgency[]
-  scheduleAContributions ScheduleAContribution[]
-  scheduleCContributions  ScheduleCContribution[]
-  scheduleEPayments       ScheduleEPayment[]
-  lateContributions       LateContribution[]
-  independentExpenditures IndependentExpenditure[]
-}
-
-model ScheduleAContribution {
-  id        String   @id @default(uuid())
-  createdAt DateTime @default(now())
-
-  transactionId String?
-  date          String
-  amount        Float
-  description   String
-
-  contributorType         String
+/// The underlying table does not contain a valid unique identifier and can therefore currently not be handled by the Prisma Client.
+model ScheduleA {
+  id                      String @id
+  year                    String?
+  agencyName              String?
+  agencyId                String?
+  fppcId                  String?
+  filerName               String?
+  committeeType           String?
+  transactionId           String?
+  date                    String?
+  amount                  Int?
+  description             String?
+  contributorType         String?
   contributorCommitteeId  String?
-  contributorLastName     String
-  contributorFirstName    String
+  contributorLastName     String?
+  contributorFirstName    String?
   contributorAddress1     String?
   contributorAddress2     String?
   contributorCity         String?
@@ -57,33 +31,29 @@ model ScheduleAContribution {
   contributorZip          String?
   contributorOccupation   String?
   contributorEmployer     String?
-  contributorSelfEmployed Boolean?
-
-  reportNumber   Int?
-  reportDate     String?
-  reportFromDate String?
-  reportThruDate String?
-
-  filer   Filer  @relation(fields: [filerId], references: [id])
-  filerId String
-
-  agency   MunicipalAgency @relation(fields: [agencyId], references: [id])
-  agencyId String
+  contributorSelfEmployed Int?
+  reportNumber            Int?
+  reportDate              String?
+  reportFromDate          String?
+  reportThruDate          String?
 }
 
-model ScheduleCContribution {
-  id            String @id @default(uuid())
-  createdAt DateTime @default(now())
-
-  transactionId String @unique
-  date        String
-  amount      Float
-  description String
-
-  contributorType         String
-  contributorCommitteeId  String?
-  contributorLastName     String
-  contributorFirstName    String
+/// The underlying table does not contain a valid unique identifier and can therefore currently not be handled by the Prisma Client.
+model ScheduleC {
+  id                      String @id
+  year                    String?
+  agencyName              String?
+  agencyId                String?
+  fppcId                  String?
+  transactionId           String?
+  filerName               String?
+  committeeType           String?
+  date                    String?
+  amount                  Float?
+  description             String?
+  contributorType         String?
+  contributorLastName     String?
+  contributorFirstName    String?
   contributorAddress1     String?
   contributorAddress2     String?
   contributorCity         String?
@@ -91,114 +61,10 @@ model ScheduleCContribution {
   contributorZip          String?
   contributorOccupation   String?
   contributorEmployer     String?
-  contributorSelfEmployed Boolean?
-
-  reportNumber   Int?
-  reportDate     String?
-  reportFromDate String?
-  reportThruDate String?
-
-  filer   Filer  @relation(fields: [filerId], references: [id])
-  filerId String
-
-  agency   MunicipalAgency @relation(fields: [agencyId], references: [id])
-  agencyId String
-}
-
-model ScheduleEPayment {
-  id            String @id @default(uuid())
-  createdAt DateTime @default(now())
-
-  transactionId String @unique
-  date        String
-  amount      Float
-  description String
-  code        String
-
-  payeeType         String
-  payeeLastName     String
-  payeeFirstName    String?
-  payeeAddress1     String?
-  payeeAddress2     String?
-  payeeCity         String?
-  payeeState        String?
-  payeeZip          String?
-  payeeCommitteeId  String?
-
-  reportNumber   Int?
-  reportDate     String?
-  reportFromDate String?
-  reportThruDate String?
-
-  filer   Filer  @relation(fields: [filerId], references: [id])
-  filerId String
-
-  agency   MunicipalAgency @relation(fields: [agencyId], references: [id])
-  agencyId String
-}
-
-model LateContribution {
-  id        String   @id @default(uuid())
-  createdAt DateTime @default(now())
-
-  transactionId String?
-  date          String
-  amount        Float
-
-  contributorType         String
+  contributorSelfEmployed Int?
   contributorCommitteeId  String?
-  contributorLastName     String
-  contributorFirstName    String
-  contributorAddress1     String?
-  contributorAddress2     String?
-  contributorCity         String?
-  contributorState        String?
-  contributorZip          String?
-  contributorOccupation   String?
-  contributorEmployer     String?
-  contributorSelfEmployed Boolean?
-
-  reportNumber   Int?
-  reportDate     String?
-  reportFromDate String?
-  reportThruDate String?
-
-  filer   Filer  @relation(fields: [filerId], references: [id])
-  filerId String
-
-  agency   MunicipalAgency @relation(fields: [agencyId], references: [id])
-  agencyId String
-}
-
-model IndependentExpenditure {
-  id            String @id @default(uuid())
-  createdAt DateTime @default(now())
-
-  transactionId String @unique
-  date        String
-  amount      Float
-  description String?
-
-  position  String
-  ballotMeasureName String?
-  ballotMeasureNumber String?
-  candidateFirstName String?
-  candidateLastName String?
-
-  officeCode String?
-  officeDescription String?
-  jurisdiction  String?
-  district  String?
-
-  reportNumber   Int?
-  reportIdNumber  String?
-  reportDate     String?
-  reportFromDate String?
-  reportThruDate String?
-
-  filer   Filer  @relation(fields: [filerId], references: [id])
-  filerId String
-
-  agency   MunicipalAgency @relation(fields: [agencyId], references: [id])
-  agencyId String
+  reportNumber            Int?
+  reportDate              String?
+  reportFromDate          String?
+  reportThruDate          String?
 }
