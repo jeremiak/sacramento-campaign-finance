@@ -17,7 +17,7 @@
   }
 </script>
 
-<div>
+<div class="container">
   <h1>{name}</h1>
   <p>The {legislators.length} members of the {name} have raised {formatDollar(total)}.</p>
   <p>Below is each elected representative and all of the people and organizations who have given them campaign contributions during their time in local elected office.</p>
@@ -37,14 +37,13 @@
 </div>
 
 <style lang="scss">
+  .container {
+    max-width: 80%;
+    margin: 0 auto;
+  }
+  
   ul {
     list-style-type: none;
     padding-left: 0;
-  }
-
-  .sac-mayor-container,
-  li {
-    max-width: 80%;
-    margin: 0 auto;
   }
 </style>
