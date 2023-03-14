@@ -38,10 +38,28 @@
 
 <style lang="scss">
   .container {
-    max-width: 80%;
+    max-width: 90%;
     margin: 0 auto;
   }
+
+  @media screen and (min-width: 700px) {
+    .container {
+      max-width: 80%;
+    }
+  }
   
+  h1 {
+    font-size: 24px;
+    line-height: 28px;
+  }
+
+  @media screen and (min-width: 700px) {
+    h1 {
+      font-size: 40px;
+    line-height: 48px;
+    }
+  }
+
   ul {
     list-style-type: none;
     padding-left: 0;
