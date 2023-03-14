@@ -5,4 +5,4 @@ tmp
 .netlify
 build
 *.log
-.db
+*.db
