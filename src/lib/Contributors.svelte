@@ -5,7 +5,7 @@
   $: contributors = data
 
   function filterOutZeros(contributors) {
-    return contributors.filter((d) => d.amount !== 0);
+    return contributors.filter((d) => d.amount !== 0).filter((d) => d.amount > 0);
   }
 
   function processContributors(contributors) {
