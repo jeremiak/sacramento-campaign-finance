@@ -65,6 +65,7 @@ queue.onIdle().then(async() => {
     await exec(`rm -f ${databasePath}`)
     await load(databasePath)
     await aggregate('sac-city', { startTime })
+    await aggregate('sac-county', { startTime })
 
     const endTime = new Date()
     const durationMs = endTime - startTime
