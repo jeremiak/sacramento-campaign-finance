@@ -14,6 +14,8 @@
 
   if (bodyId === 'sac-city') {
     name = 'Sacramento City Council'
+  } else if (bodyId === 'sac-county') {
+    name = 'Sacramento Board of Supervisors'
   }
 </script>
 
