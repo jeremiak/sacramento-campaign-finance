@@ -1,31 +1,16 @@
 <script>
-  import { orderBy } from "lodash";
-
   export let data = []
-  $: contributors = data
-
-  function filterOutZeros(contributors) {
-    return contributors.filter((d) => d.amount !== 0).filter((d) => d.amount > 0);
-  }
-
-  function processContributors(contributors) {
-    const filtered = filterOutZeros(contributors)
-    const sorted = orderBy(filtered, ['amount', 'contributorLastName'], ['desc', 'asc'])
-    return sorted;
-  }
 
   function getContributorName(contributor) {
     const { contributorFirstName, contributorLastName } = contributor
     const contributorName = contributorFirstName === '' ? contributorLastName : `${contributorFirstName} ${contributorLastName}`
     return contributorName
   }
-
-  $: processedContributors = processContributors(contributors)
 </script>
 
 <div class="contributors">
   <ul class="contributors">
-    {#each processedContributors as contributor, i}
+    {#each data as contributor, i}
         <li class="contributor">
           <div class="contributor-info">
             <div class="contributor-name">

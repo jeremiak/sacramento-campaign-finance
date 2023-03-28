@@ -19,11 +19,11 @@
   }
 </script>
 
-<div class="container">
+<div>
   <h1>{name}</h1>
-  <p>The {legislators.length} members of the {name} have raised {formatDollar(total)}.</p>
+  <p>The {legislators.length} members of the {name} have reported fundraising {formatDollar(total)} in filings submitted to local officials.</p>
   <p>Below is each elected representative and all of the people and organizations who have given them campaign contributions during their time in local elected office.</p>
-  <p>The data was retrieved on {formatGenerated(generated)}. Download it <a href="/body/{bodyId}/download" download="{bodyId}-{generated}.csv">here</a>.</p>
+  <p>The data was retrieved on {formatGenerated(generated)}. Download it <a href="/body/{bodyId}/download.csv" download="{bodyId}-{generated}.csv">here</a>.</p>
   {#if bodyId === 'sac-city'}
     <div class="sac-mayor-container">
       <Legislator {...legislators.find(d => d.title === 'Mayor')} />
@@ -39,17 +39,6 @@
 </div>
 
 <style lang="scss">
-  .container {
-    max-width: 90%;
-    margin: 0 auto;
-  }
-
-  @media screen and (min-width: 700px) {
-    .container {
-      max-width: 80%;
-    }
-  }
-  
   h1 {
     font-size: 24px;
     line-height: 28px;
