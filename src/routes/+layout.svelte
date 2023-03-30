@@ -2,28 +2,19 @@
 	import '../app.css';
 </script>
 
-<main>
-	<slot />
-</main>
+<div>
+	<main>
+		<slot />
+	</main>
 
-<footer>
-	Made by <a href="https://www.jeremiak.com">Jeremia</a> in 2023
-</footer>
+	<footer>
+		Made by <a href="https://www.jeremiak.com">Jeremia</a> in 2023
+	</footer>
+</div>
 
 <style lang="scss">
-	nav {
-		align-items: center;
-		display: flex;
-		justify-content: space-around;
-		width: 100%;
-
-		a {
-			margin-right: 1rem;
-		}
-
-		h1 {
-			text-align: left;
-		}
+	div {
+		position: relative;
 	}
 	main {
     max-width: 90%;
@@ -36,11 +27,10 @@
     }
   }
 	footer {
-		bottom: 1rem;
+		bottom: 0;
 		font-size: 14px;
 		line-height: 18px;
 		margin-bottom: 1rem;
-		position: absolute;
 		text-align: center;
 		width: 100%;
 	}

@@ -13,9 +13,9 @@
   let name = ''
 
   if (bodyId === 'sac-city') {
-    name = 'Sacramento City Council'
+    name = 'City Council'
   } else if (bodyId === 'sac-county') {
-    name = 'Sacramento Board of Supervisors'
+    name = 'Board of Supervisors'
   }
 </script>
 

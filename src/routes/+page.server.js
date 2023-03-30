@@ -15,6 +15,7 @@ export function load() {
     const sacCountyTotal = totalInDataset(sacCounty.data)
 
     return {
+        generated: sacCity.generated,
         sacCityTotal,
         sacCountyTotal,
     }

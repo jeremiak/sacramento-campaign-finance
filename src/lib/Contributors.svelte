@@ -62,13 +62,4 @@
   .contributor-location {
     font-style: italic;
   }
-
-  .contributor-pagination {
-    text-align: right;
-
-    p {
-      font-size: 0.9rem;
-      font-style: italic;
-    }
-  }
 </style>
