@@ -1,5 +1,5 @@
 {
-  "generated": "2023-07-27T00:11:22.768Z",
+  "generated": "2023-08-01T00:14:04.209Z",
   "data": [
     {
       "name": "Lisa Kaplin",
@@ -46419,18 +46419,6 @@
         {
           "filerName": "Eric Guerra for City Council 2015",
           "fppcId": "1374232",
-          "contributorCommitteeId": "870122",
-          "contributorFirstName": "",
-          "contributorLastName": "Laborers Local 185 PAC Small Contributor Committee",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "contributorType": "small-contributor-committee",
-          "contributorZip": "95814",
-          "amount": 9500
-        },
-        {
-          "filerName": "Eric Guerra for City Council 2015",
-          "fppcId": "1374232",
           "contributorCommitteeId": "746138",
           "contributorFirstName": "",
           "contributorLastName": "Sacramento Area Fire Fighters Local 522",
@@ -46438,7 +46426,19 @@
           "contributorState": "CA",
           "contributorType": "committee",
           "contributorZip": "95814",
-          "amount": 8650
+          "amount": 10700
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2015",
+          "fppcId": "1374232",
+          "contributorCommitteeId": "870122",
+          "contributorFirstName": "",
+          "contributorLastName": "Laborers Local 185 PAC Small Contributor Committee",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "contributorType": "small-contributor-committee",
+          "contributorZip": "95814",
+          "amount": 9749
         },
         {
           "filerName": "Eric Guerra for City Council 2015",
@@ -46526,6 +46526,18 @@
         },
         {
           "filerName": "Eric Guerra for City Council 2016",
+          "fppcId": "1368754",
+          "contributorCommitteeId": "",
+          "contributorFirstName": "William",
+          "contributorLastName": "Lokke",
+          "contributorCity": "Livermore",
+          "contributorState": "CA",
+          "contributorType": "individual",
+          "contributorZip": "94550",
+          "amount": 4800
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2016",
           "fppcId": "1376768",
           "contributorCommitteeId": "",
           "contributorFirstName": "",
@@ -46534,7 +46546,7 @@
           "contributorState": "CA",
           "contributorType": "other",
           "contributorZip": "95864",
-          "amount": 4100
+          "amount": 4350
         },
         {
           "filerName": "Eric Guerra for City Council 2020",
@@ -46547,18 +46559,6 @@
           "contributorType": "committee",
           "contributorZip": "95833",
           "amount": 4000
-        },
-        {
-          "filerName": "Eric Guerra for City Council 2016",
-          "fppcId": "1368754",
-          "contributorCommitteeId": "",
-          "contributorFirstName": "William",
-          "contributorLastName": "Lokke",
-          "contributorCity": "Livermore",
-          "contributorState": "CA",
-          "contributorType": "individual",
-          "contributorZip": "94550",
-          "amount": 3800
         },
         {
           "filerName": "Eric Guerra for City Council 2015",
@@ -46756,6 +46756,18 @@
           "filerName": "Eric Guerra for City Council 2015",
           "fppcId": "1374232",
           "contributorCommitteeId": "",
+          "contributorFirstName": "Paula",
+          "contributorLastName": "Treat",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "contributorType": "individual",
+          "contributorZip": "95835",
+          "amount": 3000
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2015",
+          "fppcId": "1374232",
+          "contributorCommitteeId": "",
           "contributorFirstName": "",
           "contributorLastName": "Thomas Law Group",
           "contributorCity": "Sacramento",
@@ -46852,18 +46864,6 @@
           "filerName": "Eric Guerra for City Council 2015",
           "fppcId": "1374232",
           "contributorCommitteeId": "",
-          "contributorFirstName": "Paula",
-          "contributorLastName": "Treat",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "contributorType": "individual",
-          "contributorZip": "95835",
-          "amount": 2500
-        },
-        {
-          "filerName": "Eric Guerra for City Council 2015",
-          "fppcId": "1374232",
-          "contributorCommitteeId": "",
           "contributorFirstName": "",
           "contributorLastName": "Cresleigh Homes Corporation",
           "contributorCity": "San Francisco",
@@ -46921,6 +46921,30 @@
           "amount": 2500
         },
         {
+          "filerName": "Eric Guerra for City Council 2024",
+          "fppcId": "1431012",
+          "contributorCommitteeId": "782240",
+          "contributorFirstName": "",
+          "contributorLastName": "Committee for Home Ownership, Sponsored by North State Building Industry Association",
+          "contributorCity": "Granite Bay",
+          "contributorState": "CA",
+          "contributorType": "small-contributor-committee",
+          "contributorZip": "95746",
+          "amount": 2500
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2016",
+          "fppcId": "1376768",
+          "contributorCommitteeId": "",
+          "contributorFirstName": "Carol",
+          "contributorLastName": "Lokke",
+          "contributorCity": "Livermore",
+          "contributorState": "CA",
+          "contributorType": "individual",
+          "contributorZip": "94550",
+          "amount": 2400
+        },
+        {
           "filerName": "Eric Guerra for City Council 2016",
           "fppcId": "1368754",
           "contributorCommitteeId": "",
@@ -46933,16 +46957,16 @@
           "amount": 2350
         },
         {
-          "filerName": "Eric Guerra for City Council 2016",
-          "fppcId": "1376768",
+          "filerName": "Eric Guerra for City Council 2015",
+          "fppcId": "1374232",
           "contributorCommitteeId": "",
-          "contributorFirstName": "Carol",
-          "contributorLastName": "Lokke",
-          "contributorCity": "Livermore",
+          "contributorFirstName": "Marvin",
+          "contributorLastName": "Pineda",
+          "contributorCity": "Davis",
           "contributorState": "CA",
           "contributorType": "individual",
-          "contributorZip": "94550",
-          "amount": 2300
+          "contributorZip": "95616",
+          "amount": 2100
         },
         {
           "filerName": "Eric Guerra for City Council 2015",
@@ -47141,6 +47165,18 @@
           "fppcId": "1374232",
           "contributorCommitteeId": "",
           "contributorFirstName": "",
+          "contributorLastName": "The Gualco Group, Inc.",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "contributorType": "other",
+          "contributorZip": "95814",
+          "amount": 1948
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2015",
+          "fppcId": "1374232",
+          "contributorCommitteeId": "",
+          "contributorFirstName": "",
           "contributorLastName": "Teichert Inc.",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
@@ -47182,6 +47218,18 @@
           "contributorState": "CA",
           "contributorType": "individual",
           "contributorZip": "95833",
+          "amount": 1750
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2016",
+          "fppcId": "1376768",
+          "contributorCommitteeId": "",
+          "contributorFirstName": "Jose",
+          "contributorLastName": "Hermocillo",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "contributorType": "individual",
+          "contributorZip": "95818",
           "amount": 1750
         },
         {
@@ -47291,18 +47339,6 @@
           "contributorType": "other",
           "contributorZip": "21706",
           "amount": 1750
-        },
-        {
-          "filerName": "Eric Guerra for City Council 2015",
-          "fppcId": "1374232",
-          "contributorCommitteeId": "",
-          "contributorFirstName": "",
-          "contributorLastName": "The Gualco Group, Inc.",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "contributorType": "other",
-          "contributorZip": "95814",
-          "amount": 1699
         },
         {
           "filerName": "Eric Guerra for City Council 2016",
@@ -47893,15 +47929,27 @@
           "amount": 1350
         },
         {
-          "filerName": "Eric Guerra for City Council 2016",
-          "fppcId": "1376768",
+          "filerName": "Eric Guerra for City Council 2015",
+          "fppcId": "1374232",
           "contributorCommitteeId": "",
-          "contributorFirstName": "Jose",
-          "contributorLastName": "Hermocillo",
+          "contributorFirstName": "Melinda",
+          "contributorLastName": "Guzman",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
           "contributorType": "individual",
-          "contributorZip": "95818",
+          "contributorZip": "95825",
+          "amount": 1250
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2015",
+          "fppcId": "1374232",
+          "contributorCommitteeId": "",
+          "contributorFirstName": "James",
+          "contributorLastName": "DeBoo",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "contributorType": "individual",
+          "contributorZip": "95819",
           "amount": 1250
         },
         {
@@ -48232,18 +48280,6 @@
           "filerName": "Eric Guerra for City Council 2015",
           "fppcId": "1374232",
           "contributorCommitteeId": "",
-          "contributorFirstName": "Melinda",
-          "contributorLastName": "Guzman",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "contributorType": "individual",
-          "contributorZip": "95825",
-          "amount": 1000
-        },
-        {
-          "filerName": "Eric Guerra for City Council 2015",
-          "fppcId": "1374232",
-          "contributorCommitteeId": "",
           "contributorFirstName": "Michelle",
           "contributorLastName": "Brattmiller",
           "contributorCity": "Sacramento",
@@ -48496,6 +48532,18 @@
           "filerName": "Eric Guerra for City Council 2020",
           "fppcId": "1396274",
           "contributorCommitteeId": "",
+          "contributorFirstName": "Edward",
+          "contributorLastName": "Manning",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "contributorType": "individual",
+          "contributorZip": "95811",
+          "amount": 1000
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2020",
+          "fppcId": "1396274",
+          "contributorCommitteeId": "",
           "contributorFirstName": "",
           "contributorLastName": "T Street Ventures",
           "contributorCity": "Sacramento",
@@ -48610,6 +48658,54 @@
           "contributorState": "CA",
           "contributorType": "other",
           "contributorZip": "95814",
+          "amount": 1000
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2024",
+          "fppcId": "1431012",
+          "contributorCommitteeId": "",
+          "contributorFirstName": "",
+          "contributorLastName": "Atlas Disposal Industries, LLC",
+          "contributorCity": "Rancho Cordova",
+          "contributorState": "CA",
+          "contributorType": "other",
+          "contributorZip": "95670",
+          "amount": 1000
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2024",
+          "fppcId": "1431012",
+          "contributorCommitteeId": "",
+          "contributorFirstName": "Mark L.",
+          "contributorLastName": "Friedman",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "contributorType": "individual",
+          "contributorZip": "95864",
+          "amount": 1000
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2024",
+          "fppcId": "1431012",
+          "contributorCommitteeId": "",
+          "contributorFirstName": "Zachary",
+          "contributorLastName": "Castillo-Krings",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "contributorType": "individual",
+          "contributorZip": "95822",
+          "amount": 1000
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2024",
+          "fppcId": "1431012",
+          "contributorCommitteeId": "",
+          "contributorFirstName": "Alan",
+          "contributorLastName": "Fong",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "contributorType": "individual",
+          "contributorZip": "95818",
           "amount": 1000
         },
         {
@@ -48928,12 +49024,36 @@
           "filerName": "Eric Guerra for City Council 2020",
           "fppcId": "1396274",
           "contributorCommitteeId": "",
+          "contributorFirstName": "Patricia",
+          "contributorLastName": "Sturdevant",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "contributorType": "individual",
+          "contributorZip": "95818",
+          "amount": 700
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2020",
+          "fppcId": "1396274",
+          "contributorCommitteeId": "",
           "contributorFirstName": "",
           "contributorLastName": "8880 Elder Creek Holdings, LLC",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
           "contributorType": "other",
           "contributorZip": "95828",
+          "amount": 700
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2024",
+          "fppcId": "1431012",
+          "contributorCommitteeId": "",
+          "contributorFirstName": "",
+          "contributorLastName": "Nexstar Media, Inc.",
+          "contributorCity": "Irving",
+          "contributorState": "TX",
+          "contributorType": "other",
+          "contributorZip": "75039",
           "amount": 700
         },
         {
@@ -49045,18 +49165,6 @@
           "amount": 600
         },
         {
-          "filerName": "Eric Guerra for City Council 2015",
-          "fppcId": "1374232",
-          "contributorCommitteeId": "",
-          "contributorFirstName": "Marvin",
-          "contributorLastName": "Pineda",
-          "contributorCity": "Davis",
-          "contributorState": "CA",
-          "contributorType": "individual",
-          "contributorZip": "95616",
-          "amount": 600
-        },
-        {
           "filerName": "Eric Guerra for City Council 2016",
           "fppcId": "1376768",
           "contributorCommitteeId": "",
@@ -49066,6 +49174,18 @@
           "contributorState": "CA",
           "contributorType": "individual",
           "contributorZip": "95818",
+          "amount": 600
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2020",
+          "fppcId": "1396274",
+          "contributorCommitteeId": "",
+          "contributorFirstName": "Kelly",
+          "contributorLastName": "Burns",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "contributorType": "individual",
+          "contributorZip": "95820",
           "amount": 600
         },
         {
@@ -50044,18 +50164,6 @@
           "filerName": "Eric Guerra for City Council 2020",
           "fppcId": "1396274",
           "contributorCommitteeId": "",
-          "contributorFirstName": "Edward",
-          "contributorLastName": "Manning",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "contributorType": "individual",
-          "contributorZip": "95811",
-          "amount": 500
-        },
-        {
-          "filerName": "Eric Guerra for City Council 2020",
-          "fppcId": "1396274",
-          "contributorCommitteeId": "",
           "contributorFirstName": "",
           "contributorLastName": "Tequila Museo Mayahuel",
           "contributorCity": "Sacramento",
@@ -50380,24 +50488,72 @@
           "filerName": "Eric Guerra for City Council 2024",
           "fppcId": "1431012",
           "contributorCommitteeId": "",
-          "contributorFirstName": "",
-          "contributorLastName": "Atlas Disposal Industries, LLC",
-          "contributorCity": "Rancho Cordova",
-          "contributorState": "CA",
-          "contributorType": "other",
-          "contributorZip": "95670",
-          "amount": 500
-        },
-        {
-          "filerName": "Eric Guerra for City Council 2024",
-          "fppcId": "1431012",
-          "contributorCommitteeId": "",
           "contributorFirstName": "Peter",
           "contributorLastName": "Wallace",
           "contributorCity": "Washington",
           "contributorState": "DC",
           "contributorType": "individual",
           "contributorZip": "20007",
+          "amount": 500
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2024",
+          "fppcId": "1431012",
+          "contributorCommitteeId": "",
+          "contributorFirstName": "John",
+          "contributorLastName": "Polis",
+          "contributorCity": "Washington",
+          "contributorState": "DC",
+          "contributorType": "individual",
+          "contributorZip": "20007",
+          "amount": 500
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2024",
+          "fppcId": "1431012",
+          "contributorCommitteeId": "",
+          "contributorFirstName": "",
+          "contributorLastName": "Awin Management, Inc.",
+          "contributorCity": "Phoenix",
+          "contributorState": "AZ",
+          "contributorType": "other",
+          "contributorZip": "85054",
+          "amount": 500
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2024",
+          "fppcId": "1431012",
+          "contributorCommitteeId": "",
+          "contributorFirstName": "",
+          "contributorLastName": "GreenbergTraurig, LLP",
+          "contributorCity": "Doral",
+          "contributorState": "FL",
+          "contributorType": "other",
+          "contributorZip": "33166",
+          "amount": 500
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2024",
+          "fppcId": "1431012",
+          "contributorCommitteeId": "",
+          "contributorFirstName": "Lacy",
+          "contributorLastName": "Carter",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "contributorType": "individual",
+          "contributorZip": "95820",
+          "amount": 500
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2024",
+          "fppcId": "1431012",
+          "contributorCommitteeId": "",
+          "contributorFirstName": "Aaron",
+          "contributorLastName": "Zeff",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "contributorType": "individual",
+          "contributorZip": "95814",
           "amount": 500
         },
         {
@@ -50454,6 +50610,18 @@
           "contributorCommitteeId": "",
           "contributorFirstName": "Mandy",
           "contributorLastName": "Lee",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "contributorType": "individual",
+          "contributorZip": "95819",
+          "amount": 450
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2015",
+          "fppcId": "1374232",
+          "contributorCommitteeId": "",
+          "contributorFirstName": "Howard",
+          "contributorLastName": "Posner",
           "contributorCity": "Sacramento",
           "contributorState": "CA",
           "contributorType": "individual",
@@ -50737,18 +50905,6 @@
           "amount": 400
         },
         {
-          "filerName": "Eric Guerra for City Council 2020",
-          "fppcId": "1396274",
-          "contributorCommitteeId": "",
-          "contributorFirstName": "Kelly",
-          "contributorLastName": "Burns",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "contributorType": "individual",
-          "contributorZip": "95820",
-          "amount": 400
-        },
-        {
           "filerName": "Eric Guerra for City Council 2015",
           "fppcId": "1374232",
           "contributorCommitteeId": "",
@@ -50758,18 +50914,6 @@
           "contributorState": "CA",
           "contributorType": "other",
           "contributorZip": "95825",
-          "amount": 350
-        },
-        {
-          "filerName": "Eric Guerra for City Council 2015",
-          "fppcId": "1374232",
-          "contributorCommitteeId": "",
-          "contributorFirstName": "Howard",
-          "contributorLastName": "Posner",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "contributorType": "individual",
-          "contributorZip": "95819",
           "amount": 350
         },
         {
@@ -50843,6 +50987,18 @@
           "contributorType": "individual",
           "contributorZip": "95834",
           "amount": 350
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2020",
+          "fppcId": "1396274",
+          "contributorCommitteeId": "",
+          "contributorFirstName": "Lisa",
+          "contributorLastName": "Maas",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "contributorType": "individual",
+          "contributorZip": "95831",
+          "amount": 349
         },
         {
           "filerName": "Eric Guerra for City Council 2016",
@@ -51664,18 +51820,6 @@
           "filerName": "Eric Guerra for City Council 2015",
           "fppcId": "1374232",
           "contributorCommitteeId": "",
-          "contributorFirstName": "James",
-          "contributorLastName": "DeBoo",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "contributorType": "individual",
-          "contributorZip": "95819",
-          "amount": 250
-        },
-        {
-          "filerName": "Eric Guerra for City Council 2015",
-          "fppcId": "1374232",
-          "contributorCommitteeId": "",
           "contributorFirstName": "Ryan",
           "contributorLastName": "Fong",
           "contributorCity": "Sacramento",
@@ -52249,6 +52393,66 @@
           "amount": 250
         },
         {
+          "filerName": "Eric Guerra for City Council 2024",
+          "fppcId": "1431012",
+          "contributorCommitteeId": "",
+          "contributorFirstName": "Martin",
+          "contributorLastName": "Radosevich",
+          "contributorCity": "West Sacramento",
+          "contributorState": "CA",
+          "contributorType": "individual",
+          "contributorZip": "95691",
+          "amount": 250
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2024",
+          "fppcId": "1431012",
+          "contributorCommitteeId": "",
+          "contributorFirstName": "James",
+          "contributorLastName": "Houston",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "contributorType": "individual",
+          "contributorZip": "95831",
+          "amount": 250
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2024",
+          "fppcId": "1431012",
+          "contributorCommitteeId": "",
+          "contributorFirstName": "Eden",
+          "contributorLastName": "Chia",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "contributorType": "individual",
+          "contributorZip": "95818",
+          "amount": 250
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2024",
+          "fppcId": "1431012",
+          "contributorCommitteeId": "",
+          "contributorFirstName": "Amy",
+          "contributorLastName": "Brown",
+          "contributorCity": "Carmichael",
+          "contributorState": "CA",
+          "contributorType": "individual",
+          "contributorZip": "95608",
+          "amount": 250
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2024",
+          "fppcId": "1431012",
+          "contributorCommitteeId": "",
+          "contributorFirstName": "Joseph",
+          "contributorLastName": "Devlin",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "contributorType": "individual",
+          "contributorZip": "95818",
+          "amount": 250
+        },
+        {
           "filerName": "Eric Guerra for City Council 2016",
           "fppcId": "1376768",
           "contributorCommitteeId": "",
@@ -52258,6 +52462,54 @@
           "contributorState": "CA",
           "contributorType": "other",
           "contributorZip": "95814",
+          "amount": 249
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2024",
+          "fppcId": "1431012",
+          "contributorCommitteeId": "",
+          "contributorFirstName": "William W.",
+          "contributorLastName": "Abbott",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "contributorType": "individual",
+          "contributorZip": "95818",
+          "amount": 249
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2024",
+          "fppcId": "1431012",
+          "contributorCommitteeId": "",
+          "contributorFirstName": "Tina",
+          "contributorLastName": "Thomas",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "contributorType": "individual",
+          "contributorZip": "95818",
+          "amount": 249
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2024",
+          "fppcId": "1431012",
+          "contributorCommitteeId": "",
+          "contributorFirstName": "Michael J.",
+          "contributorLastName": "Newell",
+          "contributorCity": "Davis",
+          "contributorState": "CA",
+          "contributorType": "individual",
+          "contributorZip": "95618",
+          "amount": 249
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2024",
+          "fppcId": "1431012",
+          "contributorCommitteeId": "",
+          "contributorFirstName": "",
+          "contributorLastName": "Jackson Properties, Inc.",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "contributorType": "other",
+          "contributorZip": "95825",
           "amount": 249
         },
         {
@@ -53440,18 +53692,6 @@
           "filerName": "Eric Guerra for City Council 2020",
           "fppcId": "1396274",
           "contributorCommitteeId": "",
-          "contributorFirstName": "Patricia",
-          "contributorLastName": "Sturdevant",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "contributorType": "individual",
-          "contributorZip": "95818",
-          "amount": 200
-        },
-        {
-          "filerName": "Eric Guerra for City Council 2020",
-          "fppcId": "1396274",
-          "contributorCommitteeId": "",
           "contributorFirstName": "Ann",
           "contributorLastName": "Shimasaki",
           "contributorCity": "Sacramento",
@@ -53542,6 +53782,30 @@
           "contributorState": "OR",
           "contributorType": "individual",
           "contributorZip": "97702",
+          "amount": 200
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2024",
+          "fppcId": "1431012",
+          "contributorCommitteeId": "",
+          "contributorFirstName": "Julie",
+          "contributorLastName": "Hawkins",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "contributorType": "individual",
+          "contributorZip": "95818",
+          "amount": 200
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2024",
+          "fppcId": "1431012",
+          "contributorCommitteeId": "",
+          "contributorFirstName": "Donna",
+          "contributorLastName": "Kaylor",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "contributorType": "individual",
+          "contributorZip": "95818",
           "amount": 200
         },
         {
@@ -53854,6 +54118,18 @@
           "contributorState": "CA",
           "contributorType": "individual",
           "contributorZip": "95814",
+          "amount": 150
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2024",
+          "fppcId": "1431012",
+          "contributorCommitteeId": "",
+          "contributorFirstName": "Francine",
+          "contributorLastName": "Mata",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "contributorType": "individual",
+          "contributorZip": "95828",
           "amount": 150
         },
         {
@@ -55876,18 +56152,6 @@
           "filerName": "Eric Guerra for City Council 2020",
           "fppcId": "1396274",
           "contributorCommitteeId": "",
-          "contributorFirstName": "Lisa",
-          "contributorLastName": "Maas",
-          "contributorCity": "Sacramento",
-          "contributorState": "CA",
-          "contributorType": "individual",
-          "contributorZip": "95831",
-          "amount": 100
-        },
-        {
-          "filerName": "Eric Guerra for City Council 2020",
-          "fppcId": "1396274",
-          "contributorCommitteeId": "",
           "contributorFirstName": "Diane",
           "contributorLastName": "Kindermann",
           "contributorCity": "Sacramento",
@@ -56182,6 +56446,198 @@
           "contributorState": "CA",
           "contributorType": "other",
           "contributorZip": "95819",
+          "amount": 100
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2024",
+          "fppcId": "1431012",
+          "contributorCommitteeId": "",
+          "contributorFirstName": "Sylvia",
+          "contributorLastName": "Crockett",
+          "contributorCity": "Elk Grove",
+          "contributorState": "CA",
+          "contributorType": "individual",
+          "contributorZip": "95758",
+          "amount": 100
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2024",
+          "fppcId": "1431012",
+          "contributorCommitteeId": "",
+          "contributorFirstName": "Evan",
+          "contributorLastName": "McLaughlin",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "contributorType": "individual",
+          "contributorZip": "95819",
+          "amount": 100
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2024",
+          "fppcId": "1431012",
+          "contributorCommitteeId": "",
+          "contributorFirstName": "Lisa",
+          "contributorLastName": "Murawski",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "contributorType": "individual",
+          "contributorZip": "95822",
+          "amount": 100
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2024",
+          "fppcId": "1431012",
+          "contributorCommitteeId": "",
+          "contributorFirstName": "Susie",
+          "contributorLastName": "Wong",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "contributorType": "individual",
+          "contributorZip": "95814",
+          "amount": 100
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2024",
+          "fppcId": "1431012",
+          "contributorCommitteeId": "",
+          "contributorFirstName": "Frank C.",
+          "contributorLastName": "Lemus",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "contributorType": "individual",
+          "contributorZip": "95831",
+          "amount": 100
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2024",
+          "fppcId": "1431012",
+          "contributorCommitteeId": "",
+          "contributorFirstName": "Larry",
+          "contributorLastName": "Shaeffer",
+          "contributorCity": "Cotati",
+          "contributorState": "CA",
+          "contributorType": "individual",
+          "contributorZip": "94931",
+          "amount": 100
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2024",
+          "fppcId": "1431012",
+          "contributorCommitteeId": "",
+          "contributorFirstName": "Rob",
+          "contributorLastName": "Wilcox",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "contributorType": "individual",
+          "contributorZip": "95814",
+          "amount": 100
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2024",
+          "fppcId": "1431012",
+          "contributorCommitteeId": "",
+          "contributorFirstName": "Dale E.",
+          "contributorLastName": "Dodson",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "contributorType": "individual",
+          "contributorZip": "95817",
+          "amount": 100
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2024",
+          "fppcId": "1431012",
+          "contributorCommitteeId": "",
+          "contributorFirstName": "Tyler",
+          "contributorLastName": "Aguilar",
+          "contributorCity": "Folsom",
+          "contributorState": "CA",
+          "contributorType": "individual",
+          "contributorZip": "95630",
+          "amount": 100
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2024",
+          "fppcId": "1431012",
+          "contributorCommitteeId": "",
+          "contributorFirstName": "Brian",
+          "contributorLastName": "Petersen",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "contributorType": "individual",
+          "contributorZip": "95826",
+          "amount": 100
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2024",
+          "fppcId": "1431012",
+          "contributorCommitteeId": "",
+          "contributorFirstName": "Mark",
+          "contributorLastName": "Farouk",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "contributorType": "individual",
+          "contributorZip": "95820",
+          "amount": 100
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2024",
+          "fppcId": "1431012",
+          "contributorCommitteeId": "",
+          "contributorFirstName": "Steve",
+          "contributorLastName": "Hansen",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "contributorType": "individual",
+          "contributorZip": "95833",
+          "amount": 100
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2024",
+          "fppcId": "1431012",
+          "contributorCommitteeId": "",
+          "contributorFirstName": "Eric",
+          "contributorLastName": "Stein",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "contributorType": "individual",
+          "contributorZip": "95835",
+          "amount": 100
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2024",
+          "fppcId": "1431012",
+          "contributorCommitteeId": "",
+          "contributorFirstName": "Maya",
+          "contributorLastName": "Wallace",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "contributorType": "individual",
+          "contributorZip": "95811",
+          "amount": 100
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2024",
+          "fppcId": "1431012",
+          "contributorCommitteeId": "",
+          "contributorFirstName": "Larry",
+          "contributorLastName": "Johnson",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "contributorType": "individual",
+          "contributorZip": "95820",
+          "amount": 100
+        },
+        {
+          "filerName": "Eric Guerra for City Council 2024",
+          "fppcId": "1431012",
+          "contributorCommitteeId": "",
+          "contributorFirstName": "Issac",
+          "contributorLastName": "Gonzalez",
+          "contributorCity": "Sacramento",
+          "contributorState": "CA",
+          "contributorType": "individual",
+          "contributorZip": "95817",
           "amount": 100
         },
         {
